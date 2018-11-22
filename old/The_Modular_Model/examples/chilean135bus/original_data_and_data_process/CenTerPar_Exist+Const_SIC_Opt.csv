@@ -1,0 +1,315 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenEmiFMDL,CenEmiFDpz,CenEmiDpz [tCO2e/GWh],CenFERNC,CenUbc,CenBar,CenFDua,CenDua,CenPotMax,CenPotMin,CenKxxx/kWh,CenCosVar,CenCosTrp,CenRenTer,CenCosOpe,CenDisEne,CenEtaCVar,CenEtaCTrp,CenConPro%,CenFInv,CenFecInv,CenVI,CenCOMA,CenVidUti,CenEtaCOMA,CenEmp,CenCmr,CenAux
+1000,Tal Tal Eólico,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,98.44758,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1001,Lalackama,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,55,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,ELÉCTRICA PANGUIPULLI,ELÉCTRICA PANGUIPULLI,Solar
+1002,Lalackama 2,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,16.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,ELÉCTRICA PANGUIPULLI,ELÉCTRICA PANGUIPULLI,Solar
+1003,Diego de Almagro TG,T,*,*,F,T,1064,F,SIC,Diego de Almagro 220,F,*,23.6691,0,0.1848,596.093,0,0.337,6.63,0.95,Diego de Almagro Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+1004,San Lorenzo 01,T,*,*,F,T,713,F,SIC,Diego de Almagro 220,F,*,28.4145,0,0.376,593.313,0,0.342,24.1,0.979,San Lorenzo 1 Diesel,*,0,F,*,0,0,24,*,Energia Latina,Energia Latina,Petróleo Diesel
+1005,San Lorenzo 02,T,*,*,F,T,713,F,SIC,Diego de Almagro 220,F,*,25.922,0,0.376,593.313,0,0.3804,24.1,0.979,San Lorenzo 2 Diesel,*,0,F,*,0,0,24,*,Energia Latina,Energia Latina,Petróleo Diesel
+1006,San Lorenzo 03,T,*,*,F,T,713,F,SIC,Diego de Almagro 220,F,*,7.6769,0,0.376,593.313,0,0.289,22.8,0.979,San Lorenzo 3 Diesel,*,0,F,*,0,0,24,*,Energia Latina,Energia Latina,Petróleo Diesel
+1007,Emelda 01,T,*,*,F,T,713,F,SIC,Diego de Almagro 220,F,*,33.01725,0,0.376,616.635,0,0.292,14.5,0.95,Emelda Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1008,Emelda 02,T,*,*,F,T,713,F,SIC,Diego de Almagro 220,F,*,35.712,0,0.376,616.635,0,0.314,14.5,0.95,Emelda Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1009,El Salvador TG,T,*,*,F,T,2356,F,SIC,Diego de Almagro 220,F,*,23.6691,0,0.937,598.358,0,0.337,45.26,0.95,Salvador TG Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+1010,Diego de Almagro FV,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,28.1,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1011,San Andres FV,T,*,*,F,F,0,T,SIC,Cardones 220,F,*,50.6,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1012,Llano de Llampos FV,T,*,*,F,F,0,T,SIC,Cardones 220,F,*,101.02,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1013,Cardones,T,*,*,F,T,757,F,SIC,Cardones 220,F,*,152.2748,0,0.239785,605.543,0,0.239,24.41,0.979,Cardones Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1014,Cenizas,T,*,*,F,T,645,F,SIC,Cardones 220,F,*,13.9,0,0.233,427.1,0,0.2303,13.811,0.95,Cenizas IFO,*,0,F,*,0,0,24,*,MINERA LAS CENIZAS,MINERA LAS CENIZAS,Petróleo Diesel
+1015,Termopacífico,T,*,*,F,T,757,F,SIC,Cardones 220,F,*,86.05755,0,0.239785,612.802,0,0.225,24.22,0.95,Termo Pacífico Diesel,*,0,F,*,0,0,24,*,Termopacífico,Termopacífico,Petróleo Diesel
+1016,Guacolda 01,T,*,*,F,T,905,F,SIC,Maitencillo 220,F,*,142.88,0,0.36,96.529,0,0.396,1,0.979,Guacolda 01,*,0,F,*,0,0,24,*,GUACOLDA,GUACOLDA,Carbón
+1017,Guacolda 02,T,*,*,F,T,905,F,SIC,Maitencillo 220,F,*,142.88,0,0.36,99.141,0,0.397,1,0.979,Guacolda 02,*,0,F,*,0,0,24,*,GUACOLDA,GUACOLDA,Carbón
+1018,Guacolda 03,T,*,*,F,T,945,F,SIC,Maitencillo 220,F,*,137.104,0,0.376,88.005,0,0.382,2.1,0.979,Guacolda 03,*,0,F,*,0,0,24,*,GUACOLDA,GUACOLDA,Carbón
+1019,Guacolda 04,T,*,*,F,T,945,F,SIC,Maitencillo 220,F,*,139.08,0,0.376,95.997,0,0.384,2,0.979,Guacolda 04,*,0,F,*,0,0,24,*,Guacolda S.A.,Guacolda S.A.,Carbón
+1020,Huasco TG,T,*,*,F,T,1143,F,SIC,Maitencillo 220,F,*,57.681,0,0.362,586.903,0,0.348,7.86,0.64,Huasco TG Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+1021,Salvador FV,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,68,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1022,Guacolda 05,T,*,*,F,T,945,F,SIC,Maitencillo 220,F,*,131.7,0,0.376,96.204,0,0.384,2,0.979,Guacolda 05,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Carbón
+1023,Chañares,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,34.94,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1024,Javiera,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,65,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1025,Solar Esperanza,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,2.8656,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1026,Solar Las Terrazas,T,*,*,F,F,0,T,SIC,Cardones 220,F,*,2.99,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1027,Trebal Mapocho,T,*,*,F,F,1143,T,SIC,Alto Jahuel 220,F,*,8.226,0,1,0,0,1,15,0.979,Trebal,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1028,Solar Hornitos,T,*,*,F,F,0,T,SIC,Cardones 220,F,*,0.318467159,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1029,Solar Santa Cecilia,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,2.9452,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1030,Casas Blancas FV,T,*,*,F,F,0,T,SIC,Los Vilos 220,F,*,1.99,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1031,Lomas Coloradas FV,T,*,*,F,F,0,T,SIC,Los Vilos 220,F,*,1.99,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1032,El Peñón,T,*,*,F,T,713,F,SIC,Pan de Azucar 220,F,*,80.838,0,0.376,572.814,0,0.2193,28,0.979,El Peñón Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1033,El Arrayán,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,114.9885,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1034,Punta Colorada 01 Fuel,T,*,*,F,T,1143,F,SIC,Punta Colorada 220,F,*,16.609,0,0.233,428.191,0,0.219,28.9,0.95,Punta Colorada Diesel,*,0,F,*,0,0,24,*,Barrick,Barrick,Petróleo Diesel
+1035,Eolica Punta Colorada,T,*,*,F,F,0,T,SIC,Punta Colorada 220,F,*,19.998,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Barrick,Barrick,Eolica
+1036,Eolica Canela 01,T,*,*,F,F,0,T,SIC,Las Palmas 220,F,*,17.9685,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Endesa-Eco,Endesa-Eco,Eolica
+1037,Eolica Canela 02,T,*,*,F,F,0,T,SIC,Las Palmas 220,F,*,59.4,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Endesa-Eco,Endesa-Eco,Eolica
+1038,Monte Redondo,T,*,*,F,F,0,T,SIC,Las Palmas 220,F,*,47.52,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1039,Eolica Totoral,T,*,*,F,F,0,T,SIC,Las Palmas 220,F,*,45.54,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,SN Power,SN Power,Eolica
+1040,Los Cururos,T,*,*,F,F,0,T,SIC,Las Palmas 220,F,*,109.58904,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1041,Espinos 01,T,*,*,F,T,713,F,SIC,Los Vilos 220,F,*,100,0,0.376,608.619,0,0.221,26.4,0.95,Espinos Diesel,*,0,F,*,0,0,24,*,Termoelectrica Los Espinos,Termoelectrica Los Espinos,Petróleo Diesel
+1042,Espinos 02,T,*,*,F,T,713,F,SIC,Los Vilos 220,F,*,24,0,0.376,608.619,0,0.221,67.8,0.95,Espinos Diesel,*,0,F,*,0,0,24,*,Termoelectrica Los Espinos,Termoelectrica Los Espinos,Petróleo Diesel
+1043,Olivos 01,T,*,*,F,T,3158,F,SIC,Los Vilos 220,F,*,93,0,1,608.608,0,0.231,30.4,0.95,Olivos Diesel,*,0,F,*,0,0,24,*,POTENCIA S.A.,POTENCIA S.A.,Petróleo Diesel
+1044,Olivos 02,T,*,*,F,T,3158,F,SIC,Los Vilos 220,F,*,22.2,0,1,608.608,0,0.231,69.7,0.95,Olivos Diesel,*,0,F,*,0,0,24,*,POTENCIA S.A.,POTENCIA S.A.,Petróleo Diesel
+1045,Talinay Oriente,T,*,*,F,F,0,T,SIC,Las Palmas 220,F,*,89.991,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1046,Punta Palmeras,T,*,*,F,F,0,T,SIC,Las Palmas 220,F,*,44.7489,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1047,Talinay Poniente,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,60.261852,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1048,Monte Patria,T,*,*,F,T,3158,F,SIC,Los Vilos 220,F,*,9,0,1,369.067,0,0.231,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1049,Punitaqui,T,*,*,F,T,3158,F,SIC,Los Vilos 220,F,*,9,0,1,369.067,0,0.231,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1050,Tambo Real,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,2.926388889,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1051,SDGx01,T,*,*,F,F,0,T,SIC,Los Vilos 220,F,*,1.25,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1052,Los Vientos,T,*,*,F,T,805,F,SIC,Las Vegas 110,F,*,131.34,0,0.255,613.956,0,0.267,2.95,0.979,Los Vientos TG Diesel,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Petróleo Diesel
+1053,Las Vegas,T,*,*,F,T,855,F,SIC,Las Vegas 110,F,*,2.09895,0,0.271,587.787,0,0.2414,32.845,0.95,Las Vegas Diesel,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1054,Ventanas 01,T,*,*,F,T,1043,F,SIC,Nogales 220,F,*,113.4,0,0.415,108.546,0,0.415,2.18,0.931,Ventanas 1,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Carbón
+1055,Ventanas 02,T,*,*,F,T,998,F,SIC,Nogales 220,F,*,208.56,0,0.397,110.815,0,0.397,1.38,0.979,Ventanas 2,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Carbón
+1056,Campiche,T,*,*,F,T,945,F,SIC,Nogales 220,F,*,248.9888,0,0.375,102.323,0,0.38,5.55,0.979,Campiche,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Carbón
+1057,Los Colorados 01,T,*,*,F,F,1143,T,SIC,Polpaico 220,F,*,2,0,1,0,0,1.6543,11.57,0.967,Loma Los Colorados,*,0,F,*,0,0,24,*,KDM,KDM,Biomasa
+1058,Los Colorados 02,T,*,*,F,F,1143,T,SIC,Polpaico 220,F,*,18.2,0,1,0,0,2.33,10.25,0.967,Loma Los Colorados,*,0,F,*,0,0,24,*,KDM,KDM,Biomasa
+1059,Con Con,T,*,*,F,T,845,F,SIC,Quillota 110,F,*,2.3,0,0.268,583.716,0,0.2414,35.199,0.95,Con Con Diesel,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1060,Nueva Ventanas,T,*,*,F,T,945,F,SIC,Nogales 220,F,*,248.9888,0,0.376,101.169,0,0.38,5.55,0.979,Nueva Ventanas,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Carbón
+1061,Colmito GNL TP,T,*,MesAbr-2016,F,T,823,F,SIC,San Luis 220,F,*,57.71,0,0.239785,0,0,0.263412,10.2,0.95,Colmito GNL ToP,*,0,F,*,0,0,24,*,HIDROELECTRICA LA HIGUERA,HIDROELECTRICA LA HIGUERA,GNL
+1062,Colmito GNL ,T,*,MesMar-2018,F,T,823,F,SIC,San Luis 220,F,*,57.71,0,0.239785,322.878,0,0.263412,10.2,0.95,Colmito GNL,*,0,F,*,0,0,24,*,HIDROELECTRICA LA HIGUERA,HIDROELECTRICA LA HIGUERA,GNL
+1063,Colmito Diesel,T,MesMay-2016,*,F,T,823,F,SIC,San Luis 220,F,*,57.71,0,0.239785,594.465,0,0.24828,14.3,0.95,Colmito Diesel,*,0,F,*,0,0,24,*,HIDROELECTRICA LA HIGUERA,HIDROELECTRICA LA HIGUERA,Petróleo Diesel
+1064,Laguna Verde,T,*,*,F,T,2137,F,SIC,Agua Santa 110,F,*,45.12,0,0.85,589.815,0,0.412,7.86,0.5,Laguna Verde Diesel,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Petróleo Diesel
+1065,Laguna Verde TG,T,*,*,F,T,834,F,SIC,Agua Santa 110,F,*,17.919,0,0.264,589.815,0,0.264,11.42,0.95,Laguna Verde Diesel,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Petróleo Diesel
+1066,Placilla,T,*,*,F,T,2137,F,SIC,Agua Santa 110,F,*,3,0,0.85,584.474,0,0.2363,29.35,0.95,Placilla Diesel,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1067,Quintay,T,*,*,F,T,2137,F,SIC,Agua Santa 110,F,*,3,0,0.85,586.713,0,0.2363,29.979,0.95,Quintay Diesel,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1068,Totoral,T,*,*,F,T,2137,F,SIC,Agua Santa 110,F,*,3,0,0.85,588.761,0,0.2363,34.591,0.95,El Totoral Diesel,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1069,Tomaval 1,T,*,*,F,T,2137,F,SIC,Las Vegas 110,F,*,1,0,0.85,369.067,0,0.322426786,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1070,Casablanca 1,T,*,*,F,T,2137,F,SIC,Agua Santa 110,F,*,1.6,0,0.85,369.067,0,0.231494414,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1071,Casablanca 2,T,*,*,F,T,2137,F,SIC,Agua Santa 110,F,*,0.9,0,0.85,369.067,0,0.231494414,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1072,Tapihue,T,*,*,F,T,868,F,SIC,San Luis 220,F,*,6.4,0,0.275,280.131,0,0.293,25.2,0.979,GNL,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1073,Bio Cruz,T,*,*,F,T,868,F,SIC,Las Vegas 110,F,*,1.8,0,0.275,369.067,0,0.3365,3.87,0.979,Bio Cruz,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1074,Tomaval 2,T,*,*,F,T,868,F,SIC,Las Vegas 110,F,*,1.6,0,0.275,369.067,0,0.322426786,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1075,Renca,T,*,*,F,T,1153,F,SIC,Cerro Navia 110,F,*,92,0,0.365,591.915,0,0.365,3.64,0.89,Renca Diesel,*,0,F,*,0,0,24,*,ELÉCTRICA SANTIAGO,ELÉCTRICA SANTIAGO,Petróleo Diesel
+1076,Ucuquer II Eólico,T,*,*,F,F,0,T,SIC,Melipilla 220,F,*,10.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1077,Santa Marta 01,T,*,*,F,F,1143,T,SIC,Alto Jahuel 220,F,*,13.499988,0,1,0,0,518,15,0.967,Santa Marta,*,0,F,*,0,0,24,*,SANTA MARTA,SANTA MARTA,Biomasa
+1078,Santa Marta 02,T,*,*,F,F,1143,T,SIC,Alto Jahuel 220,F,*,3.932,0,1,0,0,518,15,0.967,Santa Marta,*,0,F,*,0,0,24,*,SANTA MARTA,SANTA MARTA,Biomasa
+1079,Esperanza 01,T,*,*,F,T,1283,F,SIC,Itahue 154,F,*,18.612,0,0.406,642.791,0,0.34,9.1,0.95,Esperanza TG Diesel,*,0,F,*,0,0,24,*,ENOR CHILE,ENOR CHILE,Petróleo Diesel
+1080,Esperanza 02,T,*,*,F,T,821,F,SIC,Itahue 154,F,*,1.593733333,0,0.26,646.368,0,0.225,28.2,0.95,Esperanza DS Diesel,*,0,F,*,0,0,24,*,ENOR CHILE,ENOR CHILE,Petróleo Diesel
+1081,Esperanza 03,T,*,*,F,T,851,F,SIC,Itahue 154,F,*,1.791,0,0.26944,646.368,0,0.222,25.7,0.95,Esperanza DS Diesel,*,0,F,*,0,0,24,*,ENOR CHILE,ENOR CHILE,Petróleo Diesel
+1082,Colihues,T,*,*,F,T,757,F,SIC,Itahue 154,F,*,21.175,0,1,378.151,0,0.214,22.18,0.95,Colihues HFO,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1083,Estancilla,T,*,*,F,T,1153,F,SIC,Alto Jahuel 220,F,*,3,0,0.365,369.067,0,0.228,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1084,Techos de Altamira,T,*,*,F,F,0,T,SIC,Polpaico 220,F,*,0.15,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1085,Tamm,T,*,*,F,F,1143,T,SIC,Itahue 154,F,*,0.18145,0,1,0,0,1,15,0.979,Tamm,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1086,Las Pampas,T,*,*,F,F,1143,T,SIC,Alto Jahuel 220,F,*,0.37,0,1,0,0,1,15,0.979,Las Pampas,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1087,Santa Irene,T,*,*,F,F,1143,T,SIC,Itahue 154,F,*,0.37,0,1,0,0,1,15,0.979,Santa Irene,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1088,San Francisco TG,F,*,*,F,T,976,F,SIC,Itahue 154,F,*,25.547599,0,0.309,616.635,0,0.309,1,0.95,Emelda Diesel,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Petróleo Diesel
+1089,Energía Pacífico,T,*,*,F,F,1143,T,SIC,Itahue 154,F,*,14.3052,0,1,31.815,0,1.5625,9.83,0.967,Energía Pacífico,*,0,F,*,0,0,24,*,ENERGIA PACIFICO S.A.,ENERGIA PACIFICO S.A.,Desechos Forestales
+1090,Newen,T,*,*,F,T,715,F,SIC,Charrua 220,F,*,13.65504202,0,0.226,945.501,0,0.28675,7.49,0.95,Newén Diesel,*,0,F,*,0,0,24,*,Gassur,Gassur,Petróleo Diesel
+1091,Curauma,T,*,*,F,T,2137,F,SIC,Agua Santa 110,F,*,2.5,0,0.85,369.067,0,0.231494414,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1092,Ucuquer I,T,*,*,F,F,0,T,SIC,Melipilla 220,F,*,7.1,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1093,Teno,T,*,*,F,T,713,F,SIC,Itahue 154,F,*,58.882,0,0.376,598.773,0,0.2193,28,0.979,Teno Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1094,Cementos Bio Bio,T,*,*,F,T,757,F,SIC,Itahue 154,F,*,13.532,0,1,376.502,0,0.218,16.71,0.95,Cementos Bio Bio FO6,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1095,Maule,T,*,*,F,T,940,F,SIC,Itahue 154,F,*,6,0,0.2976,658.584,0,0.281746032,39.27,0.95,Maule Diesel,*,0,F,*,0,0,24,*,CEN,CEN,Petróleo Diesel
+1096,Celco 01,T,*,*,F,F,1143,F,SIC,Itahue 154,F,*,3,0,1,4.5,0,5.44,1.9,0.967,Celco 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1097,Celco 02,T,*,*,F,F,1143,F,SIC,Itahue 154,F,*,2,0,1,4.5,0,5.44,1.9,0.967,Celco 02,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1098,Celco 03,T,*,*,F,F,1143,F,SIC,Itahue 154,F,*,3,0,1,395.411,0,0.31,1.9,0.967,Celco 03,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1099,Constitución Elektragen,T,*,*,F,T,940,F,SIC,Itahue 154,F,*,9,0,0.2976,658.584,0,0.281746032,39.27,0.95,Elektragen Diesel,*,0,F,*,0,0,24,*,ELEKTRAGEN GENERACIÓN,ELEKTRAGEN GENERACIÓN,Petróleo Diesel
+1100,licanten 00,T,*,*,F,F,1143,T,SIC,Itahue 154,F,*,5.905346525,0,1,6.4,0,6.06,1.9,0.984224421,Licanten 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1101,licanten 01,F,*,*,F,F,1143,T,SIC,Itahue 154,F,*,5.905346525,0,1,6.4,0,6.06,1.9,0.984224421,Licanten 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1102,Linares,T,*,*,F,T,691,F,SIC,Itahue 154,F,*,0.5,0,0.2187,602.413,0,0.22355,45.591,0.95,Linares Diesel,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1103,San Gregorio,T,*,*,F,T,691,F,SIC,Itahue 154,F,*,0.5,0,0.2187,602.413,0,0.22355,45.591,0.95,San Gregorio Diesel,*,0,F,*,0,0,24,*,TECNORED,TECNORED,Petróleo Diesel
+1104,Viñales 01,T,*,*,F,F,1143,T,SIC,Itahue 154,F,*,6,0,1,0.389,0,5.48,0,0.967,Viñales 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1105,Viñales 02,T,*,*,F,F,1143,T,SIC,Itahue 154,F,*,10,0,1,4.033,0,5.48,4.1,0.967,Viñales 02,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1106,Viñales 03,T,*,*,F,F,1143,T,SIC,Itahue 154,F,*,6,0,1,45,0,1,0,0.967,Viñales 03,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1107,Curicó,T,*,*,F,T,945,F,SIC,Itahue 154,F,*,2,0,0.376,76.099,0,0.979,0,0.979,Carbón CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Carbón
+1108,Constitucion,F,*,MesNov-2012,F,F,1143,T,SIC,Itahue 154,F,*,7,0,1,0,0,1,0,0.967,*,*,0,F,*,0,0,24,*,ENERGÍA VERDE,ENERGÍA VERDE,Desechos Forestales
+1109,Nueva Aldea 01,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,14,0,1,3.5,0,5.65,5,0.967,Nueva Aldea 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1110,Nueva Aldea 02 Diesel,F,*,*,F,T,979,F,SIC,Charrua 220,F,*,10,0,0.31,603.682,0,0.286,12,0.967,Nueva Aldea 02,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Petróleo Diesel
+1111,Nueva Aldea 03,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,37,0,1,0,0,1.33,0,0.967,Nueva Aldea 03,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Licor Negro-Petróleo N°6
+1112,Yungay 01 Diesel,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,52.399,0,0.2607,708.572,0,0.28,22.7,0.95,Yungay Diesel,*,0,F,*,0,0,24,*,Campanario,Campanario,Petróleo Diesel
+1113,Yungay 02 Diesel,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,52.092,0,0.2607,708.572,0,0.252,22.7,0.95,Yungay Diesel,*,0,F,*,0,0,24,*,Campanario,Campanario,Petróleo Diesel
+1114,Yungay 03 Diesel,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,52.399,0,0.2607,708.572,0,0.28,22.7,0.95,Yungay Diesel,*,0,F,*,0,0,24,*,Campanario,Campanario,Petróleo Diesel
+1115,Yungay 04 Diesel,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,40.99697543,0,0.376,708.572,0,0.297,57.8,0.999068493,Yungay Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1116,Yungay 04 CC Diesel,F,MesEne-2014,*,F,T,713,F,SIC,Charrua 220,F,*,40.99697543,0,0.376,708.572,0,0.297,57.8,0.999068493,Yungay Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1117,cholguan 00,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,9,0,1,6.844,0,5.78,2.7,0.967,Cholguan 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Petróleo N°6
+1118,cholguan 01,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,4,0,1,551.6,0,0.32,2.7,0.967,Cholguan 02,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Petróleo N°6
+1119,Los Pinos,T,*,*,F,T,823,F,SIC,Los Vilos 220,F,*,102.839478,0,0.20412,492.657,0,0.1945944,4.5,0.95,Los Pinos Diesel,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+1120,Santa Lidia,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,137.61,0,0.376,620.619,0,0.264,3.53,0.979,Santa Lidia Diesel,*,0,F,*,0,0,24,*,AES GENER,AES GENER,Petróleo Diesel
+1121,Santa Fe 01,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,17.02,0,1,5.41,0,2.03,5,0.967,Santa Fe 01,*,0,F,*,0,0,24,*,CMPC,CMPC,Biomasa
+1122,Santa Fe 02,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,16.83,0,1,13.82,0,1.8,5,0.967,Santa Fe 02,*,0,F,*,0,0,24,*,CMPC,CMPC,Biomasa
+1123,Santa Fe 03,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,16.14,0,1,19.26,0,1.88,5,0.967,Santa Fe 03,*,0,F,*,0,0,24,*,CMPC,CMPC,Biomasa
+1124,Santa Fe 04,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,10.76,0,1,38.52,0,5.59,5,0.967,Santa Fe 04,*,0,F,*,0,0,24,*,CMPC,CMPC,Biomasa
+1125,Laja CMPC 01,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,5,0,1,0,0,0.89,0,0.967,Laja CMPC 01,*,0,F,*,0,0,24,*,CMPC,CMPC,Biomasa
+1126,Laja CMPC 02,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,10,0,1,31.7,0,0.89,6.9,0.967,Laja CMPC 02,*,0,F,*,0,0,24,*,CMPC,CMPC,Biomasa
+1127,Laja CMPC 03,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,10,0,1,96.93,0,0.797998556,6.9,0.967,Laja CMPC 03,*,0,F,*,0,0,24,*,CMPC,CMPC,Biomasa
+1128,Santa Maria,T,*,*,F,T,945,F,SIC,Charrua 220,F,*,341.991,0,0.376,80.623,0,0.352,3,0.979,Santa María,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Carbón
+1129,Pacífico CMPC 01,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,11.6,0,1,0,0,1.18,0,0.967,Pacifico CMPC 01,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa-Petróleo N°6
+1130,Pacífico CMPC 02,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,10.9,0,1,26.525,0,1.18,0,0.967,Pacifico CMPC 02,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa-Petróleo N°6
+1131,Pacífico CMPC 03,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,10.5,0,1,485,0,0.271340206,0,0.967,Pacifico CMPC 03,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa-Petróleo N°6
+1132,Bocamina 02,T,*,*,F,T,920,F,SIC,Charrua 220,F,*,322.48,0,0.365896879,108.948,0,0.377821872,4.3,0.875,Bocamina,*,0,F,*,0,0,24,*,Endesa,Endesa,Carbón
+1133,Laja 01,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,7.917,0,1,4.931,0,8.82,3.403,0.967,Laja Energía Verde 01,*,0,F,*,0,0,24,*,ENERGÍA VERDE,ENERGÍA VERDE,Desechos Forestales
+1134,Laja 02,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,3.549,0,1,0,0,1,0,0.967,Laja Energía Verde 02,*,0,F,*,0,0,24,*,ENERGÍA VERDE,ENERGÍA VERDE,Desechos Forestales
+1135,Masisa,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,11,0,1,6.33,0,5.96,3.4,0.95,Masisa,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1136,Negrete Cuel,T,*,*,F,F,0,T,SIC,Charrua 220,F,*,32.4951,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,MRP,MRP,Eolica
+1137,Escuadron 01,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,10.61229508,0,1,23.8,0,1.85,4.8,0.967,Escuadrón 01,*,0,F,*,0,0,24,*,F.P.C.,F.P.C.,Biomasa
+1138,Escuadron 02,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,1.841803279,0,1,23.8,0,1.85,4.8,0.967,Escuadrón 02,*,0,F,*,0,0,24,*,F.P.C.,F.P.C.,Biomasa
+1139,Petropower,T,*,*,F,T,3158,F,SIC,Charrua 220,F,*,62.9775,0,1,0,0,-,3.9,0.967,Petropower,*,0,F,*,0,0,24,*,FOSTER WHEELER,FOSTER WHEELER,Petróleo Diesel
+1140,Bocamina 01,T,*,*,F,T,955,F,SIC,Charrua 220,F,*,122.2,0,0.38,108.948,0,0.38,7.349,0.875,Bocamina,*,0,F,*,0,0,24,*,Endesa,Endesa,Carbón
+1141,Coronel TG Diesel,T,*,*,F,T,715,F,SIC,Charrua 220,F,*,46.81,0,0.2263,577.311,0,0.22815,17.225,0.95,Coronel TG Diesel,*,0,F,*,0,0,24,*,SGA,SGA,Petróleo Diesel
+1142,Arauco 01,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,10,0,1,3.667,0,5.47,3.9,0.948,Arauco 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1143,Arauco 02,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,10,0,1,3.667,0,5.47,3.9,0.948,Arauco 02,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1144,Arauco 03,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,4,0,1,3.667,0,5.47,3.9,0.948,Arauco 03,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1145,Horcones TG Diesel,T,*,*,F,T,1209,F,SIC,Charrua 220,F,*,24.3,0,0.383,593.727,0,0.347,10,0.95,Horcones TG Diesel,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Petróleo Diesel
+1146,Los Guindos,T,*,*,F,T,713,F,SIC,Charrua 220,F,*,138.305,0,0.376,651.044,0,0.2443,3.25,0.979,Los Guindos TG Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1147,Orafti,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,0.5,0,0.2187,369.067,0,0.231,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1148,Eólica Lebu,T,*,*,F,F,0,T,SIC,Charrua 220,F,*,6.50076,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1149,Lebu,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,2.4,0,0.2187,369.067,0,0.2416,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1150,Ancali 1,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,1.56,0,1,0,0,5.96,15,0.979,Ancalí,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1151,Coelemu,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,5.89016,0,1,0,0,5.3,0,0.979,Coelemu Biomasa,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1152,Energía Biobio,F,*,*,F,F,1143,T,SIC,Charrua 220,F,*,7.1496,0,1,0,0,5.96,9.83,0.979,Energía BioBio,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1153,HBS,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,2.2,0,1,6.33,0,5.96,3.4,0.967,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1154,Eagon,T,*,*,F,T,691,F,SIC,Temuco 220,F,*,2.4,0,0.2187,369.067,0,0.22125,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1155,JCE,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,0.8,0,0.2187,369.067,0,0.217074,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1156,Los Alamos,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,0.8,0,0.2187,369.067,0,0.2416,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1157,Tirúa,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,1.9,0,0.2187,369.067,0,0.2672,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1158,Trongol,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,2.8,0,0.2187,369.067,0,0.2296,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1159,Cañete,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,4,0,0.2187,369.067,0,0.2416,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1160,Lautaro 1/1,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,16,0,1,11.637,0,1.64,9.7,0.956504223,Lautaro 01-1,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa-Licor Negro-Petróleo N°6
+1161,Lautaro 1/2,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,10,0,1,33.427,0,1.49,9.7,0.956504223,Lautaro 01-2,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa-Licor Negro-Petróleo N°6
+1162,Lautaro 2,T,*,*,F,F,1143,T,SIC,Charrua 220,F,*,20.24,0,1,28.713,0,0.85,9.8,0.9231,Lautaro 02,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1163,Lonquimay,T,*,*,F,T,691,F,SIC,Temuco 220,F,*,1.2,0,0.2187,369.067,0,0.2672,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1164,Chufken,T,*,*,F,T,691,F,SIC,Temuco 220,F,*,1.6,0,0.2187,369.067,0,0.2416,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1165,Curacautin,T,*,*,F,T,691,F,SIC,Temuco 220,F,*,2.4,0,0.2187,369.067,0,0.2204136,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1166,Los Sauces 2,T,*,*,F,T,691,F,SIC,Temuco 220,F,*,1.5,0,0.2187,369.067,0,0.263,38.81,0.95,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1167,Chuyaca,T,*,*,F,T,691,F,SIC,Rahue 220,F,*,11.3,0,0.219,598.666,0,0.2535,21.632,0.95,Chuyaca Diesel,*,0,F,*,0,0,24,*,SGA,SGA,Petróleo Diesel
+1168,Degañ,T,*,*,F,T,691,F,SIC,Chiloe 220,F,*,36,0,0.219,633.246,0,0.2187438,33.3,0.95,Degañ Diesel,*,0,F,*,0,0,24,*,SGA,SGA,Petróleo Diesel
+1169,Quellon 02,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,7,0,0.219,609,0,0.2535,28.297,0.95,Quellón Diesel,*,0,F,*,0,0,24,*,SGA,SGA,Petróleo Diesel
+1170,Trapen,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,80.838,0,0.219,582.428,0,0.2193,28,0.95,Trapén Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1171,Chiloé,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,9,0,0.219,635.084,0,0.281746032,39.27,0.95,Chiloe Diesel,*,0,F,*,0,0,24,*,ELEKTRAGEN GENERACIÓN,ELEKTRAGEN GENERACIÓN,Petróleo Diesel
+1172,San Pedro Eólico,T,*,*,F,F,0,T,SIC,Puerto Montt 220,F,*,36,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1173,Contulmo,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,0.8,0,0.2187,369.067,0,0.217074,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1174,Louisiana Pacific 2,T,*,*,F,T,691,F,SIC,Temuco 220,F,*,3.2,0,0.2187,369.067,0,0.217074,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1175,Los Sauces 1,T,*,*,F,T,691,F,SIC,Charrua 220,F,*,1.5,0,0.2187,369.067,0,0.263,38.81,0.95,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1176,Biomar,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,2.4,0,0.219,369.067,0,0.22125,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1177,Multiexport II,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,1.6,0,0.219,369.067,0,0.2212485,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1178,Louisiana Pacific,T,*,*,F,T,691,F,SIC,Temuco 220,F,*,2.9,0,0.219,369.067,0,0.2212485,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1179,Multiexport I,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,0.8,0,0.219,369.067,0,0.2212485,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1180,Quellon 01,F,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,7,0,0.219,609,0,0.2535,28.297,0.95,Quellón Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1181,Salmofood I,T,*,*,F,T,691,F,SIC,Chiloe 220,F,*,1.6,0,0.219,369.067,0,0.23,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1182,Salmofood II,T,*,*,F,T,691,F,SIC,Chiloe 220,F,*,1.6,0,0.219,369.067,0,0.22,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1183,Skretting,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,2.7,0,0.219,369.067,0,0.2212485,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1184,Skretting Osorno,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,3,0,0.219,369.067,0,0.217074,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1185,Watt,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,0.8,0,0.219,369.067,0,0.2212485,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1186,Watt II,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,1.6,0,0.219,369.067,0,0.2212485,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1187,Danisco,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,0.8,0,0.219,369.067,0,0.217074,0,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1188,valdivia 01,T,*,*,F,T,1143,F,SIC,Ciruelos 220,F,*,6,0,1,0,0,1.68,0,0.967,Valdivia 01,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1189,valdivia 02,T,*,*,F,T,1143,F,SIC,Ciruelos 220,F,*,9,0,1,2.167,0,6.21,0,0.967,Valdivia 02,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1190,valdivia 03,T,*,*,F,T,1143,F,SIC,Ciruelos 220,F,*,6,0,1,3.3,0,6.21,4.8,0.967,Valdivia 03,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1191,valdivia 04,T,*,*,F,T,1143,F,SIC,Ciruelos 220,F,*,40,0,1,424,0,0.35,4.8,0.967,Valdivia 04,*,0,F,*,0,0,24,*,ARAUCO GENERACIÓN,ARAUCO GENERACIÓN,Biomasa-Licor Negro-Petróleo N°6
+1192,Antilhue TG 01,T,*,*,F,T,726,F,SIC,Ciruelos 220,F,*,50.29938,0,0.23,515.861,0,0.234816754,2.8,0.95,Antilhue TG,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+1193,Antilhue TG 02,T,*,*,F,T,726,F,SIC,Ciruelos 220,F,*,50.99112,0,0.23,515.861,0,0.234816754,2.8,0.95,Antilhue TG,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+1194,Calle-Calle,T,*,*,F,T,691,F,SIC,Ciruelos 220,F,*,7.2,0,0.219,603.723,0,0.22815,21.686,0.95,Calle Calle Diesel,*,0,F,*,0,0,24,*,SGA,SGA,Petróleo Diesel
+1195,Luz del Norte FV,T,*,*,F,F,0,T,SIC,Carrera Pinto 220,F,*,141,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1196,El Pilar Los Amarillos,T,MesDic-2016,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1197,Cordillera 01,T,*,*,F,T,945,F,SIC,Alto Jahuel 220,F,*,4,0,1,0,0,0.112,1.4,0.95,Cordillera CMPC 01,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1198,Cordillera 02,T,*,*,F,T,945,F,SIC,Alto Jahuel 220,F,*,8,0,1,301,0,0.111,1.4,0.95,Cordillera CMPC 02,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1199,Cordillera 03,T,*,*,F,T,945,F,SIC,Alto Jahuel 220,F,*,12,0,1,734,0,0.120395095,1.4,0.95,Cordillera CMPC 03,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1200,CMPC Tissue,T,*,*,F,T,868,F,SIC,Melipilla 220,F,*,4,0,1,9.139,0,10.13235149,25.2,0.979,GNL Tissue,*,0,F,*,0,0,24,*,CMPC,CMPC,GNL
+1201,Pampa Solar Norte,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,69,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1202,Conejo I,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,104,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1203,Lagunilla,T,*,*,F,F,0,T,SIC,Los Vilos 220,F,*,2.95,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1204,Carrera Pinto Etapa I,T,*,*,F,F,0,T,SIC,Carrera Pinto 220,F,*,20,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1205,Los Buenos Aires,T,*,*,F,F,0,T,SIC,Charrua 220,F,*,23.85,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1206,Renaico,T,MesAbr-2016,*,F,F,0,T,SIC,Temuco 220,F,*,88,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1207,Solar Loma los colorados,T,*,*,F,F,0,T,SIC,Polpaico 220,F,*,1.07,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1208,La Chapeana,T,*,*,F,F,0,T,SIC,Los Vilos 220,F,*,2.8,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1209,Las Mollacas,T,*,*,F,F,0,T,SIC,Los Vilos 220,F,*,2.8,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1210,Solar Cardones,T,*,*,F,F,0,T,SIC,Cardones 220,F,*,0.44,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1211,La Silla,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,1.9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1212,Andes Generación TG1,T,*,*,F,T,691,F,SIC,Diego de Almagro 220,F,*,6.11,0,1,378.162,0,0.240886159,20.832,0.95,Andes_TG,*,0,F,*,0,0,24,*,ANDES GENERACIÓN,ANDES GENERACIÓN,Petróleo Diesel
+1213,Andes Generación TG2,T,*,*,F,T,691,F,SIC,Diego de Almagro 220,F,*,6.11,0,1,378.162,0,0.240886159,20.832,0.95,Andes_TG,*,0,F,*,0,0,24,*,ANDES GENERACIÓN,ANDES GENERACIÓN,Petróleo Diesel
+1214,Andes Generación TG3,T,*,*,F,T,691,F,SIC,Diego de Almagro 220,F,*,6.11,0,1,378.162,0,0.236837652,20.832,0.95,Andes_TG,*,0,F,*,0,0,24,*,ANDES GENERACIÓN,ANDES GENERACIÓN,Petróleo Diesel
+1215,Andes Generación TG4,T,*,*,F,T,691,F,SIC,Diego de Almagro 220,F,*,12.22,0,1,378.162,0,0.24695892,20.832,0.95,Andes_TG,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1216,Huajache,T,*,*,F,F,0,T,SIC,Charrua 220,F,*,6,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1217,Raki,T,*,*,F,F,0,T,SIC,Charrua 220,F,*,9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1218,Luna,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,2.96,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1219,Sol,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,2.96,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1220,Eólica Lebu II,T,*,*,F,F,0,T,SIC,Charrua 220,F,*,3.47,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1221,Eólica La Esperanza,T,*,*,F,F,0,T,SIC,Charrua 220,F,*,10.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1222,Santa Julia,T,MesMay-2016,*,F,F,0,T,SIC,Los Vilos 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1223,Guanaco Solar,F,MesEne-2018,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,50,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1224,Valleland,F,MesEne-2017,*,F,F,0,T,SIC,Cardones 220,F,*,67.4,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1225,Quilapilún,T,MesDic-2016,*,F,F,0,T,SIC,Polpaico 220,F,*,103.2,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1226,Doña Carmen,F,MesMay-2017,*,F,T,823,F,SIC,Los Vilos 220,F,*,48,0,1,369.067,0,0.22355,47.33,0.95,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1227,Carrera Pinto Etapa II,T,*,*,F,F,0,T,SIC,Carrera Pinto 220,F,*,73.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1228,Pelícano,T,MesJun-2017,*,F,F,0,T,SIC,Don Hector 220,F,*,100,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1229,CTM3 SING,T,MesMar-2018,*,F,T,881,F,SIC,Los Changos 220,F,*,200.897,0,0.279,0.178217078,0,224.6531965,4.65,0.977,GNL EDELNOR SIC,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1230,El Romero,T,MesSep-2016,*,F,F,0,T,SIC,Don Hector 220,F,*,196,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1231,Valle Solar,F,MesAgo-2018,*,F,F,0,T,SIC,Maitencillo 220,F,*,74,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1232,Los Loros,T,MesJun-2016,*,F,F,0,T,SIC,Cardones 220,F,*,45.82,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1233,San Juan I,T,MesSep-2016,*,F,F,0,T,SIC,Punta Colorada 220,F,*,33,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1234,San Juan II,T,MesOct-2016,*,F,F,0,T,SIC,Punta Colorada 220,F,*,29.7,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1235,San Juan III,T,MesNov-2016,*,F,F,0,T,SIC,Punta Colorada 220,F,*,29.7,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1236,San Juan IV,T,MesDic-2016,*,F,F,0,T,SIC,Punta Colorada 220,F,*,33,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1237,San Juan V,T,MesEne-2017,*,F,F,0,T,SIC,Punta Colorada 220,F,*,26.4,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1238,San Juan VI,T,MesEne-2017,*,F,F,0,T,SIC,Punta Colorada 220,F,*,33,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1239,Divisadero,F,MesAgo-2017,*,F,F,0,T,SIC,Maitencillo 220,F,*,65,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1240,Malgarida,F,MesAbr-2017,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,28,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1241,Eólica Las Peñas,T,MesJun-2016,*,F,F,0,T,SIC,Charrua 220,F,*,8.4,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1242,Chuchiñi,T,MesJun-2016,*,F,F,0,T,SIC,Los Vilos 220,F,*,2.88,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1243,Cabo Leones I,T,MesDic-2017,*,F,F,0,T,SIC,Maitencillo 220,F,*,115.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1244,Bellavista,T,*,*,F,F,0,T,SIC,Los Vilos 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1245,Raso power,T,*,*,F,T,691,F,SIC,Itahue 154,F,*,2.68,0,0.219,369.067,0,0.243404095,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1246,Sol del Norte,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,2.96,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1247,TilTil Solar,T,*,*,F,F,0,T,SIC,Polpaico 220,F,*,2.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1248,El Canelo 1,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,3,0,0.219,369.067,0,0.296,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1249,El Molle,T,*,*,F,F,1143,F,SIC,Agua Santa 110,F,*,4.5,0,1,0,0,518,15,0.979,El Molle,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1250,Las Araucarias,T,*,*,F,F,0,T,SIC,Cerro Navia 110,F,*,4,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1251,El Paico,T,*,*,F,F,0,T,SIC,Melipilla 220,F,*,2.1,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1252,HBS GNL,T,MesSep-2016,*,F,T,868,F,SIC,Charrua 220,F,*,3.5,0,0.275,369.067,0,0.3365,3.87,0.979,Diesel CNE,*,0,F,*,0,0,24,*,HBS GNL S.A.,HBS GNL S.A.,GNL
+1253,ENAP_Aconcagua,T,MesEne-2018,*,F,T,438,F,SIC,Agua Santa 110,F,*,77,0,0.000190782,7.849,0,5.74,4,0.979,GNL CNE,*,0,F,*,747.5,14.95,24,*,Plan de Obra,Plan de Obra,GNL
+1254,El Boco,T,MesEne-2017,*,F,F,0,T,SIC,Quillota 110,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1255,Santiago Solar,T,MesDic-2017,*,F,F,0,T,SIC,Cerro Navia 110,F,*,98,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1256,Doña Carmen PV,T,MesJun-2017,*,F,F,0,T,SIC,Los Vilos 220,F,*,40,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1257,Cordillera PV,T,MesDic-2016,*,F,F,0,T,SIC,Itahue 154,F,*,40,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1258,Corral,T,MesDic-2016,*,F,T,2137,F,SIC,Valdivia 220,F,*,0.8,0,0.85,369.067,0,0.24,38.81,0.95,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1259,El Divisadero PV,T,*,*,F,T,0,T,SIC,Pan de Azucar 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1260,San Pedro Eólico II,T,MesDic-2016,*,F,F,0,T,SIC,Puerto Montt 220,F,*,65,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1261,Diego de Almagro FV II,T,*,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,4,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1262,Cintac,T,MesEne-2017,*,F,F,0,T,SIC,Chena 110,F,*,2.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1263,Marchigue II,T,MesEne-2017,*,F,F,0,T,SIC,Rapel 220,F,*,9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1264,Esperanza II,T,MesEne-2017,*,F,F,0,T,SIC,Rapel 220,F,*,9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1265,Solar Ñilhue,T,MesEne-2017,*,F,F,0,T,SIC,Las Vegas 110,F,*,1.1,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1266,Concon GNL,T,MesDic-2017,*,F,F,0,T,SIC,Quillota 110,F,*,6,0,0.275,280.131,0,0.3365,3.87,0.979,GNL,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1267,Punta Sierra,T,MesMar-2018,*,F,F,0,T,SIC,Las Palmas 220,F,*,80,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1268,Cabilsol,T,MesJun-2017,*,F,F,0,T,SIC,Los Vilos 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1269,Panquehue II,T,MesAgo-2017,*,F,F,0,T,SIC,Polpaico 220,F,*,6,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1270,PMG Antay I,T,MesJun-2017,*,F,F,0,T,SIC,Cardones 220,F,*,9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1271,Las Turcas,T,MesJun-2017,*,F,F,0,T,SIC,Cerro Navia 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1272,Valle de la luna 2,T,MesJul-2017,*,F,F,0,T,SIC,Las Vegas 110,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1273,Don Eugenio,T,MesSep-2017,*,F,F,0,T,SIC,Polpaico 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1274,El Campesino Biogas,T,MesNov-2017,*,F,F,0,T,SIC,Cerro Navia 110,F,*,1,0,0.275,280.131,0,0.3365,3.87,0.979,GNL,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1275,La Quinta Solar,T,MesJul-2017,*,F,F,0,T,SIC,Polpaico 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1276,San Francisco Solar,T,MesJul-2017,*,F,F,0,T,SIC,Cerro Navia 110,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1277,El Queltehue,T,MesJul-2017,*,F,F,0,T,SIC,Cerro Navia 110,F,*,1,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1278,Alturas de ovalle,T,MesJul-2017,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,6,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1279,Chile generación,T,MesJul-2017,*,F,T,438,F,SIC,Itahue 220,F,*,1.2,0,0.275,369.067,0,0.3365,3.87,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1280,El Nogal,T,MesJul-2017,*,F,T,691,F,SIC,Alto Jahuel 220,F,*,6,0,0.219,369.067,0,0.296,69.7,0.95,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1281,Los pinos biogas,T,MesJul-2017,*,F,T,868,F,SIC,Charrua 220,F,*,6,0,0.275,280.131,0,0.3365,3.87,0.979,GNL,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1282,Molina,T,MesJul-2017,*,F,T,868,F,SIC,Itahue 220,F,*,6,0,0.275,280.131,0,0.3365,3.87,0.979,GNL,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1283,Cuz cuz,T,MesJul-2017,*,F,F,0,T,SIC,Itahue 220,F,*,9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1284,El Canelo 2,T,*,*,F,T,691,F,SIC,Puerto Montt 220,F,*,3,0,0.219,369.067,0,0.296,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1285,Raso power 2,T,*,*,F,T,691,F,SIC,Itahue 220,F,*,2.68,0,0.219,369.067,0,0.243404095,69.7,0.979,Diesel CNE,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1286,Altos del Paico,T,MesEne-2017,*,F,F,0,T,SIC,Melipilla 220,F,*,2.1,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1287,CMPC Santa Fe,T,*,*,F,F,1143,F,SIC,Charrua 220,F,*,5,0,1,0,0,5.96,3.4,0.967,CMPC Santa Fe,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Biomasa
+1288,DAS,T,MesEne-2018,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,8,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1289,Degañ 2,T,MesEne-2018,*,F,T,691,F,SIC,Chiloe 220,F,*,14,0,0.219,633.246,0,0.2187438,33.3,0.95,Degañ Diesel,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Petróleo Diesel
+1290,Santuario Solar,T,MesOct-2017,*,F,F,0,T,SIC,Polpaico 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1291,PV El Roble,T,MesJul-2017,*,F,F,0,T,SIC,Cerro Navia 220,F,*,9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1292,Homero,T,MesJul-2017,*,F,F,0,T,SIC,Alto Jahuel 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1293,El Pilpen,T,MesSep-2017,*,F,F,0,T,SIC,Cerro Navia 110,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1294,Chimbarongo,T,MesNov-2017,*,F,F,0,T,SIC,Itahue 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1295,Francisco,T,MesOct-2017,*,F,F,0,T,SIC,Alto Jahuel 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1296,PV La Frontera,T,MesDic-2017,*,F,F,0,T,SIC,Itahue 220,F,*,4.8,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1297,El Cernicalo,T,MesNov-2017,*,F,F,0,T,SIC,Charrua 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1298,Los Gorriones,T,MesDic-2017,*,F,F,0,T,SIC,Charrua 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1299,Aurora,T,MesMay-2018,*,F,F,0,T,SIC,Rahue 220,F,*,126.4,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1300,Sarco,T,MesMay-2018,*,F,F,0,T,SIC,Maitencillo 220,F,*,168.8,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Eolica
+1301,La Fortuna 1,T,MesFeb-2018,*,F,F,0,T,SIC,Los Vilos 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1302,Chancon,T,MesEne-2018,*,F,F,0,T,SIC,Alto Jahuel 220,F,*,2.9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1303,El Manzano,T,MesEne-2018,*,F,F,0,T,SIC,Alto Jahuel 220,F,*,2.3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1304,PV Luna,T,MesFeb-2018,*,F,F,0,T,SIC,Alto Jahuel 220,F,*,2.6,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1305,La Manga I,T,MesDic-2017,*,F,F,0,T,SIC,Cerro Navia 220,F,*,2.9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1306,El Pitio,T,MesEne-2018,*,F,F,0,T,SIC,Itahue 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1307,Portezuelo,T,MesDic-2017,*,F,F,0,T,SIC,Itahue 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1308,Peralillo,T,MesEne-2018,*,F,F,0,T,SIC,Itahue 220,F,*,2.9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1309,CERN,T,MesNov-2017,*,F,F,0,T,SIC,Alto Jahuel 110,F,*,2,0,0.275,280.131,0,0.3365,3.87,0.979,GNL,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+1310,La Acacia,T,MesEne-2018,*,F,F,0,T,SIC,Alto Jahuel 220,F,*,8.5,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1311,Amparo del sol,T,MesFeb-2018,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1312,Ovejeria,T,MesAbr-2018,*,F,F,0,T,SIC,Cerro Navia 110,F,*,9,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar
+1313,Catan Solar,T,MesJun-2018,*,F,F,0,T,SIC,Los Maquis 220,F,*,3,0,1,0,0,1,0,1,*,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,Solar

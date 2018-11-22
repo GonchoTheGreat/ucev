@@ -1,0 +1,11 @@
+Additional features for the model
+1. Consider batteries
+2. Consider reserve markets
+3. Consider temporal and spatial links between UC and ED (perhaps an additional input file is required)
+
+Code issues
+1. The definition of input and output folders is being done manually in each module. This should not be the case.
+2. Start thinking of safety measures and warnings. 
+3. Modules.txt must be in perfect order (for example unit commitment must be declared before basic_reserve, etc.).
+This could be coded in a more user friendly way. 
+4. Consider writing an excute.py file that searchs a unique path for the model.

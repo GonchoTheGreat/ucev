@@ -1,0 +1,4 @@
+LINE,constant,to_bus,from_bus,flow_limit
+N-C,100,C,N,100
+C-S,100,S,C,100
+S-N,100,N,S,100

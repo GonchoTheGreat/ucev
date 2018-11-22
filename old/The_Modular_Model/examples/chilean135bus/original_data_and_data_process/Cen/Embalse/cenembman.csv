@@ -1,0 +1,57 @@
+CenManINum,CenManFOpe,CenManNom,CenManFTip,CenManFecIni,CenManFecFin,CenBar,CenConQGen,CenPotMax,CenPotMin,CenTurRen,CenDisEne,CenFacCol,CenConPro%
+1,T,Antuco,F,SemAbr01-2018,SemJun01-2018,*,*,167.6190476,*,*,*,*,*
+2,T,Antuco,F,SemJun02-2018,SemJul01-2018,*,*,160,*,*,*,*,*
+3,T,Canutillar,F,SemJul04-2018,SemAgo01-2018,*,*,64.391869,*,*,*,*,*
+4,T,Canutillar,F,SemAgo02-2018,SemAgo03-2018,*,*,64.391869,*,*,*,*,*
+5,T,Canutillar,F,SemOct03-2018,SemOct03-2018,*,*,107.4227636,*,*,*,*,*
+6,T,Canutillar,F,SemNov01-2018,SemNov01-2018,*,*,107.4227636,*,*,*,*,*
+7,T,Cipreses,F,SemJun01-2018,SemJun02-2018,*,*,73.28444947,*,*,*,*,*
+8,T,Cipreses,F,SemJun03-2018,SemJun03-2018,*,*,73.28444947,*,*,*,*,*
+9,T,Cipreses,F,SemAgo02-2018,SemAgo04-2018,*,*,68.24587804,*,*,*,*,*
+10,T,Colbun,F,SemFeb02-2018,SemMar01-2018,*,*,197.172078,*,*,*,*,*
+11,T,Colbun,F,SemMar02-2018,SemAbr02-2018,*,*,193.9077923,*,*,*,*,*
+12,T,Colbun,F,SemMar01-2019,SemMar03-2019,*,*,224.3744589,*,*,*,*,*
+13,T,Colbun,F,SemMar04-2019,SemMar04-2019,*,*,29.2393321,*,*,*,*,*
+14,T,Colbun,F,SemAbr01-2019,SemAbr01-2019,*,*,278.7792208,*,*,*,*,*
+15,T,El Toro,F,SemJul04-2018,SemAgo01-2018,*,*,320.0945793,*,*,*,*,*
+16,T,El Toro,F,SemAgo02-2018,SemAgo03-2018,*,*,320.0945793,*,*,*,*,*
+17,T,El Toro,F,SemAgo04-2018,SemSep01-2018,*,*,320.0945793,*,*,*,*,*
+18,T,El Toro,F,SemSep02-2018,SemSep02-2018,*,*,320.0945793,*,*,*,*,*
+19,T,Machicura,F,SemAbr02-2018,SemMay01-2018,*,*,53.60714286,*,*,*,*,*
+20,T,Machicura,F,SemMay02-2018,SemJun01-2018,*,*,53.60714286,*,*,*,*,*
+21,T,Machicura,F,SemAbr01-2019,SemAbr01-2019,*,*,71.28571429,*,*,*,*,*
+22,T,Machicura,F,SemAbr02-2019,SemAbr02-2019,*,*,41.57142857,*,*,*,*,*
+23,T,Machicura,F,SemAbr03-2019,SemAbr04-2019,*,*,27.71428571,*,*,*,*,*
+24,T,Machicura,F,SemMay01-2019,SemMay03-2019,*,*,60.57142857,*,*,*,*,*
+25,T,Pangue,F,SemMar03-2018,SemAbr01-2018,*,*,205.7436476,*,*,*,*,*
+26,T,Pangue,F,SemAbr02-2018,SemAbr03-2018,*,*,180.0125837,*,*,*,*,*
+27,T,Pangue,F,SemAbr04-2018,SemMay01-2018,*,*,205.7436476,*,*,*,*,*
+28,T,Pangue,F,SemMar01-2019,SemMar04-2019,*,*,219.1365048,*,*,*,*,*
+29,T,Pangue,F,SemAbr02-2019,SemMay01-2019,*,*,219.1365048,*,*,*,*,*
+30,T,Pehuenche,F,SemMar02-2018,SemMar02-2018,*,*,321.5542066,*,*,*,*,*
+31,T,Pehuenche,F,SemMar03-2018,SemAbr01-2018,*,*,236.435159,*,*,*,*,*
+32,T,Pehuenche,F,SemMar03-2019,SemMar04-2019,*,*,282.2684923,*,*,*,*,*
+33,T,Ralco,F,SemEne02-2018,SemFeb01-2018,*,*,279.2934782,*,*,*,*,*
+34,T,Ralco,F,SemFeb03-2018,SemMar02-2018,*,*,279.2934782,*,*,*,*,*
+35,T,Ralco,F,SemEne02-2019,SemEne04-2019,*,*,258.7577639,*,*,*,*,*
+36,T,Ralco,F,SemFeb01-2019,SemFeb03-2019,*,*,258.7577639,*,*,*,*,*
+37,T,Rapel,F,SemEne01-2018,SemEne01-2018,*,*,236.4624506,*,*,*,*,*
+38,T,Rapel,F,SemMar03-2018,SemMar04-2018,*,*,257.891022,*,*,*,*,*
+39,T,Rapel,F,SemNov02-2018,SemNov02-2018,*,*,247.1767363,*,*,*,*,*
+40,T,Rapel,F,SemNov03-2018,SemNov03-2018,*,*,247.1767363,*,*,*,*,*
+41,T,Rapel,F,SemNov04-2018,SemNov04-2018,*,*,236.4624506,*,*,*,*,*
+42,T,Rapel,F,SemDic02-2018,SemDic02-2018,*,*,247.1767363,*,*,*,*,*
+43,T,Rapel,F,SemMar02-2019,SemMar02-2019,*,*,247.1767363,*,*,*,*,*
+44,T,Rapel,F,SemMar01-2019,SemMar01-2019,*,*,225.7481649,*,*,*,*,*
+45,T,Rapel,F,SemMar03-2019,SemMar04-2019,*,*,257.891022,*,*,*,*,*
+46,T,Antuco,T,SemMay04-2019,SemJun03-*,*,*,160,*,*,*,*,*
+47,T,Canutillar,T,SemMar02-2019,SemMar04-*,*,*,75.1959345,*,*,*,*,*
+48,T,Cipreses,T,SemEne04-2019,SemFeb02-*,*,*,62.29249012,*,*,*,*,*
+49,T,Colbun,T,SemMar01-2020,SemMar04-*,*,*,204.6753247,*,*,*,*,*
+50,T,El Toro,T,SemMar01-2019,SemMar04-*,*,*,300.3387917,*,*,*,*,*
+51,T,Los Condores,T,SemFeb01-2018,SemFeb03-*,*,*,0,*,*,*,*,*
+52,T,Machicura,T,SemAbr03-2020,SemMay01-*,*,*,48.5,*,*,*,*,*
+53,T,Pangue,T,SemEne03-2020,SemFeb02-*,*,*,210.014681,*,*,*,*,*
+54,T,Pehuenche,T,SemMar03-2020,SemAbr02-*,*,*,249.1699605,*,*,*,*,*
+55,T,Ralco,T,SemAbr03-2020,SemMay02-*,*,*,293.6645963,*,*,*,*,*
+56,T,Rapel,T,SemFeb03-2020,SemMar03-*,*,*,249.1699605,*,*,*,*,*

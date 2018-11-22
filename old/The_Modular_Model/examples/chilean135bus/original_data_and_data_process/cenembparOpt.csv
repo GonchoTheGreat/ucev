@@ -1,0 +1,12 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenEmiFMDL,CenEmiFDpz,CenEmiDpz [tCO2e/GWh],CenFERNC,CenUbc,CenBar,CenConQGen,CenPotMax,CenPotMin,CenTurRen,CenDisEne,CenFacCol,CenConPro%,CenFInv,CenFecInv,CenVI,CenCOMA,CenVidUti,CenEmp,CenCmr,CenAux
+1,El Toro,T,*,*,F,T,0,F,SIC,Charrua 220,Boc. Polcura,400.4517222,0,4.74,1,1,0,F,*,0,0,50,Endesa,Endesa,Embalse
+2,Rapel,T,*,*,F,T,0,F,SIC,Rapel 220,NoCon,311.4624506,0,0.674,1,1,0,F,*,0,0,50,Endesa,Endesa,Embalse
+3,Canutillar,T,*,*,F,T,0,F,SIC,Puerto Montt 220,NoCon,150.391869,0,1.92,1,1,0,F,*,0,0,50,Cenelca,Colbún S.A.,Embalse
+4,Cipreses,T,*,*,F,T,0,F,SIC,Itahue 154,Boc. Cipreses Isla,93.43873518,0,2.7857,1,1,0,F,*,0,0,50,Endesa,Endesa,Embalse
+5,Colbun,T,*,*,F,T,0,F,SIC,Colbun 220,Riego Estero Machicura,409.3506494,0,1.4286,1,1,0,F,*,0,0,50,Colbún S.A.,Colbún S.A.,Embalse
+6,Los Condores,T,MesDic-2018,*,F,F,0,F,SIC,Ancoa 220,Boc. Riego Laguna Del Maule,150,0,6,1,1,0,T,*,315,6.3,50,CNE,CNE,Embalse
+7,Ralco,T,*,*,F,T,0,F,SIC,Charrua 220,Embalse Pangue,587.3291925,0,1.55,1,1,0,F,*,0,0,50,Endesa,Endesa,Embalse
+8,Pehuenche,T,*,*,F,F,0,F,SIC,Ancoa 220,Embalse Colbun,498.3399209,0,1.666666667,1,1,0,F,*,0,0,50,Pehuenche S.A.,Endesa,Embalse
+9,Machicura,T,*,*,F,F,0,F,SIC,Colbun 220,Riego Sur 1-2 y 3,97,0,0.321428571,1,1,0,F,*,0,0,50,Colbún S.A.,Colbún S.A.,Embalse
+10,Pangue,T,*,*,F,F,0,F,SIC,Charrua 220,Angostura,420.0293619,0,0.8851,1,1,0,F,*,0,0,50,Endesa,Endesa,Embalse
+11,Antuco,T,*,*,F,F,0,F,SIC,Charrua 220,Riego A. Rucue,320,0,1.63,1,1,0,F,*,0,0,50,Endesa,Endesa,Embalse

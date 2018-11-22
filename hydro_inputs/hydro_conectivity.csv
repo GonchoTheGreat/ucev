@@ -1,0 +1,4 @@
+GEN,type,efficiency,turb_to,spill_to,inflow,qmax,qmin,spillmax,spillmin,qdem
+G3,generator,0.95,V1,DUMP,100,500,0,500,0,0
+G4,generator,0.95,DUMP,DUMP,100,500,0,500,0,0
+V1,virtual,0,G4,DUMP,100,500,0,500,0,20

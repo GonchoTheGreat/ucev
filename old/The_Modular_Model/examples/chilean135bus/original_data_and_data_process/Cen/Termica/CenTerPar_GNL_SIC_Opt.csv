@@ -1,0 +1,37 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenEmiFMDL,CenEmiFDpz,CenEmiDpz [tCO2e/GWh],CenFERNC,CenUbc,CenBar,CenFDua,CenDua,CenPotMax,CenPotMin,CenKxxx/kWh,CenCosVar,CenCosTrp,CenRenTer,CenCosOpe,CenDisEne,CenEtaCVar,CenEtaCTrp,CenConPro%,CenFInv,CenFecInv,CenVI,CenCOMA,CenVidUti,CenEtaCOMA,CenEmp,CenCmr,CenAux
+1,Taltal 01 Diesel,T,*,*,F,T,881,F,SIC,Diego de Almagro 220,F,*,110,0,0.279,604.493,0,0.254,12.824,0.95,Taltal Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+2,Taltal 02 Diesel,T,*,*,F,T,881,F,SIC,Diego de Almagro 220,F,*,110,0,0.279,604.493,0,0.254,12.824,0.95,Taltal Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+3,Taltal 01 GNL,T,*,MesMar-2019,F,T,701,F,SIC,Diego de Almagro 220,F,*,123.1532,0,0.00000818,206.566,0,0.303,4.004,0.95,Taltal GNL 2,*,0,F,*,0,0,24,*,Endesa,Endesa,GNL
+4,Taltal 02 GNL,F,*,MesSep-2016,F,T,701,F,SIC,Diego de Almagro 220,F,*,121.257,0,0.00000818,206.566,0,0.303,4.004,0.95,Taltal GNL 2,*,0,F,*,0,0,24,*,Endesa,Endesa,GNL
+5,Taltal CC GNL,F,MesEne-2028,*,F,T,701,F,SIC,Diego de Almagro 220,F,*,360,0,0.00000818,280.131,0,0.303,4.004,0.95,GNL,*,0,F,*,150.26674,3.0053348,24,*,Endesa,Endesa,GNL
+6,Nehuenco 01 Diesel,T,*,MesDic-2026,F,T,599,F,SIC,San Luis 220,F,*,316,0,0.19,523.58,0,0.1626768,5.21,0.963009825,Nehuenco 1 Diesel,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+7,Nehuenco 01 GNL,T,MesEne-2027,*,F,T,487,F,SIC,San Luis 220,F,*,346.6,0,0.000181,7.849,0,7.284,2.9,0.979,GNL CNE,*,0,F,*,0,0,24,*,Colbún S.A.,Colbún S.A.,GNL
+8,Nehuenco 01 FA GNL,T,MesEne-2027,*,F,T,598,F,SIC,San Luis 220,F,*,21.393,0,0.0002467,7.849,0,9.138,0,0.979,GNL CNE,*,0,F,*,0,0,24,*,Colbún S.A.,Colbún S.A.,GNL
+9,Nehuenco 01 GNL CP,T,*,MesMar-2019,F,T,438,F,SIC,San Luis 220,F,*,346.6,0,0.000181,0,0,0.1973,2.9,0.963009825,Nehuenco 1 CC GNL ToP,*,0,F,*,0,0,24,*,Colbún S.A.,Colbún S.A.,GNL
+10,Nehuenco 02 Diesel,T,*,MesDic-2027,F,T,598,F,SIC,San Luis 220,F,*,398.9,0,0.189,523.58,0,0.162456847,5.21,0.950122374,Nehuenco 2 Diesel,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+11,Nehuenco 02 GNL,T,MesEne-2028,*,F,T,438,F,SIC,San Luis 220,F,*,411.236,0,0.000181,7.849,0,6.69,2.4,0.979,GNL CNE,*,0,F,*,0,0,24,*,Colbún S.A.,Colbún S.A.,GNL
+12,Nehuenco 02 GNL CP,T,*,MesMar-2019,F,T,438,F,SIC,San Luis 220,F,*,411.236,0,0.000181,0,0,0.181222482,2.43,0.950122374,Nehuenco 2 CC GNL ToP,*,0,F,*,0,0,24,*,Colbún S.A.,Colbún S.A.,GNL
+13,Nehuenco 9B 01 Diesel,T,*,*,F,T,1033,F,SIC,San Luis 220,F,*,92.9,0,0.327,523.58,0,0.2808234,2.43,0.984,Nehuenco 9B 01 Diesel,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+14,Nehuenco 9B 02 Diesel,T,*,*,F,T,1071,F,SIC,San Luis 220,F,*,16,0,0.3392,523.58,0,0.2808234,2.43,0.984,Nehuenco 9B 01 Diesel,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+15,San Isidro Diesel,T,*,MesMar-2019,F,T,584,F,SIC,San Luis 220,F,*,305,0,0.1848,579.605,0,0.185419266,9.343,0.979,San Isidro Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+16,San Isidro GNL,T,*,*,F,T,463,F,SIC,San Luis 220,F,*,347.63,0,0.000190782,222.897,0,0.202859434,5.94,0.979,San Isidro GNL,*,0,F,*,0,0,24,*,San Isidro S.A.,San Isidro S.A.,GNL
+17,San Isidro FA GNL,T,*,*,F,T,814,F,SIC,San Luis 220,F,*,20,0,0.000335413,362.139,0,0.3365,2.82,0.979,San Isidro FA GNL,*,0,F,*,0,0,24,*,San Isidro S.A.,San Isidro S.A.,GNL
+18,San Isidro 02 CC Diesel,T,*,MesMar-2019,F,T,584,F,SIC,San Luis 220,F,*,350,0,0.1848,579.605,0,0.182587516,6.839,0.979,San Isidro Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+19,San Isidro 02 GNL,T,*,*,F,T,757,F,SIC,San Luis 220,F,*,393.3741,0,0.000166914,222.897,0,0.195009282,4.509,0.979,San Isidro GNL,*,0,F,*,0,0,24,*,Endesa,Endesa,GNL
+20,San Isidro 02 FA GNL,T,*,*,F,T,757,F,SIC,San Luis 220,F,*,20,0,0.000224929,362.139,0,0.3365,2.82,0.979,San Isidro FA GNL,*,0,F,*,0,0,24,*,Endesa,Endesa,GNL
+21,Quintero 01 CA Diesel,T,*,*,F,T,868,F,SIC,San Luis 220,F,*,127.104,0,0.275,579.195,0,0.2417,5.14,0.979,Quintero Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+22,Quintero 01 CA GNL,T,*,MesMar-2019,F,T,868,F,SIC,San Luis 220,F,*,127.104,0,0.275,222.902,0,0.317460803,3.8,0.979,Quintero GNL,*,0,F,*,0,0,24,*,Endesa,Endesa,GNL
+23,Quintero 02 CA Diesel,T,*,*,F,T,868,F,SIC,San Luis 220,F,*,128.097,0,0.275,579.195,0,0.2417,5.14,0.979,Quintero Diesel,*,0,F,*,0,0,24,*,Endesa,Endesa,Petróleo Diesel
+24,Quintero 02 CA GNL,T,*,MesMar-2019,F,T,868,F,SIC,San Luis 220,F,*,128.097,0,0.275,222.902,0,0.317460803,3.8,0.979,Quintero GNL,*,0,F,*,0,0,24,*,Endesa,Endesa,GNL
+25,Quintero CC FA GNL,F,*,*,F,T,546,F,SIC,San Luis 220,F,*,35,0,0.000224929,280.131,0,0.266496,2.5,0.979,GNL,*,0,F,*,0,0,24,*,Plan de Obra,Plan de Obra,GNL
+26,Quintero CC GNL,F,MesEne-2028,*,F,T,405,F,SIC,San Luis 220,F,*,350,0,0.000166914,280.131,0,0.19776,2.5,0.979,GNL,*,0,F,*,123.2387,2.464774,24,*,Plan de Obra,Plan de Obra,GNL
+27,Nueva Renca FA GLP,T,*,MesMar-2019,F,T,580,F,SIC,Cerro Navia 110,F,*,29.28,0,0.00000678,866.14,0,0.197,0.061,0.979,Nueva Renca FA,*,0,F,*,0,0,24,*,ELÉCTRICA SANTIAGO,ELÉCTRICA SANTIAGO,Petróleo Diesel
+28,Nueva Renca Diesel,T,*,*,F,T,540,F,SIC,Cerro Navia 110,F,*,312.32,0,0.171,591.915,0,0.171,7.474,0.976,Nueva Renca Diesel,*,0,F,*,0,0,24,*,ELÉCTRICA SANTIAGO,ELÉCTRICA SANTIAGO,Petróleo Diesel
+29,Nueva Renca GNL CP,T,*,MesMar-2019,F,T,470,F,SIC,Cerro Navia 110,F,*,321.104,0,0.000194,9.374,0,0.2022,3.85,0.976,Nueva Renca GNL CP,*,0,F,*,0,0,24,*,Sociedad Eléctrica de Santiago S.A.,Sociedad Eléctrica de Santiago S.A.,GNL
+30,Nueva Renca GNL,F,MesEne-2028,*,F,T,470,F,SIC,Cerro Navia 110,F,*,321.104,0,0.000194,232.851,0,0.2022,3.85,0.976,Nueva Renca GNL,*,0,F,*,0,0,24,*,Sociedad Eléctrica de Santiago S.A.,Sociedad Eléctrica de Santiago S.A.,GNL
+31,Nueva Renca Int GNL,F,MesFeb-2027,*,F,T,607,F,SIC,Cerro Navia 110,F,*,29.28,0,0.00025,866.14,0,0.197,0.061,0.979,Nueva Renca FA,*,0,F,*,0,0,24,*,Sociedad Eléctrica de Santiago S.A.,Sociedad Eléctrica de Santiago S.A.,GNL
+32,Candelaria CA 01 Diesel,T,*,*,F,T,1016,F,SIC,Alto Jahuel 220,F,*,124.6735,0,0.3217,546.466,0,0.276030223,2.8,0.979,Candelaria Diesel,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+33,Candelaria CA 02 Diesel,T,*,*,F,T,1016,F,SIC,Alto Jahuel 220,F,*,127.9172,0,0.322,546.466,0,0.276030223,2.8,0.979,Candelaria Diesel,*,0,F,*,0,0,24,*,COLBÚN,COLBÚN,Petróleo Diesel
+34,Candelaria CA 01 GNL,T,*,MesMar-2019,F,T,713,F,SIC,Alto Jahuel 220,F,*,124.6735,0,0.000294045,267.378,0,0.3144,2.8,0.979,Candelaria GNL,*,0,F,*,0,0,24,*,Colbún S.A.,Colbún S.A.,GNL
+35,Candelaria CA 02 GNL,T,*,MesMar-2019,F,T,713,F,SIC,Alto Jahuel 220,F,*,127.9172,0,0.000294,267.378,0,0.3144,2.8,0.979,Candelaria GNL,*,0,F,*,0,0,24,*,Colbún S.A.,Colbún S.A.,GNL
+36,Candelaria CC GNL,F,MesDic-2022,*,F,T,713,F,SIC,Alto Jahuel 220,F,*,360,0,0.00000818,280.131,0,0.3144,3.19,0.95,GNL,*,0,F,*,139.63209,2.7926418,24,*,Plan de Obra,Plan de Obra,GNL

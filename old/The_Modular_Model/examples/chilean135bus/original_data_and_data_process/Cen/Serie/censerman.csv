@@ -1,0 +1,52 @@
+CenManINum,CenManFecIni,CenManFecFin,CenManFTip,CenManNom,CenBar,CenConQGen,CenConQVer,CenPotMax,CenPotMin,CenTurRen,CenDisEne,CenFacCol,CenConPro%
+1,SemFeb01-2018,SemFeb01-2018,F,Abanico,*,*,*,123.7142857,*,*,*,*,*
+2,SemSep04-2018,SemNov04-2018,F,Abanico,*,*,*,114.5,*,*,*,*,*
+3,SemDic01-2018,SemDic02-2018,F,Abanico,*,*,*,120.6428571,*,*,*,*,*
+4,SemMar03-2018,SemAbr01-2018,F,Angostura,*,*,*,66.9538329,*,*,*,*,*
+5,SemAbr02-2018,SemAbr04-2018,F,Angostura,*,*,*,174.5394315,*,*,*,*,*
+6,SemMay01-2018,SemMay03-2018,F,Angostura,*,*,*,138.7299077,*,*,*,*,*
+7,SemMay04-2018,SemJun02-2018,F,Angostura,*,*,*,245.3965744,*,*,*,*,*
+8,SemMar01-2019,SemMar03-2019,F,Angostura,*,*,*,174.5394315,*,*,*,*,*
+9,SemAbr01-2019,SemAbr03-2019,F,Angostura,*,*,*,66.9538329,*,*,*,*,*
+10,SemMay01-2019,SemMay03-2019,F,Angostura,*,*,*,66.9538329,*,*,*,*,*
+11,SemMay04-2019,SemJun02-2019,F,Angostura,*,*,*,245.3965744,*,*,*,*,*
+12,SemJun01-2018,SemJun03-2018,F,Chiburgo,*,*,*,12.47142857,*,*,*,*,*
+13,SemJun04-2018,SemJul01-2018,F,Chiburgo,*,*,*,12.00952381,*,*,*,*,*
+14,SemJun01-2019,SemJun01-2019,F,Chiburgo,*,*,*,12.47142857,*,*,*,*,*
+15,SemJun02-2019,SemJun02-2019,F,Chiburgo,*,*,*,12.47142857,*,*,*,*,*
+16,SemJul01-2018,SemJul01-2018,F,Curillinque,*,*,*,2,*,*,*,*,*
+17,SemAbr03-2018,SemAbr03-2018,F,Isla,*,*,*,33.5,*,*,*,*,*
+18,SemAbr04-2018,SemJun04-2018,F,Isla,*,*,*,38.42857143,*,*,*,*,*
+19,SemJul01-2018,SemJul02-2018,F,Loma Alta,*,*,*,0,*,*,*,*,*
+20,SemAgo02-2018,SemAgo02-2018,F,Ojos de Agua,*,*,*,1.285714286,*,*,*,*,*
+21,SemNov02-2018,SemNov03-2018,F,Palmucho,*,*,*,13.71428571,*,*,*,*,*
+22,SemMar03-2018,SemMar04-2018,F,Quilleco,*,*,*,37.5,*,*,*,*,*
+23,SemAbr01-2018,SemAbr02-2018,F,Quilleco,*,*,*,37.5,*,*,*,*,*
+24,SemAbr03-2018,SemAbr04-2018,F,Quilleco,*,*,*,37.5,*,*,*,*,*
+25,SemMay02-2018,SemMay03-2018,F,Quilleco,*,*,*,37.5,*,*,*,*,*
+26,SemMar02-2019,SemMar02-2019,F,Quilleco,*,*,*,50,*,*,*,*,*
+27,SemMar03-2019,SemMar03-2019,F,Quilleco,*,*,*,30,*,*,*,*,*
+28,SemMar04-2019,SemMar04-2019,F,Quilleco,*,*,*,50,*,*,*,*,*
+29,SemAbr01-2019,SemAbr02-2019,F,Quilleco,*,*,*,5,*,*,*,*,*
+30,SemMar03-2018,SemAbr01-2018,F,Rucue,*,*,*,105.2857143,*,*,*,*,*
+31,SemAbr02-2018,SemAbr02-2018,F,Rucue,*,*,*,105.2857143,*,*,*,*,*
+32,SemAbr03-2018,SemAbr04-2018,F,Rucue,*,*,*,92.54285714,*,*,*,*,*
+33,SemMay02-2018,SemMay03-2018,F,Rucue,*,*,*,12.07142857,*,*,*,*,*
+34,SemMay04-2018,SemMay04-2018,F,Rucue,*,*,*,118.0285714,*,*,*,*,*
+35,SemMar02-2019,SemMar02-2019,F,Rucue,*,*,*,118.0285714,*,*,*,*,*
+36,SemMar03-2019,SemMar03-2019,F,Rucue,*,*,*,48.28571429,*,*,*,*,*
+37,SemMar04-2019,SemMar04-2019,F,Rucue,*,*,*,79.8,*,*,*,*,*
+38,SemAbr01-2019,SemAbr02-2019,F,Rucue,*,*,*,12.07142857,*,*,*,*,*
+39,SemAbr03-2019,SemAbr03-2019,F,Rucue,*,*,*,92.54285714,*,*,*,*,*
+40,SemSep04-2018,SemOct02-2018,F,San Ignacio,*,*,*,10.57142857,*,*,*,*,*
+41,SemMar04-2019,SemMar04-*,T,Abanico,*,*,*,113.3333333,*,*,*,*,*
+42,SemAbr01-2020,SemAbr02-*,T,Angostura,*,*,*,0,*,*,*,*,*
+43,SemAbr03-2020,SemAbr03-*,T,Chiburgo,*,*,*,9.7,*,*,*,*,*
+44,SemSep04-2019,SemOct02-*,T,Curillinque,*,*,*,0,*,*,*,*,*
+45,SemMay02-2019,SemMay04-*,T,Isla,*,*,*,34,*,*,*,*,*
+46,SemMar03-2019,SemMar04-*,T,Loma Alta,*,*,*,0,*,*,*,*,*
+47,SemFeb02-2019,SemFeb03-*,T,Ojos de Agua,*,*,*,0,*,*,*,*,*
+48,SemEne04-2019,SemFeb01-*,T,Palmucho,*,*,*,0,*,*,*,*,*
+49,SemAbr01-2020,SemAbr03-*,T,Quilleco,*,*,*,35,*,*,*,*,*
+50,SemAbr01-2020,SemAbr04-*,T,Rucue,*,*,*,84.5,*,*,*,*,*
+51,SemMay02-2019,SemMay03-*,T,San Ignacio,*,*,*,0,*,*,*,*,*

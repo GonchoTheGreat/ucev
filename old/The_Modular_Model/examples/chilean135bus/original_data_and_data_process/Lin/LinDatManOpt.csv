@@ -1,0 +1,17 @@
+LinINum,LinFMan,LinFecIni,LinFecFin,LinFManTip,LinNom,LinBarA,LinBarB,LinFOpe,LinPotMaxA->B,LinPotMaxB->A,LinFN-1,LinPotN-1A->B,LinPotN-1B->A,LinVolt,LinR,LinX,LinDisEne,LinVI,LinCOMA
+1,T,MesNov-2018,*,F,Alto Jahuel 500->Lo Aguirre 500,*,*,*,3740,3740,*,*,*,*,0.44703,5.19829,*,*,*
+2,T,MesDic-2017,*,F,Alto Jahuel 500->Alto Jahuel 220,*,*,*,2250,2250,*,2250,2250,*,0.166666667,16.33333333,*,*,*
+3,T,MesSep-2015,*,F,Ancoa 500->Ancoa 220,*,*,*,1542.52,1542.52,*,1542.52,1542.52,*,0.25,24.375,*,*,*
+4,T,MesOct-2015,MesDic-2015,F,Ancoa 500->Ancoa 500 Aux,*,*,*,4200,4200,*,2800,2800,*,*,*,*,*,*
+5,T,MesEne-2016,*,F,Ancoa 500->Ancoa 500 Aux,*,*,*,5600,5600,*,3550,3550,*,*,*,*,*,*
+6,T,MesJul-2013,*,F,Charrua 220->Charrua 500,*,*,*,2250,2250,*,1950,1950,*,0.166666667,16.25,*,*,*
+7,T,MesJul-2013,MesEne-2018,F,Charrua 500->Ancoa 500,*,*,*,*,*,*,1500,1500,*,*,*,*,*,*
+8,T,MesNov-2018,*,F,Lo Aguirre 500->Polpaico 500,*,*,*,3740,3740,*,*,*,*,0.39997,4.65111,*,*,*
+9,T,MesEne-2017,*,F,Valdivia 220->Ciruelos 220,*,*,*,*,*,*,*,*,*,2.73042,7.27736625,*,0,0
+10,T,MesAbr-2012,*,F,Candelaria 220->Maipo 220,*,*,*,910,910,*,910,910,*,*,*,*,*,*
+11,T,MesAbr-2012,*,F,Maipo 220->Alto Jahuel 220,*,*,*,910,910,*,910,910,*,*,*,*,*,*
+12,T,MesAbr-2012,*,F,Colbun 220->Candelaria 220,*,*,*,910,910,*,910,910,*,*,*,*,*,*
+13,T,MesOct-2018,*,F,Rapel 220->Melipilla 220,*,*,*,579,579,T,386,386,*,1.8876,7.389066667,*,*,*
+14,T,MesOct-2018,*,F,Melipilla 220->Lo Aguirre 220,*,*,*,579,579,T,386,386,*,1.4157,5.5418,*,*,*
+15,T,MesMar-2021,*,F,Pichirropulli 220->Rahue 220,*,*,*,*,*,F,*,*,*,*,*,*,*,*
+16,T,MesNov-2018,*,F,Puente Negro220->Colbun 220,*,*,*,*,*,*,*,*,*,*,14.0665,*,*,*

@@ -1,0 +1,8 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenEmiFMDL,CenEmiFDpz,CenEmiDpz [tCO2e/GWh],CenFERNC,CenUbc,CenBar,CenPMax,CenTurRen,CenDisEne,CenFacCol,CenConPro%,CenFReg,SisRegPot,CenFInv,CenVI,CenCOMA,CenVidUti,CenEmp,CenCmr,CenAux
+1,Hidroeléctrica VIII Región 03,T,MesEne-2030,*,F,F,0,T,SIC,Charrua 220,20,1,1,1,0,T,SIC,T,60.7,1.214,50,Plan de Obra,Plan de Obra,Pasada
+2,Hidroeléctrica VII Región 03,T,MesEne-2028,*,F,F,0,T,SIC,Ancoa 220,20,1,1,1,0,T,SIC,T,60.7,1.214,50,Plan de Obra,Plan de Obra,Pasada
+3,Hidroeléctrica VIII Región 02,T,MesEne-2031,*,F,F,0,T,SIC,Charrua 220,20,1,1,1,0,T,SIC,T,60.7,1.214,50,Plan de Obra,Plan de Obra,Pasada
+4,Hidroeléctrica VII Región 02,T,MesEne-2029,*,F,F,0,T,SIC,Ancoa 220,20,1,1,1,0,T,SIC,T,60.7,1.214,50,Plan de Obra,Plan de Obra,Pasada
+5,Grupo MH X Región 01,T,MesJun-2029,*,F,F,0,T,SIC,Puerto Montt 500,60,1,1,1,0,T,SIC,T,243,4.86,50,Plan de Obra,Plan de Obra,Pasada
+6,Hidroeléctrica VIII Región 05,T,MesEne-2033,*,F,F,0,T,SIC,Charrua 220,20,1,1,1,0,T,SIC,F,60.7,1.214,50,Plan de Obra,Plan de Obra,Pasada
+7,Hidroeléctrica VIII Región 06,T,MesEne-2034,*,F,F,0,T,SIC,Charrua 220,20,1,1,1,0,T,SIC,F,60.7,1.214,50,Plan de Obra,Plan de Obra,Pasada

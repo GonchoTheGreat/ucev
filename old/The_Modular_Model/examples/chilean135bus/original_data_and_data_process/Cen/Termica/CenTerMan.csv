@@ -1,0 +1,596 @@
+CenManINum,CenManFOpe,CenManFecIni,CenManFecFin,CenManIBlo,CenManFTip,CenManNom,CenBar,CenPotMax,CenPotMin,CenCosVar,CenRenTer,CenCosOpe,CenDisEne,CenFacCol,CenConPro%
+1,T,SemAbr02-2018,SemAbr02-2018,*,F,Antilhue TG 01,*,43.32795143,*,*,*,*,*,*,*
+2,T,SemMay01-2018,SemMay02-2018,*,F,Antilhue TG 01,*,15.44223714,*,*,*,*,*,*,*
+3,T,SemJun03-2018,SemJun03-2018,*,F,Antilhue TG 01,*,29.38509429,*,*,*,*,*,*,*
+4,T,SemOct03-2018,SemOct03-2018,*,F,Antilhue TG 01,*,29.38509429,*,*,*,*,*,*,*
+5,T,SemNov01-2018,SemNov02-2018,*,F,Antilhue TG 01,*,15.44223714,*,*,*,*,*,*,*
+6,T,SemMay01-2019,SemMay02-2019,*,F,Antilhue TG 01,*,15.44223714,*,*,*,*,*,*,*
+7,T,SemJun03-2019,SemJun03-2019,*,F,Antilhue TG 01,*,29.38509429,*,*,*,*,*,*,*
+8,T,SemEne03-2018,SemEne04-2018,*,F,Antilhue TG 02,*,16.13397714,*,*,*,*,*,*,*
+9,T,SemMay03-2018,SemMay04-2018,*,F,Antilhue TG 02,*,16.13397714,*,*,*,*,*,*,*
+10,T,SemJun03-2018,SemJun03-2018,*,F,Antilhue TG 02,*,30.07683429,*,*,*,*,*,*,*
+11,T,SemOct03-2018,SemOct03-2018,*,F,Antilhue TG 02,*,30.07683429,*,*,*,*,*,*,*
+12,T,SemNov02-2018,SemNov03-2018,*,F,Antilhue TG 02,*,16.13397714,*,*,*,*,*,*,*
+13,T,SemMay03-2019,SemMay04-2019,*,F,Antilhue TG 02,*,16.13397714,*,*,*,*,*,*,*
+14,T,SemJun03-2019,SemJun03-2019,*,F,Antilhue TG 02,*,30.07683429,*,*,*,*,*,*,*
+15,T,SemOct01-2018,SemOct03-2018,*,F,Arauco 01,*,2.857142857,*,*,*,*,*,*,*
+16,T,SemNov04-2018,SemDic01-2018,*,F,Arauco 01,*,4.857142857,*,*,*,*,*,*,*
+17,T,SemEne02-2018,SemEne04-2018,*,F,Campiche,*,17.5471616,*,*,*,*,*,*,*
+18,T,SemFeb01-2018,SemFeb01-2018,*,F,Campiche,*,17.5471616,*,*,*,*,*,*,*
+19,T,SemEne04-2018,SemFeb02-2018,*,F,Candelaria CA 01 GNL,*,5.936833333,*,*,*,*,*,*,*
+20,T,SemMar04-2018,SemMar04-2018,*,F,Candelaria CA 01 GNL,*,17.8105,*,*,*,*,*,*,*
+21,T,SemAbr01-2018,SemAbr01-2018,*,F,Candelaria CA 01 GNL,*,17.8105,*,*,*,*,*,*,*
+22,T,SemEne04-2018,SemFeb02-2018,*,F,Candelaria CA 02 GNL,*,6.091295238,*,*,*,*,*,*,*
+23,T,SemMar04-2018,SemMar04-2018,*,F,Candelaria CA 02 GNL,*,20.5172,*,*,*,*,*,*,*
+24,T,SemAbr01-2018,SemAbr01-2018,*,F,Candelaria CA 02 GNL,*,18.27388571,*,*,*,*,*,*,*
+25,T,SemOct02-2018,SemOct03-2018,*,F,Cardones,*,0,*,*,*,*,*,*,*
+26,T,SemEne01-2018,SemEne01-2018,*,F,Chiloé,*,8.571428571,*,*,*,*,*,*,*
+27,T,SemEne02-2018,SemEne02-2018,*,F,Chiloé,*,8.571428571,*,*,*,*,*,*,*
+28,T,SemEne03-2018,SemEne03-2018,*,F,Chiloé,*,8.571428571,*,*,*,*,*,*,*
+29,T,SemEne04-2018,SemEne04-2018,*,F,Chiloé,*,8.571428571,*,*,*,*,*,*,*
+30,T,SemFeb01-2018,SemFeb01-2018,*,F,Chiloé,*,8.571428571,*,*,*,*,*,*,*
+31,T,SemFeb02-2018,SemFeb02-2018,*,F,Chiloé,*,8.571428571,*,*,*,*,*,*,*
+32,T,SemMar03-2018,SemMar04-2018,*,F,cholguan 00,*,2.571428571,*,*,*,*,*,*,*
+33,T,SemMar03-2018,SemMar04-2018,*,F,cholguan 01,*,1.142857143,*,*,*,*,*,*,*
+34,T,SemMar03-2018,SemAbr01-2018,*,F,CMPC Santa Fe,*,13.44857143,*,*,*,*,*,*,*
+35,T,SemOct04-2018,SemNov02-2018,*,F,CMPC Santa Fe,*,13.44857143,*,*,*,*,*,*,*
+36,T,SemMar01-2018,SemMar01-2018,*,F,CMPC Tissue,*,1.714285714,*,*,*,*,*,*,*
+37,T,SemOct03-2018,SemOct03-2018,*,F,CMPC Tissue,*,1.142857143,*,*,*,*,*,*,*
+38,T,SemOct03-2018,SemOct04-2018,*,F,Coelemu,*,0.841451429,*,*,*,*,*,*,*
+39,T,SemEne01-2018,SemEne01-2018,*,F,Colihues,*,6.80625,*,*,*,*,*,*,*
+40,T,SemFeb04-2018,SemFeb04-2018,*,F,Colihues,*,9.68,*,*,*,*,*,*,*
+41,T,SemMay03-2018,SemMay04-2018,*,F,Colihues,*,9.68,*,*,*,*,*,*,*
+42,T,SemSep02-2018,SemSep02-2018,*,F,Colihues,*,9.68,*,*,*,*,*,*,*
+43,T,SemSep03-2018,SemSep03-2018,*,F,Colihues,*,12.55375,*,*,*,*,*,*,*
+44,T,SemNov03-2018,SemNov04-2018,*,F,Colmito Diesel,*,2.61,*,*,*,*,*,*,*
+45,T,SemNov03-2018,SemNov04-2018,*,F,Colmito GNL ,*,2.61,*,*,*,*,*,*,*
+46,T,SemNov03-2018,SemNov04-2018,*,F,Colmito GNL TP,*,2.61,*,*,*,*,*,*,*
+47,T,SemFeb04-2018,SemMar01-2018,*,F,Constitucion,*,1.5,*,*,*,*,*,*,*
+48,T,SemEne02-2018,SemEne02-2018,*,F,Cordillera 01,*,2.857142857,*,*,*,*,*,*,*
+49,T,SemOct01-2018,SemOct01-2018,*,F,Cordillera 01,*,0.571428571,*,*,*,*,*,*,*
+50,T,SemEne02-2018,SemEne02-2018,*,F,Cordillera 02,*,5.714285714,*,*,*,*,*,*,*
+51,T,SemEne02-2018,SemEne02-2018,*,F,Cordillera 03,*,8.571428571,*,*,*,*,*,*,*
+52,T,SemJun04-2018,SemJul01-2018,*,F,Degañ,*,16.45714286,*,*,*,*,*,*,*
+53,T,SemNov02-2018,SemNov03-2018,*,F,Degañ,*,14.01428571,*,*,*,*,*,*,*
+54,T,SemFeb02-2019,SemFeb03-2019,*,F,Diego de Almagro TG,*,8.026242857,*,*,*,*,*,*,*
+55,T,SemMar03-2018,SemMar03-2018,*,F,El Arrayán,*,49.28078571,*,*,*,*,*,*,*
+56,T,SemNov02-2018,SemDic02-2018,*,F,Energía Pacífico,*,3.5052,*,*,*,*,*,*,*
+57,T,SemMar02-2018,SemMar03-2018,*,F,Eólica Lebu,*,0.465045714,*,*,*,*,*,*,*
+58,T,SemEne02-2018,SemEne02-2018,*,F,Escuadron 01,*,4.548126463,*,*,*,*,*,*,*
+59,T,SemEne01-2018,SemEne01-2018,*,F,Esperanza 01,*,5.854857143,*,*,*,*,*,*,*
+60,T,SemEne01-2018,SemEne01-2018,*,F,Esperanza 02,*,0.455352381,*,*,*,*,*,*,*
+61,T,SemEne01-2018,SemEne01-2018,*,F,Esperanza 03,*,0.569571429,*,*,*,*,*,*,*
+62,T,SemFeb02-2018,SemFeb02-2018,*,F,Espinos 01,*,87.14285714,*,*,*,*,*,*,*
+63,T,SemJun03-2018,SemJun03-2018,*,F,Espinos 01,*,74.28571429,*,*,*,*,*,*,*
+64,T,SemSep01-2018,SemSep01-2018,*,F,Espinos 01,*,61.42857143,*,*,*,*,*,*,*
+65,T,SemNov02-2018,SemNov02-2018,*,F,Espinos 01,*,74.28571429,*,*,*,*,*,*,*
+66,T,SemNov03-2018,SemNov03-2018,*,F,Espinos 01,*,87.14285714,*,*,*,*,*,*,*
+67,T,SemFeb02-2018,SemFeb02-2018,*,F,Espinos 02,*,13.71428571,*,*,*,*,*,*,*
+68,T,SemJun03-2018,SemJun03-2018,*,F,Espinos 02,*,17.14285714,*,*,*,*,*,*,*
+69,T,SemSep01-2018,SemSep01-2018,*,F,Espinos 02,*,13.71428571,*,*,*,*,*,*,*
+70,T,SemNov02-2018,SemNov02-2018,*,F,Espinos 02,*,17.14285714,*,*,*,*,*,*,*
+71,T,SemNov03-2018,SemNov03-2018,*,F,Espinos 02,*,20.57142857,*,*,*,*,*,*,*
+72,T,SemFeb04-2018,SemMar01-2018,*,F,Guacolda 01,*,65.22975272,*,*,*,*,*,*,*
+73,T,SemJun02-2018,SemJun03-2018,*,F,Guacolda 03,*,60.35379069,*,*,*,*,*,*,*
+74,T,SemEne02-2019,SemEne04-2019,*,F,Guacolda 03,*,9.186984476,*,*,*,*,*,*,*
+75,T,SemEne02-2018,SemFeb01-2018,*,F,Guacolda 04,*,26.1719454,*,*,*,*,*,*,*
+76,T,SemJul03-2018,SemAgo02-2018,*,F,Guacolda 05,*,26.42948629,*,*,*,*,*,*,*
+77,T,SemMay01-2018,SemMay02-2018,*,F,Horcones TG Diesel,*,5.207142857,*,*,*,*,*,*,*
+78,T,SemAgo02-2018,SemAgo02-2018,*,F,Huasco TG,*,25.281,*,*,*,*,*,*,*
+79,T,SemAgo03-2018,SemAgo03-2018,*,F,Huasco TG,*,30.681,*,*,*,*,*,*,*
+80,T,SemMay01-2018,SemMay01-2018,*,F,Laja 01,*,5.655,*,*,*,*,*,*,*
+81,T,SemNov03-2018,SemNov04-2018,*,F,Laja 01,*,2.262,*,*,*,*,*,*,*
+82,T,SemMay01-2018,SemMay01-2018,*,F,Laja 02,*,2.535,*,*,*,*,*,*,*
+83,T,SemNov03-2018,SemNov04-2018,*,F,Laja 02,*,1.014,*,*,*,*,*,*,*
+84,T,SemOct02-2018,SemOct04-2018,*,F,Laja CMPC 01,*,1.546428571,*,*,*,*,*,*,*
+85,T,SemOct02-2018,SemOct04-2018,*,F,Laja CMPC 02,*,3.092857143,*,*,*,*,*,*,*
+86,T,SemOct02-2018,SemOct04-2018,*,F,Laja CMPC 03,*,3.092857143,*,*,*,*,*,*,*
+87,T,SemNov03-2018,SemNov04-2018,*,F,Laja CMPC 01,*,0,*,*,*,*,*,*,*
+88,T,SemNov03-2018,SemNov04-2018,*,F,Laja CMPC 02,*,0.33,*,*,*,*,*,*,*
+89,T,SemNov03-2018,SemNov04-2018,*,F,Laja CMPC 03,*,0.33,*,*,*,*,*,*,*
+90,T,SemMay02-2018,SemMay03-2018,*,F,Lautaro 2,*,8.794792354,*,*,*,*,*,*,*
+91,T,SemNov02-2018,SemNov03-2018,*,F,Lautaro 2,*,4.502839486,*,*,*,*,*,*,*
+92,T,SemFeb01-2018,SemFeb02-2018,*,F,licanten 00,*,2.142857143,*,*,*,*,*,*,*
+93,T,SemNov02-2018,SemNov02-2018,*,F,Los Guindos,*,83.47540571,*,*,*,*,*,*,*
+94,T,SemMay04-2018,SemMay04-2018,*,F,Los Pinos,*,62.25376371,*,*,*,*,*,*,*
+95,T,SemJun02-2018,SemJun02-2018,*,F,Los Pinos,*,62.25376371,*,*,*,*,*,*,*
+96,T,SemOct03-2018,SemOct04-2018,*,F,Los Pinos,*,35.19662086,*,*,*,*,*,*,*
+97,T,SemNov03-2018,SemNov04-2018,*,F,Los Pinos,*,35.19662086,*,*,*,*,*,*,*
+98,T,SemJun02-2019,SemJun02-2019,*,F,Los Pinos,*,62.25376371,*,*,*,*,*,*,*
+99,T,SemOct02-2018,SemOct02-2018,*,F,Los Vientos,*,37.52571429,*,*,*,*,*,*,*
+100,T,SemOct04-2018,SemOct04-2018,*,F,Los Vientos,*,37.52571429,*,*,*,*,*,*,*
+101,T,SemMar02-2018,SemMar02-2018,*,F,Masisa,*,9.428571429,*,*,*,*,*,*,*
+102,T,SemMar01-2018,SemMar01-2018,*,F,Masisa,*,4.297332583,*,*,*,*,*,*,*
+103,T,SemAgo01-2018,SemSep01-2018,*,F,Masisa,*,3.403643594,*,*,*,*,*,*,*
+104,T,SemNov03-2018,SemNov03-2018,*,F,Masisa,*,3.142857143,*,*,*,*,*,*,*
+105,T,SemNov04-2018,SemDic01-2018,*,F,Masisa,*,3.180221347,*,*,*,*,*,*,*
+106,T,SemMar01-2019,SemMar01-2019,*,F,Masisa,*,3.180221347,*,*,*,*,*,*,*
+107,T,SemMar03-2019,SemMar03-2019,*,F,Masisa,*,3.180221347,*,*,*,*,*,*,*
+108,T,SemMar04-2018,SemMar04-2018,*,F,Nehuenco 01 Diesel,*,221.4285714,*,*,*,*,*,*,*
+109,T,SemAbr02-2018,SemAbr02-2018,*,F,Nehuenco 01 Diesel,*,221.4285714,*,*,*,*,*,*,*
+110,T,SemJun04-2018,SemJun04-2018,*,F,Nehuenco 01 Diesel,*,177.1428571,*,*,*,*,*,*,*
+111,T,SemAgo01-2018,SemAgo01-2018,*,F,Nehuenco 01 Diesel,*,221.4285714,*,*,*,*,*,*,*
+112,T,SemOct03-2018,SemOct03-2018,*,F,Nehuenco 01 Diesel,*,177.1428571,*,*,*,*,*,*,*
+113,T,SemDic01-2018,SemDic02-2018,*,F,Nehuenco 01 Diesel,*,88.57142857,*,*,*,*,*,*,*
+114,T,SemMay01-2019,SemMay01-2019,*,F,Nehuenco 01 Diesel,*,221.4285714,*,*,*,*,*,*,*
+115,T,SemMay02-2019,SemMay03-2019,*,F,Nehuenco 01 Diesel,*,44.28571429,*,*,*,*,*,*,*
+116,T,SemMar04-2018,SemMar04-2018,*,F,Nehuenco 01 FA GNL,*,15.28071429,*,*,*,*,*,*,*
+117,T,SemAbr02-2018,SemAbr02-2018,*,F,Nehuenco 01 FA GNL,*,15.28071429,*,*,*,*,*,*,*
+118,T,SemJun04-2018,SemJun04-2018,*,F,Nehuenco 01 FA GNL,*,12.22457143,*,*,*,*,*,*,*
+119,T,SemAgo01-2018,SemAgo01-2018,*,F,Nehuenco 01 FA GNL,*,15.28071429,*,*,*,*,*,*,*
+120,T,SemOct03-2018,SemOct03-2018,*,F,Nehuenco 01 FA GNL,*,12.22457143,*,*,*,*,*,*,*
+121,T,SemDic01-2018,SemDic02-2018,*,F,Nehuenco 01 FA GNL,*,6.112285714,*,*,*,*,*,*,*
+122,T,SemMay01-2019,SemMay01-2019,*,F,Nehuenco 01 FA GNL,*,15.28071429,*,*,*,*,*,*,*
+123,T,SemMay02-2019,SemMay03-2019,*,F,Nehuenco 01 FA GNL,*,3.056142857,*,*,*,*,*,*,*
+124,T,SemMar04-2018,SemMar04-2018,*,F,Nehuenco 01 GNL,*,254.7367143,*,*,*,*,*,*,*
+125,T,SemAbr02-2018,SemAbr02-2018,*,F,Nehuenco 01 GNL,*,254.7367143,*,*,*,*,*,*,*
+126,T,SemJun04-2018,SemJun04-2018,*,F,Nehuenco 01 GNL,*,212.0795714,*,*,*,*,*,*,*
+127,T,SemAgo01-2018,SemAgo01-2018,*,F,Nehuenco 01 GNL,*,254.7367143,*,*,*,*,*,*,*
+128,T,SemOct03-2018,SemOct03-2018,*,F,Nehuenco 01 GNL,*,212.0795714,*,*,*,*,*,*,*
+129,T,SemDic01-2018,SemDic02-2018,*,F,Nehuenco 01 GNL,*,126.7652857,*,*,*,*,*,*,*
+130,T,SemMay01-2019,SemMay01-2019,*,F,Nehuenco 01 GNL,*,254.7367143,*,*,*,*,*,*,*
+131,T,SemMay02-2019,SemMay03-2019,*,F,Nehuenco 01 GNL,*,84.10814286,*,*,*,*,*,*,*
+132,T,SemMar02-2018,SemMar02-2018,*,F,Nehuenco 02 Diesel,*,231.9571429,*,*,*,*,*,*,*
+133,T,SemMar04-2018,SemMar04-2018,*,F,Nehuenco 02 Diesel,*,284.9714286,*,*,*,*,*,*,*
+134,T,SemJun02-2018,SemJun02-2018,*,F,Nehuenco 02 Diesel,*,231.9571429,*,*,*,*,*,*,*
+135,T,SemJul03-2018,SemJul03-2018,*,F,Nehuenco 02 Diesel,*,284.9714286,*,*,*,*,*,*,*
+136,T,SemOct01-2018,SemOct03-2018,*,F,Nehuenco 02 Diesel,*,90.58571429,*,*,*,*,*,*,*
+137,T,SemOct04-2018,SemOct04-2018,*,F,Nehuenco 02 Diesel,*,125.9285714,*,*,*,*,*,*,*
+138,T,SemEne03-2019,SemEne03-2019,*,F,Nehuenco 02 Diesel,*,231.9571429,*,*,*,*,*,*,*
+139,T,SemAbr02-2019,SemAbr02-2019,*,F,Nehuenco 02 Diesel,*,284.9714286,*,*,*,*,*,*,*
+140,T,SemAbr03-2019,SemAbr03-2019,*,F,Nehuenco 02 Diesel,*,231.9571429,*,*,*,*,*,*,*
+141,T,SemMar02-2018,SemMar02-2018,*,F,Nehuenco 02 GNL,*,227.9,*,*,*,*,*,*,*
+142,T,SemMar04-2018,SemMar04-2018,*,F,Nehuenco 02 GNL,*,280,*,*,*,*,*,*,*
+143,T,SemJun02-2018,SemJun02-2018,*,F,Nehuenco 02 GNL,*,227.9,*,*,*,*,*,*,*
+144,T,SemJul03-2018,SemJul03-2018,*,F,Nehuenco 02 GNL,*,280,*,*,*,*,*,*,*
+145,T,SemOct01-2018,SemOct03-2018,*,F,Nehuenco 02 GNL,*,88.96666667,*,*,*,*,*,*,*
+146,T,SemOct04-2018,SemOct04-2018,*,F,Nehuenco 02 GNL,*,123.7,*,*,*,*,*,*,*
+147,T,SemEne03-2019,SemEne03-2019,*,F,Nehuenco 02 GNL,*,227.9,*,*,*,*,*,*,*
+148,T,SemAbr02-2019,SemAbr02-2019,*,F,Nehuenco 02 GNL,*,280,*,*,*,*,*,*,*
+149,T,SemAbr03-2019,SemAbr03-2019,*,F,Nehuenco 02 GNL,*,227.9,*,*,*,*,*,*,*
+150,T,SemMar03-2018,SemAbr01-2018,*,F,Nehuenco 9B 01 Diesel,*,23.04761905,*,*,*,*,*,*,*
+151,T,SemSep04-2018,SemOct01-2018,*,F,Nueva Aldea 01,*,5,*,*,*,*,*,*,*
+152,T,SemMar03-2018,SemMar04-2018,*,F,Nueva Aldea 02 Diesel,*,2.142857143,*,*,*,*,*,*,*
+153,T,SemNov02-2018,SemNov03-2018,*,F,Nueva Aldea 03,*,7.928571429,*,*,*,*,*,*,*
+154,T,SemFeb01-2018,SemAbr01-2018,*,F,Nueva Ventanas,*,10.70091162,*,*,*,*,*,*,*
+155,T,SemFeb02-2018,SemFeb02-2018,*,F,Olivos 01,*,53.14285714,*,*,*,*,*,*,*
+156,T,SemJun03-2018,SemJun03-2018,*,F,Olivos 01,*,53.14285714,*,*,*,*,*,*,*
+157,T,SemSep02-2018,SemSep02-2018,*,F,Olivos 01,*,53.14285714,*,*,*,*,*,*,*
+158,T,SemNov03-2018,SemNov03-2018,*,F,Olivos 01,*,53.14285714,*,*,*,*,*,*,*
+159,T,SemFeb02-2018,SemFeb02-2018,*,F,Olivos 02,*,12.68571429,*,*,*,*,*,*,*
+160,T,SemJun03-2018,SemJun03-2018,*,F,Olivos 02,*,12.68571429,*,*,*,*,*,*,*
+161,T,SemSep02-2018,SemSep02-2018,*,F,Olivos 02,*,12.68571429,*,*,*,*,*,*,*
+162,T,SemNov03-2018,SemNov03-2018,*,F,Olivos 02,*,12.68571429,*,*,*,*,*,*,*
+163,T,SemMar01-2018,SemMar03-2018,*,F,Pacífico CMPC 01,*,3.314285714,*,*,*,*,*,*,*
+164,T,SemFeb04-2018,SemAbr01-2018,*,F,Pacífico CMPC 02,*,0.519047619,*,*,*,*,*,*,*
+165,T,SemSep01-2018,SemSep01-2018,*,F,Punta Colorada 01 Fuel,*,11.86357143,*,*,*,*,*,*,*
+166,T,SemMar02-2018,SemMar04-2018,*,F,Quintay,*,2.321428571,*,*,*,*,*,*,*
+167,T,SemAbr02-2018,SemAbr04-2018,*,F,Quintay,*,2.321428571,*,*,*,*,*,*,*
+168,T,SemMar02-2018,SemMar02-2018,*,F,Quintero CC FA GNL,*,5,*,*,*,*,*,*,*
+169,T,SemMar02-2018,SemMar02-2018,*,F,Quintero CC GNL,*,243.2,*,*,*,*,*,*,*
+170,T,SemMar02-2018,SemMar02-2018,*,F,Quintero 01 CA Diesel,*,20.304,*,*,*,*,*,*,*
+171,T,SemMar02-2018,SemMar02-2018,*,F,Quintero 01 CA GNL,*,20.304,*,*,*,*,*,*,*
+172,T,SemMar02-2018,SemMar02-2018,*,F,Quintero 02 CA Diesel,*,21.297,*,*,*,*,*,*,*
+173,T,SemMar02-2018,SemMar02-2018,*,F,Quintero 02 CA GNL,*,21.297,*,*,*,*,*,*,*
+174,T,SemOct02-2018,SemOct02-2018,*,F,Quintero CC FA GNL,*,0,*,*,*,*,*,*,*
+175,T,SemOct02-2018,SemOct02-2018,*,F,Quintero CC GNL,*,225.4,*,*,*,*,*,*,*
+176,T,SemOct02-2018,SemOct02-2018,*,F,Quintero 01 CA Diesel,*,2.504,*,*,*,*,*,*,*
+177,T,SemOct02-2018,SemOct02-2018,*,F,Quintero 01 CA GNL,*,2.504,*,*,*,*,*,*,*
+178,T,SemOct02-2018,SemOct02-2018,*,F,Quintero 02 CA Diesel,*,3.497,*,*,*,*,*,*,*
+179,T,SemOct02-2018,SemOct02-2018,*,F,Quintero 02 CA GNL,*,3.497,*,*,*,*,*,*,*
+180,T,SemOct03-2018,SemOct03-2018,*,F,Quintero CC FA GNL,*,0,*,*,*,*,*,*,*
+181,T,SemOct03-2018,SemOct03-2018,*,F,Quintero CC GNL,*,222.6,*,*,*,*,*,*,*
+182,T,SemOct03-2018,SemOct03-2018,*,F,Quintero 01 CA Diesel,*,0,*,*,*,*,*,*,*
+183,T,SemOct03-2018,SemOct03-2018,*,F,Quintero 01 CA GNL,*,0,*,*,*,*,*,*,*
+184,T,SemOct03-2018,SemOct03-2018,*,F,Quintero 02 CA Diesel,*,0.697,*,*,*,*,*,*,*
+185,T,SemOct03-2018,SemOct03-2018,*,F,Quintero 02 CA GNL,*,0.697,*,*,*,*,*,*,*
+186,T,SemMar01-2019,SemMar03-2019,*,F,Quintero CC FA GNL,*,8.333333333,*,*,*,*,*,*,*
+187,T,SemMar01-2019,SemMar03-2019,*,F,Quintero CC GNL,*,252.9333333,*,*,*,*,*,*,*
+188,T,SemMar01-2019,SemMar03-2019,*,F,Quintero 01 CA Diesel,*,30.26285714,*,*,*,*,*,*,*
+189,T,SemMar01-2019,SemMar03-2019,*,F,Quintero 01 CA GNL,*,30.26285714,*,*,*,*,*,*,*
+190,T,SemMar01-2019,SemMar03-2019,*,F,Quintero 02 CA Diesel,*,31.03033333,*,*,*,*,*,*,*
+191,T,SemMar01-2019,SemMar03-2019,*,F,Quintero 02 CA GNL,*,31.03033333,*,*,*,*,*,*,*
+192,T,SemAgo01-2018,SemAgo04-2018,*,F,Renaico,*,83.09714286,*,*,*,*,*,*,*
+193,T,SemOct02-2018,SemDic03-2018,*,F,San Isidro Diesel,*,13.07142857,*,*,*,*,*,*,*
+194,T,SemOct02-2018,SemDic03-2018,*,F,San Isidro GNL,*,163.2842857,*,*,*,*,*,*,*
+195,T,SemJun03-2018,SemEne03-2019,*,F,Santa Fe 01,*,0.742520879,*,*,*,*,*,*,*
+196,T,SemJun03-2018,SemEne03-2019,*,F,Santa Fe 02,*,0.734231868,*,*,*,*,*,*,*
+197,T,SemJun03-2018,SemEne03-2019,*,F,Santa Fe 03,*,0.177362637,*,*,*,*,*,*,*
+198,T,SemJun03-2018,SemEne03-2019,*,F,Santa Fe 04,*,0.46941978,*,*,*,*,*,*,*
+199,T,SemDic03-2017,SemMar01-2018,*,F,Santa Lidia,*,7.262849286,*,*,*,*,*,*,*
+200,T,SemNov02-2018,SemDic01-2018,*,F,Santa Maria,*,88.58028571,*,*,*,*,*,*,*
+201,T,SemMar02-2018,SemMar04-2018,*,F,Taltal 01 GNL,*,29.32219048,*,*,*,*,*,*,*
+202,T,SemMar02-2018,SemMar04-2018,*,F,Taltal 02 GNL,*,28.87071429,*,*,*,*,*,*,*
+203,T,SemMar02-2018,SemMar04-2018,*,F,Taltal CC GNL,*,85.71428571,*,*,*,*,*,*,*
+204,T,SemMar02-2018,SemMar04-2018,*,F,Taltal 01 Diesel,*,26.19047619,*,*,*,*,*,*,*
+205,T,SemMar02-2018,SemMar04-2018,*,F,Taltal 02 Diesel,*,26.19047619,*,*,*,*,*,*,*
+206,T,SemJun01-2018,SemJun01-2018,*,F,Taltal 01 GNL,*,87.96657143,*,*,*,*,*,*,*
+207,T,SemJun01-2018,SemJun01-2018,*,F,Taltal 02 GNL,*,86.61214286,*,*,*,*,*,*,*
+208,T,SemJun01-2018,SemJun01-2018,*,F,Taltal CC GNL,*,257.1428571,*,*,*,*,*,*,*
+209,T,SemJun01-2018,SemJun01-2018,*,F,Taltal 01 Diesel,*,78.57142857,*,*,*,*,*,*,*
+210,T,SemJun01-2018,SemJun01-2018,*,F,Taltal 02 Diesel,*,78.57142857,*,*,*,*,*,*,*
+211,T,SemJun01-2019,SemJun01-2019,*,F,Taltal 01 GNL,*,87.96657143,*,*,*,*,*,*,*
+212,T,SemJun01-2019,SemJun01-2019,*,F,Taltal 02 GNL,*,86.61214286,*,*,*,*,*,*,*
+213,T,SemJun01-2019,SemJun01-2019,*,F,Taltal CC GNL,*,257.1428571,*,*,*,*,*,*,*
+214,T,SemJun01-2019,SemJun01-2019,*,F,Taltal 01 Diesel,*,78.57142857,*,*,*,*,*,*,*
+215,T,SemJun01-2019,SemJun01-2019,*,F,Taltal 02 Diesel,*,78.57142857,*,*,*,*,*,*,*
+216,T,SemEne03-2018,SemEne03-2018,*,F,Ucuquer II Eólico,*,7.59,*,*,*,*,*,*,*
+217,T,SemMar02-2018,SemMar03-2018,*,F,valdivia 01,*,1.714285714,*,*,*,*,*,*,*
+218,T,SemMar02-2018,SemMar03-2018,*,F,valdivia 02,*,2.571428571,*,*,*,*,*,*,*
+219,T,SemMar02-2018,SemMar03-2018,*,F,valdivia 03,*,1.714285714,*,*,*,*,*,*,*
+220,T,SemMar02-2018,SemMar03-2018,*,F,valdivia 04,*,11.42857143,*,*,*,*,*,*,*
+221,T,SemNov04-2018,SemDic01-2018,*,F,valdivia 01,*,1.285714286,*,*,*,*,*,*,*
+222,T,SemNov04-2018,SemDic01-2018,*,F,valdivia 02,*,1.928571429,*,*,*,*,*,*,*
+223,T,SemNov04-2018,SemDic01-2018,*,F,valdivia 03,*,1.285714286,*,*,*,*,*,*,*
+224,T,SemNov04-2018,SemDic01-2018,*,F,valdivia 04,*,8.571428571,*,*,*,*,*,*,*
+225,T,SemJul01-2018,SemAgo01-2018,*,F,Ventanas 01,*,29.16078687,*,*,*,*,*,*,*
+226,T,SemEne02-2018,SemEne02-2018,*,F,Ventanas 02,*,88.15371812,*,*,*,*,*,*,*
+227,T,SemAgo03-2018,SemSep03-2018,*,F,Ventanas 02,*,64.07246174,*,*,*,*,*,*,*
+228,T,SemNov02-2018,SemNov03-2018,*,F,Viñales 01,*,1.714285714,*,*,*,*,*,*,*
+229,T,SemSep02-2018,SemSep03-*,*,T,Ancali 1,*,0,*,*,*,*,*,*,*
+230,T,SemEne02-2018,SemEne02-*,*,T,Andes Generación TG1,*,0,*,*,*,*,*,*,*
+231,T,SemEne02-2018,SemEne02-*,*,T,Andes Generación TG2,*,0,*,*,*,*,*,*,*
+232,T,SemEne02-2018,SemEne02-*,*,T,Andes Generación TG3,*,0,*,*,*,*,*,*,*
+233,T,SemEne02-2018,SemEne02-*,*,T,Andes Generación TG4,*,0,*,*,*,*,*,*,*
+234,T,SemOct02-2020,SemOct02-*,*,T,Antilhue TG 01,*,0,*,*,*,*,*,*,*
+235,T,SemOct02-2020,SemOct02-*,*,T,Antilhue TG 02,*,0,*,*,*,*,*,*,*
+236,T,SemMay02-2019,SemMay03-*,*,T,Arauco 01,*,0,*,*,*,*,*,*,*
+237,T,SemMay02-2018,SemMay03-*,*,T,Arauco 02,*,0,*,*,*,*,*,*,*
+238,T,SemMay02-2018,SemMay03-*,*,T,Arauco 03,*,0,*,*,*,*,*,*,*
+239,T,SemJul04-2018,SemJul04-*,*,T,Bellavista,*,0,*,*,*,*,*,*,*
+240,T,SemAgo01-2018,SemAgo01-*,*,T,Bio Cruz,*,0,*,*,*,*,*,*,*
+241,T,SemJul03-2018,SemJul03-*,*,T,Biomar,*,0,*,*,*,*,*,*,*
+242,T,SemSep01-2018,SemSep03-*,*,T,Bocamina 01,*,0,*,*,*,*,*,*,*
+243,T,SemEne01-2018,SemEne04-*,*,T,Bocamina 02,*,0,*,*,*,*,*,*,*
+244,T,SemJul01-2018,SemJul01-*,*,T,Cabo Leones I,*,0,*,*,*,*,*,*,*
+245,T,SemAgo01-2018,SemAgo01-*,*,T,Calle-Calle,*,0,*,*,*,*,*,*,*
+246,T,SemDic02-2019,SemDic03-*,*,T,Candelaria CA 01 GNL,*,0,*,*,*,*,*,*,*
+247,T,SemDic02-2019,SemDic03-*,*,T,Candelaria CA 02 GNL,*,0,*,*,*,*,*,*,*
+248,T,SemSep02-2023,SemSep03-*,*,T,Candelaria CC GNL,*,0,*,*,*,*,*,*,*
+249,T,SemNov02-2018,SemNov03-*,*,T,Candelaria CA 01 Diesel,*,0,*,*,*,*,*,*,*
+250,T,SemNov02-2018,SemNov03-*,*,T,Candelaria CA 02 Diesel,*,0,*,*,*,*,*,*,*
+251,T,SemJun01-2018,SemJun01-*,*,T,Cañete,*,0,*,*,*,*,*,*,*
+252,T,SemOct02-2019,SemOct03-*,*,T,Cardones,*,0,*,*,*,*,*,*,*
+253,T,SemMay01-2018,SemMay01-*,*,T,Carrera Pinto Etapa I,*,0,*,*,*,*,*,*,*
+254,T,SemMay02-2018,SemMay02-*,*,T,Carrera Pinto Etapa II,*,0,*,*,*,*,*,*,*
+255,T,SemMar04-2018,SemMar04-*,*,T,Casablanca 1,*,0,*,*,*,*,*,*,*
+256,T,SemMay04-2018,SemMay04-*,*,T,Casablanca 2,*,0,*,*,*,*,*,*,*
+257,T,SemMar04-2018,SemMar04-*,*,T,Casas Blancas FV,*,0,*,*,*,*,*,*,*
+258,T,SemOct04-2018,SemNov01-*,*,T,Celco 01,*,0,*,*,*,*,*,*,*
+259,T,SemOct04-2018,SemNov01-*,*,T,Celco 02,*,0,*,*,*,*,*,*,*
+260,T,SemOct04-2018,SemNov01-*,*,T,Celco 03,*,0,*,*,*,*,*,*,*
+261,T,SemOct04-2018,SemOct04-*,*,T,Cementos Bio Bio,*,6.766,*,*,*,*,*,*,*
+262,T,SemMay04-2018,SemMay04-*,*,T,Cenizas,*,9.266666667,*,*,*,*,*,*,*
+263,T,SemJul03-2018,SemJul03-*,*,T,Chañares,*,0,*,*,*,*,*,*,*
+264,T,SemJul02-2033,SemJul04-*,*,T,Charrua CC I,*,0,*,*,*,*,*,*,*
+265,T,SemAgo01-2019,SemAgo01-*,*,T,Chiloé,*,8,*,*,*,*,*,*,*
+266,T,SemAbr02-2019,SemAbr03-*,*,T,cholguan 00,*,0,*,*,*,*,*,*,*
+267,T,SemAbr02-2019,SemAbr03-*,*,T,cholguan 01,*,0,*,*,*,*,*,*,*
+268,T,SemJun02-2018,SemJun02-*,*,T,Chuchiñi,*,0,*,*,*,*,*,*,*
+269,T,SemMay03-2018,SemMay03-*,*,T,Chufken,*,0,*,*,*,*,*,*,*
+270,T,SemOct04-2018,SemOct04-*,*,T,Chuyaca,*,9.416666667,*,*,*,*,*,*,*
+271,T,SemAbr02-2019,SemAbr03-*,*,T,Laja CMPC 01,*,0,*,*,*,*,*,*,*
+272,T,SemAbr02-2019,SemAbr03-*,*,T,Laja CMPC 02,*,0,*,*,*,*,*,*,*
+273,T,SemAbr02-2019,SemAbr03-*,*,T,Laja CMPC 03,*,0,*,*,*,*,*,*,*
+274,T,SemAgo01-2019,SemAgo02-*,*,T,Pacífico CMPC 01,*,0,*,*,*,*,*,*,*
+275,T,SemAgo01-2019,SemAgo02-*,*,T,Pacífico CMPC 02,*,0,*,*,*,*,*,*,*
+276,T,SemAgo01-2018,SemAgo02-*,*,T,Pacífico CMPC 03,*,0,*,*,*,*,*,*,*
+277,T,SemOct02-2019,SemOct04-*,*,T,CMPC Tissue,*,0,*,*,*,*,*,*,*
+278,T,SemAgo03-2019,SemAgo04-*,*,T,Coelemu,*,0,*,*,*,*,*,*,*
+279,T,SemJun01-2019,SemJun01-*,*,T,Colihues,*,10.5875,*,*,*,*,*,*,*
+280,T,SemNov04-2019,SemDic01-*,*,T,Colmito Diesel,*,0,*,*,*,*,*,*,*
+281,T,SemNov04-2019,SemDic01-*,*,T,Colmito GNL ,*,0,*,*,*,*,*,*,*
+282,T,SemNov04-2019,SemDic01-*,*,T,Colmito GNL TP,*,0,*,*,*,*,*,*,*
+283,T,SemDic01-2020,SemDic02-*,*,T,Lautaro 1/1,*,0,*,*,*,*,*,*,*
+284,T,SemDic01-2020,SemDic02-*,*,T,Lautaro 1/2,*,0,*,*,*,*,*,*,*
+285,T,SemDic01-2019,SemDic02-*,*,T,Lautaro 2,*,0,*,*,*,*,*,*,*
+286,T,SemJun01-2018,SemJun01-*,*,T,Con Con,*,1.533333333,*,*,*,*,*,*,*
+287,T,SemJul02-2018,SemJul02-*,*,T,Conejo I,*,0,*,*,*,*,*,*,*
+288,T,SemJun03-2019,SemJun04-*,*,T,Constitucion,*,0,*,*,*,*,*,*,*
+289,T,SemOct04-2018,SemOct04-*,*,T,Constitución Elektragen,*,7.5,*,*,*,*,*,*,*
+290,T,SemMay04-2018,SemMay04-*,*,T,Contulmo,*,0,*,*,*,*,*,*,*
+291,T,SemSep02-2019,SemSep02-*,*,T,Cordillera 01,*,0,*,*,*,*,*,*,*
+292,T,SemSep03-2019,SemSep03-*,*,T,Cordillera 02,*,0,*,*,*,*,*,*,*
+293,T,SemSep04-2019,SemSep04-*,*,T,Cordillera 03,*,0,*,*,*,*,*,*,*
+294,T,SemAgo04-2018,SemAgo04-*,*,T,Cordillera PV,*,0,*,*,*,*,*,*,*
+295,T,SemJul04-2018,SemJul04-*,*,T,Coronel TG Diesel,*,0,*,*,*,*,*,*,*
+296,T,SemNov01-2018,SemNov03-*,*,T,CTM3 SING,*,0,*,*,*,*,*,*,*
+297,T,SemMar03-2018,SemMar03-*,*,T,Curacautin,*,0,*,*,*,*,*,*,*
+298,T,SemJun02-2018,SemJun02-*,*,T,Curauma,*,0,*,*,*,*,*,*,*
+299,T,SemJul03-2018,SemJul03-*,*,T,Curicó,*,0,*,*,*,*,*,*,*
+300,T,SemEne04-2018,SemEne04-*,*,T,Danisco,*,0,*,*,*,*,*,*,*
+301,T,SemAgo01-2019,SemAgo01-*,*,T,Degañ,*,34.36363636,*,*,*,*,*,*,*
+302,T,SemJun02-2020,SemJun02-*,*,T,Diego de Almagro TG,*,0,*,*,*,*,*,*,*
+303,T,SemJun01-2018,SemJun01-*,*,T,Diego de Almagro FV,*,0,*,*,*,*,*,*,*
+304,T,SemJul01-2018,SemJul01-*,*,T,Diego de Almagro FV II,*,0,*,*,*,*,*,*,*
+305,T,SemAgo03-2018,SemAgo03-*,*,T,Divisadero,*,0,*,*,*,*,*,*,*
+306,T,SemNov01-2018,SemNov02-*,*,T,Doña Carmen,*,0,*,*,*,*,*,*,*
+307,T,SemJun04-2018,SemAgo04-*,*,T,Doña Carmen PV,*,0,*,*,*,*,*,*,*
+308,T,SemMay01-2018,SemMay01-*,*,T,Eagon,*,0,*,*,*,*,*,*,*
+309,T,SemFeb04-2019,SemMar01-*,*,T,El Arrayán,*,0,*,*,*,*,*,*,*
+310,T,SemJun04-2018,SemJun04-*,*,T,El Boco,*,0,*,*,*,*,*,*,*
+311,T,SemAgo04-2018,SemAgo04-*,*,T,El Divisadero PV,*,0,*,*,*,*,*,*,*
+312,T,SemAgo03-2018,SemAgo03-*,*,T,El Molle,*,0,*,*,*,*,*,*,*
+313,T,SemSep01-2018,SemSep01-*,*,T,El Paico,*,0,*,*,*,*,*,*,*
+314,T,SemJul02-2018,SemJul02-*,*,T,El Peñón,*,79.22124,*,*,*,*,*,*,*
+315,T,SemAgo01-2018,SemAgo01-*,*,T,El Pilar Los Amarillos,*,0,*,*,*,*,*,*,*
+316,T,SemMay03-2018,SemMay03-*,*,T,El Romero,*,0,*,*,*,*,*,*,*
+317,T,SemMay04-2018,SemMay04-*,*,T,El Salvador TG,*,0,*,*,*,*,*,*,*
+318,T,SemAbr01-2018,SemAbr02-*,*,T,Eolica Totoral,*,43.56,*,*,*,*,*,*,*
+319,T,SemJun01-2018,SemJun01-*,*,T,Emelda 01,*,0,*,*,*,*,*,*,*
+320,T,SemJun02-2018,SemJun02-*,*,T,Emelda 02,*,0,*,*,*,*,*,*,*
+321,T,SemNov04-2018,SemDic01-*,*,T,ENAP_Aconcagua,*,0,*,*,*,*,*,*,*
+322,T,SemOct01-2018,SemOct02-*,*,T,Energía Biobio,*,0,*,*,*,*,*,*,*
+323,T,SemOct04-2019,SemOct04-*,*,T,Energía Pacífico,*,0,*,*,*,*,*,*,*
+324,T,SemJul02-2018,SemJul03-*,*,T,Eolica Canela 01,*,16.335,*,*,*,*,*,*,*
+325,T,SemJun03-2018,SemJun04-*,*,T,Eolica Canela 02,*,57.915,*,*,*,*,*,*,*
+326,T,SemMay01-2030,SemMay02-*,*,T,Eolica Charrua 01,*,0,*,*,*,*,*,*,*
+327,T,SemAgo04-2018,SemSep01-*,*,T,Negrete Cuel,*,31.01805,*,*,*,*,*,*,*
+328,T,SemAbr03-2018,SemAbr04-*,*,T,Eólica La Esperanza,*,0,*,*,*,*,*,*,*
+329,T,SemSep03-2018,SemSep04-*,*,T,Eólica Las Peñas,*,0,*,*,*,*,*,*,*
+330,T,SemSep03-2019,SemSep04-*,*,T,Eólica Lebu,*,0,*,*,*,*,*,*,*
+331,T,SemJul03-2018,SemJul03-*,*,T,Eólica Lebu II,*,0,*,*,*,*,*,*,*
+332,T,SemMar04-2018,SemAbr01-*,*,T,Monte Redondo,*,45.01894737,*,*,*,*,*,*,*
+333,T,SemAgo02-2018,SemAgo03-*,*,T,Eolica Punta Colorada,*,17.9982,*,*,*,*,*,*,*
+334,T,SemMay04-2018,SemJun01-*,*,T,San Pedro Eólico,*,34,*,*,*,*,*,*,*
+335,T,SemJun02-2019,SemJun02-*,*,T,Escuadron 01,*,0,*,*,*,*,*,*,*
+336,T,SemJun02-2018,SemJun02-*,*,T,Escuadron 02,*,0,*,*,*,*,*,*,*
+337,T,SemJun02-2019,SemJun02-*,*,T,Esperanza 01,*,0,*,*,*,*,*,*,*
+338,T,SemMay04-2019,SemMay04-*,*,T,Esperanza 02,*,0,*,*,*,*,*,*,*
+339,T,SemJun01-2019,SemJun01-*,*,T,Esperanza 03,*,0,*,*,*,*,*,*,*
+340,T,SemJul04-2019,SemJul04-*,*,T,Espinos 01,*,0,*,*,*,*,*,*,*
+341,T,SemAgo02-2019,SemAgo02-*,*,T,Espinos 02,*,0,*,*,*,*,*,*,*
+342,T,SemJun01-2018,SemJun01-*,*,T,Estancilla,*,0,*,*,*,*,*,*,*
+343,T,SemSep02-2019,SemSep04-*,*,T,Guacolda 01,*,0,*,*,*,*,*,*,*
+344,T,SemOct01-2018,SemOct03-*,*,T,Guacolda 02,*,0,*,*,*,*,*,*,*
+345,T,SemOct04-2020,SemNov02-*,*,T,Guacolda 03,*,0,*,*,*,*,*,*,*
+346,T,SemNov03-2019,SemDic01-*,*,T,Guacolda 04,*,0,*,*,*,*,*,*,*
+347,T,SemDic02-2019,SemDic04-*,*,T,Guacolda 05,*,0,*,*,*,*,*,*,*
+348,T,SemSep03-2018,SemSep03-*,*,T,Guanaco Solar,*,0,*,*,*,*,*,*,*
+349,T,SemNov04-2018,SemNov04-*,*,T,HBS,*,0,*,*,*,*,*,*,*
+350,T,SemAgo04-2018,SemAgo04-*,*,T,HBS GNL,*,0,*,*,*,*,*,*,*
+351,T,SemMay04-2019,SemMay04-*,*,T,Horcones TG Diesel,*,0,*,*,*,*,*,*,*
+352,T,SemJul03-2018,SemJul03-*,*,T,Huajache,*,0,*,*,*,*,*,*,*
+353,T,SemJul03-2019,SemJul04-*,*,T,Huasco TG,*,38.454,*,*,*,*,*,*,*
+354,T,SemJul04-2018,SemJul04-*,*,T,Javiera,*,0,*,*,*,*,*,*,*
+355,T,SemMay03-2018,SemMay03-*,*,T,JCE,*,0,*,*,*,*,*,*,*
+356,T,SemAgo01-2018,SemAgo01-*,*,T,La Chapeana,*,0,*,*,*,*,*,*,*
+357,T,SemAgo03-2018,SemAgo03-*,*,T,La Silla,*,0,*,*,*,*,*,*,*
+358,T,SemAgo01-2018,SemAgo01-*,*,T,Laguna Verde TG,*,0,*,*,*,*,*,*,*
+359,T,SemJul02-2018,SemJul02-*,*,T,Laguna Verde,*,22.56,*,*,*,*,*,*,*
+360,T,SemSep02-2018,SemSep02-*,*,T,Lagunilla,*,0,*,*,*,*,*,*,*
+361,T,SemMar04-2019,SemAbr01-*,*,T,Laja 01,*,0,*,*,*,*,*,*,*
+362,T,SemMar04-2019,SemAbr01-*,*,T,Laja 02,*,0,*,*,*,*,*,*,*
+363,T,SemJul01-2018,SemJul01-*,*,T,Lalackama,*,0,*,*,*,*,*,*,*
+364,T,SemJul01-2018,SemJul01-*,*,T,Lalackama 2,*,0,*,*,*,*,*,*,*
+365,T,SemAgo01-2018,SemAgo01-*,*,T,Las Araucarias,*,0,*,*,*,*,*,*,*
+366,T,SemAgo02-2018,SemAgo02-*,*,T,Las Mollacas,*,0,*,*,*,*,*,*,*
+367,T,SemJun02-2018,SemJun04-*,*,T,Las Pampas,*,0,*,*,*,*,*,*,*
+368,T,SemJun02-2018,SemJun02-*,*,T,Las Vegas,*,0,*,*,*,*,*,*,*
+369,T,SemEne03-2018,SemEne03-*,*,T,Lebu,*,0,*,*,*,*,*,*,*
+370,T,SemOct04-2019,SemOct04-*,*,T,licanten 00,*,0,*,*,*,*,*,*,*
+371,T,SemJun01-2018,SemJun01-*,*,T,licanten 01,*,0,*,*,*,*,*,*,*
+372,T,SemJun01-2018,SemJun01-*,*,T,Linares,*,0,*,*,*,*,*,*,*
+373,T,SemAgo03-2018,SemAgo03-*,*,T,Llano de Llampos FV,*,0,*,*,*,*,*,*,*
+374,T,SemSep04-2018,SemOct01-*,*,T,Los Colorados 01,*,0,*,*,*,*,*,*,*
+375,T,SemSep04-2018,SemOct01-*,*,T,Los Colorados 02,*,0,*,*,*,*,*,*,*
+376,T,SemJul03-2018,SemJul03-*,*,T,Lomas Coloradas FV,*,0,*,*,*,*,*,*,*
+377,T,SemMay01-2018,SemMay01-*,*,T,Lonquimay,*,0,*,*,*,*,*,*,*
+378,T,SemMar03-2018,SemMar03-*,*,T,Los Alamos,*,0,*,*,*,*,*,*,*
+379,T,SemJul04-2018,SemAgo01-*,*,T,Los Buenos Aires,*,0,*,*,*,*,*,*,*
+380,T,SemAbr02-2018,SemAbr03-*,*,T,Los Cururos,*,107.6664253,*,*,*,*,*,*,*
+381,T,SemSep01-2019,SemSep02-*,*,T,Los Guindos,*,0,*,*,*,*,*,*,*
+382,T,SemSep01-2018,SemSep01-*,*,T,Los Loros,*,0,*,*,*,*,*,*,*
+383,T,SemNov04-2020,SemDic01-*,*,T,Los Pinos,*,0,*,*,*,*,*,*,*
+384,T,SemJun02-2018,SemJun02-*,*,T,Los Sauces 1,*,0,*,*,*,*,*,*,*
+385,T,SemMar04-2018,SemMar04-*,*,T,Los Sauces 2,*,0,*,*,*,*,*,*,*
+386,T,SemOct03-2019,SemOct04-*,*,T,Los Vientos,*,0,*,*,*,*,*,*,*
+387,T,SemEne04-2018,SemEne04-*,*,T,Louisiana Pacific,*,0,*,*,*,*,*,*,*
+388,T,SemJun01-2018,SemJun01-*,*,T,Louisiana Pacific 2,*,0,*,*,*,*,*,*,*
+389,T,SemJul04-2018,SemJul04-*,*,T,Luna,*,0,*,*,*,*,*,*,*
+390,T,SemSep01-2018,SemSep01-*,*,T,Luz del Norte FV,*,0,*,*,*,*,*,*,*
+391,T,SemJul04-2018,SemJul04-*,*,T,Malgarida,*,0,*,*,*,*,*,*,*
+392,T,SemOct01-2020,SemOct02-*,*,T,Masisa,*,0,*,*,*,*,*,*,*
+393,T,SemOct04-2018,SemOct04-*,*,T,Maule,*,5,*,*,*,*,*,*,*
+394,T,SemMay01-2018,SemMay01-*,*,T,Monte Patria,*,0,*,*,*,*,*,*,*
+395,T,SemMay01-2018,SemMay01-*,*,T,Multiexport I,*,0,*,*,*,*,*,*,*
+396,T,SemEne03-2018,SemEne03-*,*,T,Multiexport II,*,0,*,*,*,*,*,*,*
+397,T,SemDic02-2020,SemDic04-*,*,T,Nehuenco 01 GNL CP,*,0,*,*,*,*,*,*,*
+398,T,SemDic02-2020,SemDic04-*,*,T,Nehuenco 01 Diesel,*,0,*,*,*,*,*,*,*
+399,T,SemDic02-2020,SemDic04-*,*,T,Nehuenco 01 FA GNL,*,0,*,*,*,*,*,*,*
+400,T,SemDic02-2028,SemDic04-*,*,T,Nehuenco 01 GNL,*,0,*,*,*,*,*,*,*
+401,T,SemOct04-2020,SemNov02-*,*,T,Nehuenco 02 Diesel,*,0,*,*,*,*,*,*,*
+402,T,SemOct04-2020,SemNov02-*,*,T,Nehuenco 02 GNL,*,0,*,*,*,*,*,*,*
+403,T,SemOct04-2020,SemNov02-*,*,T,Nehuenco 02 GNL CP,*,0,*,*,*,*,*,*,*
+404,T,SemSep03-2019,SemOct01-*,*,T,Nehuenco 9B 01 Diesel,*,0,*,*,*,*,*,*,*
+405,T,SemSep03-2018,SemOct01-*,*,T,Nehuenco 9B 02 Diesel,*,0,*,*,*,*,*,*,*
+406,T,SemJun01-2018,SemJun01-*,*,T,Newen,*,0,*,*,*,*,*,*,*
+407,T,SemMay04-2019,SemMay04-*,*,T,Nueva Aldea 02 Diesel,*,0,*,*,*,*,*,*,*
+408,T,SemAgo03-2019,SemAgo04-*,*,T,Nueva Aldea 01,*,0,*,*,*,*,*,*,*
+409,T,SemSep04-2019,SemOct01-*,*,T,Nueva Aldea 03,*,0,*,*,*,*,*,*,*
+410,T,SemSep02-2019,SemSep04-*,*,T,Nueva Renca GNL CP,*,0,*,*,*,*,*,*,*
+411,T,SemSep02-2028,SemSep04-*,*,T,Nueva Renca Int GNL,*,0,*,*,*,*,*,*,*
+412,T,SemSep02-2018,SemSep04-*,*,T,Nueva Renca Diesel,*,0,*,*,*,*,*,*,*
+413,T,SemSep02-2018,SemSep04-*,*,T,Nueva Renca FA GLP,*,0,*,*,*,*,*,*,*
+414,T,SemSep02-2029,SemSep04-*,*,T,Nueva Renca GNL,*,0,*,*,*,*,*,*,*
+415,T,SemJul04-2019,SemAgo01-*,*,T,Olivos 01,*,0,*,*,*,*,*,*,*
+416,T,SemAgo02-2019,SemAgo03-*,*,T,Olivos 02,*,0,*,*,*,*,*,*,*
+417,T,SemJul03-2018,SemJul03-*,*,T,Orafti,*,0,*,*,*,*,*,*,*
+418,T,SemSep02-2018,SemSep02-*,*,T,Pampa Solar Norte,*,0,*,*,*,*,*,*,*
+419,T,SemJul01-2018,SemJul01-*,*,T,Pelícano,*,0,*,*,*,*,*,*,*
+420,T,SemNov04-2018,SemNov04-*,*,T,Petropower,*,0,*,*,*,*,*,*,*
+421,T,SemMay04-2018,SemMay04-*,*,T,Placilla,*,2,*,*,*,*,*,*,*
+422,T,SemMay03-2018,SemMay03-*,*,T,Punitaqui,*,0,*,*,*,*,*,*,*
+423,T,SemOct04-2019,SemOct04-*,*,T,Punta Colorada 01 Fuel,*,0,*,*,*,*,*,*,*
+424,T,SemAgo03-2018,SemAgo04-*,*,T,Punta Palmeras,*,0,*,*,*,*,*,*,*
+425,T,SemMay03-2018,SemMay03-*,*,T,Quellon 01,*,0,*,*,*,*,*,*,*
+426,T,SemMay04-2018,SemMay04-*,*,T,Quellon 02,*,5.6,*,*,*,*,*,*,*
+427,T,SemJul03-2018,SemJul03-*,*,T,Quilapilún,*,0,*,*,*,*,*,*,*
+428,T,SemAgo01-2019,SemAgo01-*,*,T,Quintay,*,2,*,*,*,*,*,*,*
+429,T,SemSep01-2020,SemSep03-*,*,T,Quintero CC FA GNL,*,0,*,*,*,*,*,*,*
+430,T,SemSep01-2020,SemSep03-*,*,T,Quintero CC GNL,*,0,*,*,*,*,*,*,*
+431,T,SemAgo02-2020,SemAgo04-*,*,T,Quintero 01 CA Diesel,*,0,*,*,*,*,*,*,*
+432,T,SemAgo02-2020,SemAgo04-*,*,T,Quintero 01 CA GNL,*,0,*,*,*,*,*,*,*
+433,T,SemDic01-2020,SemDic03-*,*,T,Quintero 02 CA Diesel,*,0,*,*,*,*,*,*,*
+434,T,SemDic01-2020,SemDic03-*,*,T,Quintero 02 CA GNL,*,0,*,*,*,*,*,*,*
+435,T,SemMay02-2018,SemMay03-*,*,T,Raki,*,0,*,*,*,*,*,*,*
+436,T,SemSep02-2018,SemSep02-*,*,T,Raso power,*,0,*,*,*,*,*,*,*
+437,T,SemAbr01-2019,SemAbr03-*,*,T,Renaico,*,0,*,*,*,*,*,*,*
+438,T,SemJul03-2018,SemJul03-*,*,T,Renca,*,46,*,*,*,*,*,*,*
+439,T,SemMar03-2018,SemMar03-*,*,T,Salmofood I,*,0,*,*,*,*,*,*,*
+440,T,SemMar04-2018,SemMar04-*,*,T,Salmofood II,*,0,*,*,*,*,*,*,*
+441,T,SemAgo02-2018,SemAgo02-*,*,T,Salvador FV,*,0,*,*,*,*,*,*,*
+442,T,SemAgo01-2018,SemAgo01-*,*,T,San Andres FV,*,0,*,*,*,*,*,*,*
+443,T,SemOct04-2018,SemOct04-*,*,T,San Francisco TG,*,0,*,*,*,*,*,*,*
+444,T,SemJun02-2018,SemJun02-*,*,T,San Gregorio,*,0,*,*,*,*,*,*,*
+445,T,SemSep03-2018,SemOct01-*,*,T,San Isidro 02 CC Diesel,*,0,*,*,*,*,*,*,*
+446,T,SemSep03-2018,SemOct01-*,*,T,San Isidro 02 FA GNL,*,0,*,*,*,*,*,*,*
+447,T,SemSep03-2018,SemOct01-*,*,T,San Isidro 02 GNL,*,0,*,*,*,*,*,*,*
+448,T,SemNov03-2019,SemDic01-*,*,T,San Isidro Diesel,*,0,*,*,*,*,*,*,*
+449,T,SemNov03-2018,SemDic01-*,*,T,San Isidro FA GNL,*,0,*,*,*,*,*,*,*
+450,T,SemNov03-2019,SemDic01-*,*,T,San Isidro GNL,*,0,*,*,*,*,*,*,*
+451,T,SemJun04-2018,SemJun04-*,*,T,San Juan I,*,0,*,*,*,*,*,*,*
+452,T,SemJun04-2018,SemJun04-*,*,T,San Juan II,*,0,*,*,*,*,*,*,*
+453,T,SemJun04-2018,SemJun04-*,*,T,San Juan III,*,0,*,*,*,*,*,*,*
+454,T,SemJun04-2018,SemJun04-*,*,T,San Juan IV,*,0,*,*,*,*,*,*,*
+455,T,SemJun04-2018,SemJun04-*,*,T,San Juan V,*,0,*,*,*,*,*,*,*
+456,T,SemJun04-2018,SemJun04-*,*,T,San Juan VI,*,0,*,*,*,*,*,*,*
+457,T,SemAgo01-2018,SemAgo01-*,*,T,San Lorenzo 01,*,0,*,*,*,*,*,*,*
+458,T,SemMay04-2018,SemMay04-*,*,T,San Lorenzo 02,*,0,*,*,*,*,*,*,*
+459,T,SemJun02-2018,SemJun02-*,*,T,San Lorenzo 03,*,0,*,*,*,*,*,*,*
+460,T,SemJul03-2018,SemJul03-*,*,T,San Pedro Eólico II,*,0,*,*,*,*,*,*,*
+461,T,SemNov04-2019,SemDic01-*,*,T,Santa Fe 01,*,0,*,*,*,*,*,*,*
+462,T,SemNov04-2019,SemDic01-*,*,T,Santa Fe 02,*,0,*,*,*,*,*,*,*
+463,T,SemNov04-2019,SemDic01-*,*,T,Santa Fe 03,*,0,*,*,*,*,*,*,*
+464,T,SemNov04-2019,SemDic01-*,*,T,Santa Fe 04,*,0,*,*,*,*,*,*,*
+465,T,SemJun02-2018,SemJun03-*,*,T,Santa Irene,*,0,*,*,*,*,*,*,*
+466,T,SemJun01-2018,SemJun01-*,*,T,Santa Julia,*,0,*,*,*,*,*,*,*
+467,T,SemSep04-2018,SemOct01-*,*,T,Santa Lidia,*,0,*,*,*,*,*,*,*
+468,T,SemOct01-2019,SemOct03-*,*,T,Santa Maria,*,0,*,*,*,*,*,*,*
+469,T,SemAgo04-2018,SemSep01-*,*,T,Santa Marta 01,*,10.7999904,*,*,*,*,*,*,*
+470,T,SemAgo04-2018,SemSep01-*,*,T,Santa Marta 02,*,3.1456,*,*,*,*,*,*,*
+471,T,SemAgo04-2018,SemAgo04-*,*,T,Santiago Solar,*,0,*,*,*,*,*,*,*
+472,T,SemMay04-2018,SemMay04-*,*,T,SDGx01,*,0,*,*,*,*,*,*,*
+473,T,SemMay04-2018,SemMay04-*,*,T,Skretting,*,0,*,*,*,*,*,*,*
+474,T,SemJun01-2018,SemJun01-*,*,T,Skretting Osorno,*,0,*,*,*,*,*,*,*
+475,T,SemJun01-2018,SemJun01-*,*,T,Sol,*,0,*,*,*,*,*,*,*
+476,T,SemAgo03-2018,SemAgo03-*,*,T,Sol del Norte,*,0,*,*,*,*,*,*,*
+477,T,SemJun01-2018,SemJun01-*,*,T,Solar Cardones,*,0,*,*,*,*,*,*,*
+478,T,SemJun03-2030,SemJun03-*,*,T,Solar Cardones 02,*,0,*,*,*,*,*,*,*
+479,T,SemJun04-2030,SemJun04-*,*,T,Solar Cardones 03,*,0,*,*,*,*,*,*,*
+480,T,SemJun04-2030,SemJun04-*,*,T,Solar Cardones 04,*,0,*,*,*,*,*,*,*
+481,T,SemJun03-2030,SemJun03-*,*,T,Solar Carrera Pinto 01,*,0,*,*,*,*,*,*,*
+482,T,SemJul01-2031,SemJul01-*,*,T,Solar Carrera Pinto 02,*,0,*,*,*,*,*,*,*
+483,T,SemSep01-2031,SemSep01-*,*,T,Solar Carrera Pinto 03,*,0,*,*,*,*,*,*,*
+484,T,SemJun02-2031,SemJun02-*,*,T,Solar Diego de Almagro 01,*,0,*,*,*,*,*,*,*
+485,T,SemJun04-2031,SemJun04-*,*,T,Solar Diego de Almagro 02,*,0,*,*,*,*,*,*,*
+486,T,SemAgo04-2018,SemAgo04-*,*,T,Solar Esperanza,*,0,*,*,*,*,*,*,*
+487,T,SemJun03-2018,SemJun03-*,*,T,Solar Hornitos,*,0,*,*,*,*,*,*,*
+488,T,SemSep01-2018,SemSep01-*,*,T,Solar Las Terrazas,*,0,*,*,*,*,*,*,*
+489,T,SemJun03-2018,SemJun03-*,*,T,Solar Loma los colorados,*,0,*,*,*,*,*,*,*
+490,T,SemSep02-2031,SemSep02-*,*,T,Solar Ovalle 02,*,0,*,*,*,*,*,*,*
+491,T,SemSep03-2033,SemSep03-*,*,T,Solar Ovalle 03,*,0,*,*,*,*,*,*,*
+492,T,SemJun04-2030,SemJun04-*,*,T,Solar Ovalle 04,*,0,*,*,*,*,*,*,*
+493,T,SemJul02-2031,SemJul02-*,*,T,Solar Pan de Azucar 01,*,0,*,*,*,*,*,*,*
+494,T,SemSep02-2030,SemSep02-*,*,T,Solar Pan de Azucar 02,*,0,*,*,*,*,*,*,*
+495,T,SemAgo04-2029,SemAgo04-*,*,T,Solar Pan de Azucar 03,*,0,*,*,*,*,*,*,*
+496,T,SemJun03-2027,SemJun03-*,*,T,Solar Polpaico 01,*,0,*,*,*,*,*,*,*
+497,T,SemJul03-2031,SemJul03-*,*,T,Solar Polpaico 03,*,0,*,*,*,*,*,*,*
+498,T,SemDic03-2018,SemDic03-*,*,T,Solar Santa Cecilia,*,0,*,*,*,*,*,*,*
+499,T,SemJul02-2018,SemJul03-*,*,T,Tal Tal Eólico,*,0,*,*,*,*,*,*,*
+500,T,SemJun01-2018,SemJun02-*,*,T,Talinay Oriente,*,0,*,*,*,*,*,*,*
+501,T,SemJun01-2018,SemJun02-*,*,T,Talinay Poniente,*,0,*,*,*,*,*,*,*
+502,T,SemSep03-2020,SemOct01-*,*,T,Taltal 01 GNL,*,0,*,*,*,*,*,*,*
+503,T,SemOct02-2020,SemNov01-*,*,T,Taltal 02 GNL,*,0,*,*,*,*,*,*,*
+504,T,SemDic02-2020,SemDic04-*,*,T,Taltal CC GNL,*,0,*,*,*,*,*,*,*
+505,T,SemSep03-2020,SemOct01-*,*,T,Taltal 01 Diesel,*,0,*,*,*,*,*,*,*
+506,T,SemOct02-2020,SemNov01-*,*,T,Taltal 02 Diesel,*,0,*,*,*,*,*,*,*
+507,T,SemEne01-2018,SemEne01-*,*,T,Tambo Real,*,0,*,*,*,*,*,*,*
+508,T,SemJun04-2018,SemJul01-*,*,T,Tamm,*,0,*,*,*,*,*,*,*
+509,T,SemOct04-2018,SemNov02-*,*,T,Tapihue,*,0,*,*,*,*,*,*,*
+510,T,SemJul01-2018,SemJul01-*,*,T,Techos de Altamira,*,0,*,*,*,*,*,*,*
+511,T,SemJul03-2018,SemJul03-*,*,T,Teno,*,57.24638889,*,*,*,*,*,*,*
+512,T,SemJul01-2018,SemJul01-*,*,T,Termopacífico,*,0,*,*,*,*,*,*,*
+513,T,SemJul03-2018,SemJul03-*,*,T,TilTil Solar,*,0,*,*,*,*,*,*,*
+514,T,SemMar04-2018,SemMar04-*,*,T,Tirúa,*,0,*,*,*,*,*,*,*
+515,T,SemMar03-2018,SemMar03-*,*,T,Tomaval 1,*,0,*,*,*,*,*,*,*
+516,T,SemOct01-2018,SemOct03-*,*,T,Tomaval 2,*,0,*,*,*,*,*,*,*
+517,T,SemJun01-2018,SemJun01-*,*,T,Totoral,*,2.869565217,*,*,*,*,*,*,*
+518,T,SemAgo01-2018,SemAgo01-*,*,T,Trapen,*,79.22124,*,*,*,*,*,*,*
+519,T,SemOct02-2018,SemOct04-*,*,T,Trebal Mapocho,*,0,*,*,*,*,*,*,*
+520,T,SemMay04-2018,SemMay04-*,*,T,Trongol,*,0,*,*,*,*,*,*,*
+521,T,SemJun02-2018,SemJun03-*,*,T,Ucuquer I,*,0,*,*,*,*,*,*,*
+522,T,SemMay03-2019,SemMay04-*,*,T,Ucuquer II Eólico,*,0,*,*,*,*,*,*,*
+523,T,SemNov02-2019,SemNov03-*,*,T,valdivia 01,*,0,*,*,*,*,*,*,*
+524,T,SemNov02-2019,SemNov03-*,*,T,valdivia 02,*,0,*,*,*,*,*,*,*
+525,T,SemNov02-2019,SemNov03-*,*,T,valdivia 03,*,0,*,*,*,*,*,*,*
+526,T,SemNov02-2019,SemNov03-*,*,T,valdivia 04,*,0,*,*,*,*,*,*,*
+527,T,SemJun03-2018,SemJun03-*,*,T,Valle Solar,*,0,*,*,*,*,*,*,*
+528,T,SemJun03-2018,SemJun03-*,*,T,Valleland,*,0,*,*,*,*,*,*,*
+529,T,SemFeb03-2019,SemMar01-*,*,T,Campiche,*,0,*,*,*,*,*,*,*
+530,T,SemDic02-2019,SemDic04-*,*,T,Nueva Ventanas,*,0,*,*,*,*,*,*,*
+531,T,SemEne01-2019,SemEne03-*,*,T,Ventanas 01,*,0,*,*,*,*,*,*,*
+532,T,SemEne04-2019,SemFeb02-*,*,T,Ventanas 02,*,0,*,*,*,*,*,*,*
+533,T,SemSep04-2019,SemOct01-*,*,T,Viñales 01,*,0,*,*,*,*,*,*,*
+534,T,SemSep04-2018,SemOct01-*,*,T,Viñales 02,*,0,*,*,*,*,*,*,*
+535,T,SemSep04-2018,SemOct01-*,*,T,Viñales 03,*,0,*,*,*,*,*,*,*
+536,T,SemJul03-2018,SemJul03-*,*,T,Watt,*,0,*,*,*,*,*,*,*
+537,T,SemEne03-2018,SemEne03-*,*,T,Watt II,*,0,*,*,*,*,*,*,*
+538,T,SemNov04-2018,SemNov04-*,*,T,Yungay 04 CC Diesel,*,0,*,*,*,*,*,*,*
+539,T,SemNov01-2018,SemNov01-*,*,T,Yungay 01 Diesel,*,0,*,*,*,*,*,*,*
+540,T,SemNov02-2018,SemNov02-*,*,T,Yungay 02 Diesel,*,0,*,*,*,*,*,*,*
+541,T,SemNov03-2018,SemNov03-*,*,T,Yungay 03 Diesel,*,0,*,*,*,*,*,*,*
+542,T,SemNov04-2018,SemNov04-*,*,T,Yungay 04 Diesel,*,0,*,*,*,*,*,*,*
+543,T,SemNov04-2019,SemNov04-*,*,T,CMPC Santa Fe,*,0,*,*,*,*,*,*,*
+544,T,SemJun03-2018,SemJun03-*,*,T,Corral,*,0,*,*,*,*,*,*,*
+545,T,SemFeb04-2018,SemFeb04-*,*,T,Cintac,*,0,*,*,*,*,*,*,*
+546,T,SemJun03-2018,SemJun03-*,*,T,Marchigue II,*,0,*,*,*,*,*,*,*
+547,T,SemSep01-2018,SemSep01-*,*,T,Esperanza II,*,0,*,*,*,*,*,*,*
+548,T,SemJul01-2018,SemJul01-*,*,T,Solar Ñilhue,*,0,*,*,*,*,*,*,*
+549,T,SemSep01-2018,SemSep01-*,*,T,Concon GNL,*,0,*,*,*,*,*,*,*
+550,T,SemAgo04-2018,SemAgo04-*,*,T,Punta Sierra,*,0,*,*,*,*,*,*,*
+551,T,SemAgo04-2018,SemAgo04-*,*,T,Cabilsol,*,0,*,*,*,*,*,*,*
+552,T,SemAbr01-2018,SemAbr01-*,*,T,Panquehue II,*,0,*,*,*,*,*,*,*
+553,T,SemAgo02-2018,SemAgo02-*,*,T,PMG Antay I,*,0,*,*,*,*,*,*,*
+554,T,SemMay03-2018,SemMay03-*,*,T,Las Turcas,*,0,*,*,*,*,*,*,*
+555,T,SemMay03-2018,SemMay03-*,*,T,Valle de la luna 2,*,0,*,*,*,*,*,*,*
+556,T,SemMay03-2018,SemMay03-*,*,T,Don Eugenio,*,0,*,*,*,*,*,*,*
+557,T,SemJun04-2018,SemJun04-*,*,T,El Campesino Biogas,*,0,*,*,*,*,*,*,*
+558,T,SemSep03-2018,SemSep03-*,*,T,La Quinta Solar,*,0,*,*,*,*,*,*,*
+559,T,SemJul03-2018,SemJul03-*,*,T,San Francisco Solar,*,0,*,*,*,*,*,*,*
+560,T,SemAbr01-2018,SemAbr01-*,*,T,El Queltehue,*,0,*,*,*,*,*,*,*
+561,T,SemJun03-2018,SemJun03-*,*,T,Alturas de ovalle,*,0,*,*,*,*,*,*,*
+562,T,SemAgo02-2018,SemAgo02-*,*,T,Chile generación,*,0,*,*,*,*,*,*,*
+563,T,SemSep03-2018,SemSep03-*,*,T,El Nogal,*,0,*,*,*,*,*,*,*
+564,T,SemFeb04-2018,SemFeb04-*,*,T,Los pinos biogas,*,0,*,*,*,*,*,*,*
+565,T,SemSep03-2018,SemSep03-*,*,T,Molina,*,0,*,*,*,*,*,*,*
+566,T,SemSep01-2018,SemSep01-*,*,T,Cuz cuz,*,0,*,*,*,*,*,*,*
+567,T,SemAgo03-2018,SemAgo03-*,*,T,El Canelo 2,*,0,*,*,*,*,*,*,*
+568,T,SemAgo03-2018,SemAgo03-*,*,T,Raso power 2,*,0,*,*,*,*,*,*,*
+569,T,SemJul03-2018,SemJul03-*,*,T,Altos del Paico,*,0,*,*,*,*,*,*,*
+570,T,SemJun04-2027,SemJun04-*,*,T,Eolica Maitencillo 01,*,0,*,*,*,*,*,*,*
+571,T,SemAbr01-2026,SemAbr01-*,*,T,Eolica Ciruelos 01,*,0,*,*,*,*,*,*,*
+572,T,SemJun04-2031,SemJun04-*,*,T,Eolica Mulchen 01,*,0,*,*,*,*,*,*,*
+573,T,SemMay02-2028,SemMay02-*,*,T,Eolica Maitencillo 02,*,0,*,*,*,*,*,*,*
+574,T,SemMay02-2029,SemMay02-*,*,T,Eolica Puerto Montt 01,*,0,*,*,*,*,*,*,*
+575,T,SemMay02-2018,SemMay02-*,*,T,DAS,*,0,*,*,*,*,*,*,*
+576,T,SemMay02-2018,SemMay02-*,*,T,Degañ 2,*,0,*,*,*,*,*,*,*
+577,T,SemMay02-2018,SemMay02-*,*,T,Santuario Solar,*,0,*,*,*,*,*,*,*
+578,T,SemMay02-2018,SemMay02-*,*,T,PV El Roble,*,0,*,*,*,*,*,*,*
+579,T,SemMay02-2018,SemMay02-*,*,T,Homero,*,0,*,*,*,*,*,*,*
+580,T,SemJul03-2018,SemJul03-*,*,T,El Pilpen,*,0,*,*,*,*,*,*,*
+581,T,SemJul03-2018,SemJul03-*,*,T,Chimbarongo,*,0,*,*,*,*,*,*,*
+582,T,SemMay02-2018,SemMay02-*,*,T,Francisco,*,0,*,*,*,*,*,*,*
+583,T,SemMay02-2018,SemMay02-*,*,T,PV La Frontera,*,0,*,*,*,*,*,*,*
+584,T,SemMay02-2018,SemMay02-*,*,T,El Cernicalo,*,0,*,*,*,*,*,*,*
+585,T,SemMay02-2018,SemMay02-*,*,T,Los Gorriones,*,0,*,*,*,*,*,*,*
+586,T,SemNov01-2018,SemNov02-*,*,T,Aurora,*,0,*,*,*,*,*,*,*
+587,T,SemAgo01-2018,SemAgo02-*,*,T,Sarco,*,0,*,*,*,*,*,*,*
+588,T,SemJun03-2018,SemJun03-*,*,T,La Fortuna 1,*,0,*,*,*,*,*,*,*
+589,T,SemJun03-2018,SemJun03-*,*,T,Chancon,*,0,*,*,*,*,*,*,*
+590,T,SemJun03-2018,SemJun03-*,*,T,PV Luna,*,0,*,*,*,*,*,*,*
+591,T,SemJun03-2018,SemJun03-*,*,T,La Manga I,*,0,*,*,*,*,*,*,*
+592,T,SemJul03-2018,SemJul03-*,*,T,El Pitio,*,0,*,*,*,*,*,*,*
+593,T,SemJul03-2018,SemJul03-*,*,T,Portezuelo,*,0,*,*,*,*,*,*,*
+594,T,SemJun04-2018,SemJun04-*,*,T,Peralillo,*,0,*,*,*,*,*,*,*
+595,T,SemNov01-2018,SemNov01-*,*,T,CERN,*,0,*,*,*,*,*,*,*

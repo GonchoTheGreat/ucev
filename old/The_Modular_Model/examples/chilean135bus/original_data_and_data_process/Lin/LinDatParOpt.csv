@@ -1,0 +1,250 @@
+LinINum,LinNom,LinFOpe,LinFecOpeIni,LinFecOpeFin,LinBarA,LinBarB,LinBarSis,LinFPrtFlu,LinFPrtHis,LinNIntHis,LinFPrtInd,LinFCC,LinPotMaxA->B,LinPotMaxB->A,LinFMax,LinFPri,LinFN-1,LinPotN-1A->B,LinPotN-1B->A,LinVolt,LinR,LinX,LinFPer,LinNTra,LinDisEne,LinFPeaCal,LinPeaSis,LinPeaTip,LinFTipDef,LinFInv,LinFecInv,LinVI,LinCOMA,LinVidUti,LinEmp,LinAux
+1,Diego de Almagro 220->Carrera Pinto 220,T,*,MesAbr-2017,Diego de Almagro 220 Aux,Carrera Pinto 220,*,F,F,101,F,F,197,197,T,T,F,197,197,220,7.193,28.369,T,5,1,T,TxT,Iny,F,F,*,11.341,0.311,30,Transelec,SIC
+2,Carrera Pinto 220->Carrera Pinto 220 Aux II,F,MesOct-2017,MesNov-2017,Carrera Pinto 220,Carrera Pinto 220 Aux,*,F,F,101,F,F,591,591,T,T,T,394,394,220,0,0.0001,F,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+3,Carrera Pinto 220->Carrera Pinto 220 Aux III,F,MesDic-2017,MesDic-2017,Carrera Pinto 220,Carrera Pinto 220 Aux,*,F,F,101,F,F,684,684,T,T,T,342,342,220,0,0.0001,F,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+4,Carrera Pinto 220->Carrera Pinto 220 Aux,T,*,MesSep-2017,Carrera Pinto 220,Carrera Pinto 220 Aux,*,F,F,101,F,F,394,394,T,T,T,197,197,220,0,0.0001,F,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+5,Cardones 220->Diego de Almagro 220,T,MesNov-2015,MesSep-2017,Cardones 220,Diego de Almagro 220 Aux,*,F,F,101,F,F,342,342,T,T,T,342,342,220,14.7157,58.7005,T,3,1,T,TxT,Iny,F,F,*,26.609,0.649,30,CNE,SIC
+6,Diego de Almagro 220->Carrera Pinto 220 I,T,MesJul-2017,*,Diego de Almagro 220 Aux,Carrera Pinto 220,*,F,F,101,F,F,400,400,T,T,T,400,400,220,7.1833,28.7122,T,5,1,T,TxT,Iny,F,F,*,11.341,0.311,30,CNE,SIC
+7,Carrera Pinto 220->Carrera Pinto 220 Aux IV,T,MesOct-2017,*,Carrera Pinto 220,Carrera Pinto 220 Aux,*,F,F,101,F,F,1026,1026,T,T,T,684,684,220,0,0.0001,F,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+8,Diego de Almagro 220->Carrera Pinto 220 III,T,MesNov-2016,*,Diego de Almagro 220 Aux,Carrera Pinto 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,7.5324,29.9883,T,5,1,T,TxT,Iny,F,F,*,11.341,0.311,30,CNE,SIC
+9,Carrera Pinto 220 Aux->Cardones 220 III,T,MesNov-2016,MesAbr-2019,Carrera Pinto 220 Aux,Cardones 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,7.1833,28.7122,T,5,1,T,TxT,Iny,F,F,*,10.179,0.275,30,CNE,SIC
+10,Diego de Almagro 220->Carrera Pinto 220 IV,T,MesOct-2017,*,Diego de Almagro 220 Aux,Carrera Pinto 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,7.5324,29.9883,T,5,1,T,TxT,Iny,F,F,*,11.341,0.311,30,CNE,SIC
+11,Carrera Pinto 220 Aux->Cardones 220 IV,T,MesOct-2017,MesAbr-2019,Carrera Pinto 220 Aux,Cardones 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,7.1833,28.7122,T,5,1,T,TxT,Iny,F,F,*,10.179,0.275,30,CNE,SIC
+12,Diego de Almagro 220->Diego de Almagro 220 Aux,T,*,MesJun-2017,Diego de Almagro 220,Diego de Almagro 220 Aux,*,F,F,101,F,F,684,684,T,T,T,342,342,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+13,Diego de Almagro 220->Diego de Almagro 220 Aux II,T,MesJul-2017,*,Diego de Almagro 220,Diego de Almagro 220 Aux,*,F,F,101,F,F,1026,1026,T,T,T,684,684,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+14,Pan de Azucar 500->Polpaico 500,T,MesEne-2018,*,Pan de Azucar 500,Polpaico 500,*,F,F,101,F,F,3400,3400,T,T,T,1700,1700,500,4.5,25.21,T,5,1,T,TxT,Ret,F,F,*,100,10,30,Plan de Obra,SIC
+15,Pan de Azucar 500->Pan de Azucar 220,T,MesEne-2018,*,Pan de Azucar 500,Pan de Azucar 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Ret,F,F,*,19.488,0.53,30,Transelec,SIC
+16,Pan de Azucar 500->Maitencillo 500,T,MesDic-2017,*,Pan de Azucar 500,Maitencillo 500,*,F,F,101,F,F,3400,3400,T,T,T,1700,1700,500,2.34,12.754,T,5,1,T,TxT,Ret,F,F,*,100,10,30,Plan de Obra,SIC
+17,Maitencillo 500->Maitencillo 220,T,MesEne-2018,*,Maitencillo 500,Maitencillo 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Ret,F,F,*,19.488,0.53,30,Transelec,SIC
+18,Maitencillo 500->Cardones 500,T,MesDic-2017,*,Maitencillo 500,Cardones 500,*,F,F,101,F,F,3400,3400,T,T,T,1700,1700,500,1.484,17.905,T,5,1,T,TxT,Ret,F,F,*,100,10,30,Plan de Obra,SIC
+19,Cardones 500->Cardones 220,T,MesEne-2018,*,Cardones 500,Cardones 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Ret,F,F,*,19.488,0.53,30,Transelec,SIC
+20,Cardones 220->Maitencillo 220,T,*,MesAgo-2016,Cardones 220,Maitencillo 220,*,F,F,101,F,F,591,591,T,T,T,420,420,220,4.4044,17.57888,T,5,1,T,TxT,Iny,F,F,*,35.857,0.875,30,Transelec,SIC
+21,Cardones 220->Maitencillo 220 II,T,MesSep-2016,MesDic-2017,Cardones 220,Maitencillo 220,*,F,F,101,F,F,591,591,T,T,T,520,520,220,4.4044,17.57888,T,5,1,T,TxT,Iny,F,F,*,35.857,0.875,30,Transelec,SIC
+22,Cardones 220->Maitencillo 220 III,T,MesEne-2018,MesOct-2019,Cardones 220,Maitencillo 220,*,F,F,101,F,F,660,660,T,T,T,660,660,220,4.4044,17.57888,T,5,1,T,TxT,Iny,F,F,*,35.857,0.875,30,Transelec,SIC
+23,Cardones 220->Algarrobal 220,T,MesNov-2019,*,Cardones 220,Algarrobal 220,*,F,F,101,F,F,660,660,T,T,T,660,660,220,2.2022,8.78944,T,5,1,T,TxT,Iny,F,F,*,35.857,0.875,30,Transelec,SIC
+24,Algarrobal 220->Algarrobal 220 Aux,T,MesNov-2019,*,Algarrobal 220,Algarrobal 220 Aux,*,F,F,101,F,F,660,660,T,T,T,660,660,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+25,Algarrobal 220 Aux->Maitencillo 220,T,MesNov-2019,*,Algarrobal 220 Aux,Maitencillo 220,*,F,F,101,F,F,660,660,T,T,T,660,660,220,2.2022,8.78944,T,5,1,T,TxT,Iny,F,F,*,35.857,0.875,30,Transelec,SIC
+26,Maitencillo 220->Don Hector 220,T,*,MesDic-2017,Maitencillo 220,Don Hector 220,*,F,F,101,F,F,394,394,T,T,T,394,197,220,3.771918457,15.02149585,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+27,Don Hector 220->Don Hector 220 Aux,T,*,MesDic-2017,Don Hector 220,Don Hector 220 Aux,*,F,F,101,F,F,394,394,T,T,T,394,197,220,0,0.0001,T,5,1,F,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+28,Don Hector 220 Aux->Punta Colorada 220,T,*,MesDic-2017,Don Hector 220 Aux,Punta Colorada 220,*,F,F,101,F,F,394,394,T,T,T,394,197,220,1.590342604,6.333467992,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+29,Punta Colorada 220->Pan de Azucar 220,T,*,MesDic-2017,Punta Colorada 220,Pan de Azucar 220,*,F,F,101,F,F,394,394,T,T,T,394,197,220,4.323992158,17.22010456,T,5,1,T,TxT,Iny,F,F,*,16.969,0.4285,30,Transelec,SIC
+30,Las Palmas 220->Los Vilos 220,T,*,*,Las Palmas 220,Los Vilos 220,*,F,F,101,F,F,446,446,T,T,T,400,224,220,3.378668,15.096097,T,5,1,T,TxT,Iny,F,F,*,14.327,0.383,30,Transelec,SIC
+31,Los Vilos 220->Nogales 220,T,*,*,Los Vilos 220,Nogales 220,*,F,F,101,F,F,446,446,T,T,T,400,224,220,4.6948,18.6824,T,5,1,T,TxT,Ret,F,F,*,100,10,30,Otro,SIC
+32,Nogales 220->Polpaico 220,T,MesNov-2011,*,Nogales 220,Polpaico 220,*,F,F,101,F,F,3000,3000,T,T,T,1500,1500,220,0.469665,7.04424,T,5,1,T,TxT,Ret,F,F,*,100,10,30,Otro,SIC
+33,Quillota 220->Polpaico 220,T,*,*,Quillota 220,Polpaico 220,*,F,F,101,F,F,2000,2000,T,T,T,1422,1422,220,0.484,5.8564,T,5,1,T,TxT,Cmn,F,F,*,21.139,0.466,30,Transelec,SIC
+34,San Luis 220->Quillota 220,T,*,*,San Luis 220,Quillota 220,BarB,F,F,101,F,F,2352,2352,T,T,F,1520,1520,220,0.0968,1.0406,T,5,1,T,TxA,Cmn,F,F,*,13.532,0.332,30,Otro,SIC
+35,Agua Santa 220->San Luis 220,T,*,*,Agua Santa 220,San Luis 220,*,F,F,101,F,F,321.15,321.15,T,T,F,321.15,321.15,220,1.6456,9.3896,T,5,1,T,STx,Cmn,F,F,*,10.942,0.246,30,Otro,SIC
+36,Melipilla 220->Nueva Casablanca Aux 220 I,T,MesMay-2023,*,Melipilla 220,Nueva Casablanca Aux 220,*,F,F,101,F,F,500,500,T,F,F,500,500,220,2.9155,20.335,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+37,Melipilla 220->Nueva Casablanca Aux 220 II,T,MesMay-2023,*,Melipilla 220,Nueva Casablanca Aux 220,*,F,F,101,F,F,500,500,T,F,F,500,500,220,2.9155,20.335,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+38,Nueva Casablanca Aux 220->Nueva Casablanca 220,T,MesMay-2023,*,Nueva Casablanca Aux 220,Nueva Casablanca 220,*,F,F,101,F,F,1000,1000,T,F,F,500,500,220,0,0.001,T,1,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+39,Nueva Casablanca 220->La Polvora Aux 220 I,T,MesMay-2023,*,Nueva Casablanca 220,La Polvora Aux 220,*,F,F,101,F,F,500,500,T,F,F,500,500,220,2.0825,14.525,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+40,Nueva Casablanca 220->La Polvora Aux 220 II,T,MesMay-2023,*,Nueva Casablanca 220,La Polvora Aux 220,*,F,F,101,F,F,500,500,T,F,F,500,500,220,2.0825,14.525,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+41,La Polvora Aux 220->La Polvora 220,T,MesMay-2023,*,La Polvora Aux 220,La Polvora 220,*,F,F,101,F,F,1000,1000,T,F,F,500,500,220,0,0.001,T,1,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+42,La Polvora 220->Agua Santa Aux 220 I,T,MesMay-2023,*,La Polvora 220,Agua Santa Aux 220,*,F,F,101,F,F,500,500,T,F,F,500,500,220,0.5355,3.735,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+43,La Polvora 220->Agua Santa Aux 220 II,T,MesMay-2023,*,La Polvora 220,Agua Santa Aux 220,*,F,F,101,F,F,500,500,T,F,F,500,500,220,0.5355,3.735,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+44,Agua Santa Aux 220->Agua Santa 220,T,MesMay-2023,*,Agua Santa Aux 220,Agua Santa 220,*,F,F,101,F,F,1000,1000,T,F,F,500,500,220,0,0.001,T,1,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+45,Agua Santa 220->Agua Santa 110,T,*,*,Agua Santa 220,Agua Santa 110,*,F,F,101,F,F,294,294,T,F,F,294,294,220,0,20.2796,T,3,1,F,STx,Cmn,F,F,*,2.162,0.074,30,Otro,SIC
+46,Quillota 220->Quillota 110 1,T,*,*,Quillota 220,Quillota 110,BarB,F,F,101,F,F,225,225,T,F,F,225,225,220,0.2834,28.78,T,3,1,F,STx,Cmn,F,F,*,7.253,0.222,30,Transelec,SIC
+47,Quillota 220->Quillota 110 2,T,MesOct-2017,*,Quillota 220,Quillota 110,BarB,F,F,101,F,F,150,150,F,F,F,150,150,220,0.2834,45.09266667,T,3,1,F,STx,Cmn,F,F,*,6.202,0.192,30,Transelec,SIC
+48,Agua Santa 110->Quillota 110,T,*,*,Agua Santa 110,Quillota 110,*,F,F,101,F,F,800,800,T,F,F,800,800,110,2.07642,5.21078,T,1,1,F,TxT,Ret,F,F,*,35.467,0.685,30,AesGener S.A.,SIC
+49,Las Vegas 110->Quillota 110,T,*,*,Las Vegas 110,Quillota 110,*,F,F,101,F,F,366,366,T,F,F,366,366,110,0.96195,5.3966,T,1,1,F,TxT,Ret,F,F,*,14.75,0.214,30,AesGener S.A.,SIC
+50,Polpaico 220->El Llano 220,T,*,*,Polpaico 220,El Llano 220,*,F,F,101,F,F,294,294,T,F,T,294,294,220,2.84,11.6,T,3,1,F,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+51,El Llano 220->Los Maquis 220,T,*,*,El Llano 220,Los Maquis 220 Aux,*,F,F,101,F,F,294,294,T,F,T,294,294,220,3.94,16.18,T,3,1,F,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+52,Polpaico 220->Los Maquis 220,T,*,*,Polpaico 220,Los Maquis 220 Aux,*,F,F,101,F,F,294,294,T,F,T,294,294,220,6.78,27.78,T,3,1,F,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+53,Los Maquis 220 Aux->Los Maquis 220,T,*,*,Los Maquis 220 Aux,Los Maquis 220,*,F,F,101,F,F,294,294,T,F,T,294,294,220,0,0.001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+54,Chena 220->Chena 110,T,*,*,Chena 220,Chena 110,BarB,F,F,101,F,F,784,392,T,F,F,392,392,220,0.63,6.32,T,1,1,F,STx,Ret,F,F,*,14.93,0.361,30,Transelec,SIC
+55,Cerro Navia 220->Cerro Navia 110,T,*,*,Cerro Navia 220,Cerro Navia 110,BarB,F,F,101,F,F,735,735,T,F,F,343,343,220,0.1208,7.9016,T,3,1,F,STx,Cmn,F,F,*,18.88,0.525,30,Transelec/Chilectra,SIC
+56,Cerro Navia 110->Las Vegas 110,T,*,*,Cerro Navia 110,Las Vegas 110,*,F,F,101,F,F,162,162,T,F,F,162,162,110,3.8236,14.0602,T,1,1,F,TxT,Ret,F,F,*,24.724,0.31,30,AesGener S.A.,SIC
+57,Polpaico 220->Polpaico Desf 220,T,*,*,Polpaico 220,Polpaico Desf 220,*,F,F,101,F,T,700,700,T,T,T,700,700,220,0,5.5925,T,3,1,F,TxT,Cmn,F,F,*,10,1,30,Otro,SIC
+58,Lampa 220->Polpaico Desf 220,T,*,*,Lampa 220,Polpaico Desf 220,*,F,F,101,F,F,620,620,T,T,T,530,530,220,0.847,3.3638,T,5,1,T,TxT,Cmn,F,F,*,5.426,0.138,30,Transelec,SIC
+59,Cerro Navia 220->Lampa 220,T,*,*,Cerro Navia 220,Lampa 220,*,F,F,101,F,F,620,620,T,T,T,530,530,220,0.6776,2.662,T,5,1,T,TxT,Cmn,F,F,*,4.526,0.116,30,Transelec,SIC
+60,Chena 220->Cerro Navia 220,T,*,*,Chena 220,Cerro Navia 220,*,F,F,101,F,F,800,800,T,T,T,510,510,220,0.6292,2.3958,T,5,1,T,TxT,Cmn,F,F,*,4.632,0.118,30,Transelec,SIC
+61,Melipilla 220->Cerro Navia 220,T,*,MesMay-2015,Melipilla 220,Cerro Navia 220,*,F,F,101,F,F,386,386,F,T,F,193,193,220,2.8314,11.0836,T,3,1,F,TxT,Cmn,F,F,*,6.996,0.158,30,Transelec,SIC
+62,Rapel 220->Melipilla 220,T,*,*,Rapel 220,Melipilla 220,*,F,F,101,F,F,386,386,F,T,F,193,193,220,2.8314,11.0836,T,3,1,F,TxT,Cmn,F,F,*,6.861,0.154,30,Transelec,SIC
+63,Melipilla 220->Lo Aguirre 220,T,MesJun-2015,*,Melipilla 220,Lo Aguirre 220,*,F,F,101,F,F,386,386,F,T,F,193,193,220,2.12355,8.3127,T,3,1,F,TxT,Cmn,F,F,*,5.247,0.1185,30,Transelec,SIC
+64,Lo Aguirre 220->Cerro Navia 220,T,MesJun-2015,MesDic-2018,Lo Aguirre 220,Cerro Navia 220,*,F,F,101,F,F,386,386,F,T,T,193,193,220,0.70785,2.7709,T,3,1,F,TxT,Cmn,F,F,*,1.749,0.0395,30,Transelec,SIC
+65,Lo Aguirre 220->Cerro Navia 220 II,T,MesEne-2019,*,Lo Aguirre 220,Cerro Navia 220,*,F,F,101,F,F,3000,3000,T,T,T,1500,1500,220,0.16,1.896,T,3,1,T,TxT,Cmn,F,F,*,12.255,0.27,30,Transelec,SIC
+66,Lo Aguirre 500->Lo Aguirre 220 I,T,MesJun-2015,*,Lo Aguirre 500,Lo Aguirre 220,*,F,F,101,F,F,771.26,771.26,T,T,T,771.26,771.26,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,43.11,1.17,30,Transelec,SIC
+67,Alto Jahuel 500->Lo Aguirre 500,T,MesSep-2015,*,Alto Jahuel 500 Aux,Lo Aguirre 500,*,F,F,101,F,F,1870,1870,T,T,T,1870,1870,500,0.89406,10.39659,T,5,1,T,TxT,Cmn,F,T,*,22.41204542,0.36708,30,Transelec,SIC
+68,Lo Aguirre 500->Polpaico 500,T,MesJun-2015,*,Lo Aguirre 500,Polpaico 500 Aux,*,F,F,101,F,F,1870,1870,T,T,T,1870,1870,500,0.7999,9.3022,T,5,1,T,TxT,Cmn,F,T,*,19.33959223,0.31676,30,Transelec,SIC
+69,Polpaico 220->El Salto 220,T,*,*,Polpaico 220,El Salto 220,BarB,F,F,101,F,F,1640,1640,T,T,F,824,824,220,0.8228,7.8408,T,5,1,F,STx,Cmn,F,F,*,0,0,30,Chilectra,SIC
+70,El Salto 220->El Salto 110,T,*,*,El Salto 220,El Salto 110,*,F,F,101,F,F,784,784,T,F,F,784,784,220,0.6292,6.3162,T,5,1,F,STx,Cmn,F,F,*,0,0,30,Chilectra,SIC
+71,Los Almendros 110->El Salto 110,T,*,*,Los Almendros 110,El Salto 110,*,F,F,101,F,F,316,316,T,F,F,158,158,110,0.8291,3.1099,T,1,1,F,TxT,Ret,F,F,*,4.596,0.058,30,Chilectra,SIC
+72,El Salto 110->Cerro Navia 110,T,*,*,El Salto 110,Cerro Navia 110,*,F,F,101,F,F,316,316,T,F,F,158,158,110,2.4988,6.5947,T,1,1,F,TxT,Ret,F,F,*,18.352,0.224,30,Chilectra,SIC
+73,Chena 110->Los Almendros 110,T,*,*,Chena 110,Los Almendros 110,*,F,F,101,F,F,1368,1368,T,F,F,721,721,110,1.2087,3.7675,T,1,1,F,TxT,Ret,F,F,*,41.186,0.497,30,Chilectra,SIC
+74,Chena 110->Cerro Navia 110,T,*,*,Chena 110,Cerro Navia 110,*,F,F,101,F,F,128,128,T,F,F,128,128,110,0.63525,2.28085,T,1,1,F,TxT,Ret,F,F,*,6.47,0.076,30,Chilectra,SIC
+75,Alto Jahuel 110->Chena 110,T,*,*,Alto Jahuel 110,Chena 110,*,F,F,101,F,F,316,316,T,F,F,158,158,110,1.10715,3.6542,T,1,1,F,TxT,Ret,F,F,*,12.692,0.154,30,Chilectra,SIC
+76,Alto Jahuel 110->Los Almendros 110,T,*,*,Alto Jahuel 110,Los Almendros 110,*,F,F,101,F,F,162,162,T,F,F,81,81,110,2.5652,8.1433,T,1,1,F,TxT,Ret,F,F,*,11.064,0.134,30,Chilectra,SIC
+77,Alto Jahuel 220->El Rodeo 220,T,*,*,Alto Jahuel 220,El Rodeo 220,*,F,F,101,F,F,1320,1320,T,T,T,1050,1050,220,0.069466799,0.640493893,T,5,1,T,TxT,Cmn,F,F,*,1.579,0.037,30,Transelec,SIC
+78,El Rodeo 220->Chena 220,T,*,*,El Rodeo 220,Chena 220,*,F,F,101,F,F,1320,1320,T,T,T,1050,1050,220,0.532973512,2.667271871,T,5,1,T,TxT,Cmn,F,F,*,5.547,0.131,30,Transelec,SIC
+79,Colbun 220->Candelaria 220,T,*,MesSep-2017,Colbun 220,Candelaria 220,*,F,F,101,T,F,610,610,T,F,T,610,610,220,3.6448,15.37236891,T,3,1,F,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+80,Candelaria 220->Maipo 220,T,*,*,Candelaria 220,Maipo 220,*,F,F,101,F,F,610,610,T,F,T,610,610,220,0.84216,7.17576,T,3,1,F,TxT,Cmn,F,F,*,1.977,0.05,30,Otro,SIC
+81,Maipo 220->Alto Jahuel 220,T,*,*,Maipo 220,Alto Jahuel 220,*,F,F,101,F,F,610,610,T,F,T,610,610,220,0.006897,0.058767,T,3,1,F,TxT,Cmn,F,F,*,0.016,0.001,30,Otro,SIC
+82,Los Almendros 220->Alto Jahuel 220,T,*,*,Los Almendros 220,Alto Jahuel 220,*,F,F,101,F,F,818,818,T,F,F,409,409,220,1.848,8.446,T,3,1,F,STx,Cmn,F,F,*,24.246,0.292,30,Otro,SIC
+83,Los Almendros 220->Los Almendros 110,T,*,*,Los Almendros 220,Los Almendros 110,BarB,F,F,101,F,F,392,392,T,F,F,392,392,220,1.2584,12.6324,T,3,1,F,STx,Cmn,F,F,*,28.268,0.683,30,Otro,SIC
+84,Polpaico 500->Polpaico 220,T,*,*,Polpaico 500,Polpaico 220,*,F,F,101,F,F,1542.52,1542.52,T,T,T,1542.52,1542.52,500,0.25,24.375,T,5,1,T,TxT,Cmn,F,F,*,19.488,0.53,30,Transelec,SIC
+85,Alto Jahuel 500->Alto Jahuel 500 Aux,T,*,*,Alto Jahuel 500,Alto Jahuel 500 Aux,*,F,F,101,F,F,2800,2800,T,T,T,1400,1400,500,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,Transelec,SIC
+86,Polpaico 500->Polpaico 500 Aux,T,*,*,Polpaico 500,Polpaico 500 Aux,*,F,F,101,F,F,2800,2800,T,T,T,1400,1400,500,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,Transelec,SIC
+87,Alto Jahuel 500->Alto Jahuel 220,T,*,*,Alto Jahuel 500,Alto Jahuel 220,*,F,F,101,F,F,1542.52,1542.52,T,T,T,1542.52,1542.52,500,0.25,24.5,T,5,1,T,TxT,Cmn,F,F,*,43.11,1.17,30,Transelec,SIC
+88,Alto Jahuel 500->Polpaico 500,T,*,MesMay-2015,Alto Jahuel 500 Aux,Polpaico 500 Aux,*,F,F,101,F,F,1870,1870,T,T,T,1870,1870,500,1.5,19.75,T,5,1,T,TxT,Cmn,F,F,*,17.57,0.363,30,Transelec,SIC
+89,Ancoa 500->Alto Jahuel 500,T,*,*,Ancoa 500 Aux,Alto Jahuel 500,*,F,F,101,F,F,1400,1400,T,T,T,1400,1400,500,6.5,35.56,T,5,1,T,TxT,Cmn,F,F,*,71.5755,1.509,30,Transelec,SIC
+90,Ancoa 500->Alto Jahuel 500 II,T,MesEne-2014,*,Ancoa 500 Aux,Alto Jahuel 500,*,F,F,101,F,F,1400,1400,T,T,T,1400,1400,500,6.207,30.16,T,5,1,T,TxT,Cmn,F,F,*,76.448,1.603,30,Transelec,SIC
+91,Alto Jahuel 500->Polpaico 500 II,T,MesEne-2014,MesAgo-2018,Alto Jahuel 500 Aux,Polpaico 500 Aux,*,F,F,101,F,F,1870,1870,T,T,T,1870,1870,500,1.632,19.284,T,5,1,T,TxT,Cmn,F,F,*,76.448,1.603,30,Transelec,SIC
+92,Ancoa 500->Alto Jahuel 500 III,T,MesOct-2015,*,Ancoa 500 Aux,Alto Jahuel 500,*,F,F,101,F,F,1400,1400,T,T,T,1400,1400,500,6.207,35.56,T,5,1,T,TxT,Cmn,F,F,*,76.448,1.603,30,Transelec,SIC
+93,Ancoa 500->Alto Jahuel 500 IV,T,MesEne-2016,*,Ancoa 500 Aux,Alto Jahuel 500,*,F,F,101,F,F,1400,1400,T,T,T,1400,1400,500,6.207,35.56,T,5,1,T,TxT,Cmn,F,F,*,76.448,1.603,30,Transelec,SIC
+94,Ancoa 500->Ancoa 500 Aux,T,*,*,Ancoa 500,Ancoa 500 Aux,*,F,F,101,F,F,2800,2800,T,T,T,1900,1900,500,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,Transelec,SIC
+95,Ancoa 500->Ancoa 220,T,*,*,Ancoa 500,Ancoa 220,*,F,F,101,F,F,771.26,771.26,T,T,T,771.26,771.26,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,19.488,0.53,30,Transelec,SIC
+96,Alto Jahuel 220->Alto Jahuel 110,T,*,*,Alto Jahuel 220,Alto Jahuel 110,BarB,F,F,101,F,F,821,821,T,F,F,821,821,220,0.1332,7.4888,T,3,1,F,STx,Cmn,F,F,*,11.183,0.338,30,Transelec,SIC
+97,Alto Jahuel 220->Alto Jahuel 154,T,*,*,Alto Jahuel 220,Alto Jahuel 154,BarB,F,F,101,F,F,300,300,T,T,F,300,300,220,0.0968,15.488,T,5,1,F,STx,Cmn,F,F,*,6.99,0.211,30,Transelec,SIC
+98,Itahue 220->Itahue 154,T,*,*,Itahue 220,Itahue 154,BarB,F,F,101,F,F,300,300,T,T,F,300,300,220,0.0968,15.488,T,3,1,F,STx,Cmn,F,F,*,0,0,30,Transelec,SIC
+99,Ancoa 220->Itahue 220,T,*,*,Ancoa 220,Itahue 220,*,F,F,101,F,F,800,800,T,T,T,400,400,220,1.3794,13.431,T,3,1,T,TxT,Cmn,F,F,*,10,0.27,30,Transelec,SIC
+100,Charrua 220->Lagunillas 220,T,*,MesAbr-2023,Charrua 220,Lagunillas 220,*,F,F,101,F,F,367,367,T,F,F,367,367,220,2.75,20.98,T,2,1,T,TxT,Cmn,F,F,*,0,10000,30,CNE,SIC
+101,Parral 154->Parral 066,T,*,*,Parral 154,Parral 066,BarB,F,F,101,F,F,75,75,T,F,F,75,75,154,0.231,37.945,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+102,Nueva Nirivilo 220->Nueva Cauquenes 220 I,T,MesMay-2023,*,Nueva Nirivilo 220,Nueva Cauquenes Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.24225,15.41628,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+103,Nueva Nirivilo 220->Nueva Cauquenes 220 II,T,MesMay-2023,*,Nueva Nirivilo 220,Nueva Cauquenes Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.24225,15.41628,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+104,Nueva Cauquenes Aux 220->Nueva Cauquenes 220,T,MesMay-2023,*,Nueva Cauquenes Aux 220,Nueva Cauquenes 220,BarA,F,F,101,F,F,970,970,T,F,F,485,485,220,0,0.001,T,1,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+105,Nueva Cauquenes 220->Dichato Aux 220 I,T,MesMay-2023,*,Nueva Cauquenes 220,Dichato Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.38475,24.48468,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+106,Nueva Cauquenes 220->Dichato Aux 220 II,T,MesMay-2023,*,Nueva Cauquenes 220,Dichato Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.38475,24.48468,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+107,Dichato Aux 220->Dichato 220,T,MesMay-2023,*,Dichato Aux 220,Dichato 220,BarA,F,F,101,F,F,970,970,T,F,F,485,485,220,0,0.001,T,1,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+108,Dichato 220->Hualqui Aux 220 I,T,MesMay-2023,*,Dichato 220,Hualqui Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.21375,13.6026,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+109,Dichato 220->Hualqui Aux 220 II,T,MesMay-2023,*,Dichato 220,Hualqui Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.21375,13.6026,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+110,Hualqui Aux 220->Hualqui 220,T,MesMay-2023,*,Hualqui Aux 220,Hualqui 220,BarA,F,F,101,F,F,970,970,T,F,F,485,485,220,0,0.001,T,1,1,T,TxT,Cmn,F,F,*,0,10000,30,CNE,SIC
+111,Charrua 220->Hualqui 220,T,MesMay-2023,*,Charrua 220,Hualqui 220,*,F,F,101,F,F,367,367,T,F,F,367,367,220,2.0625,15.735,T,2,1,T,TxT,Cmn,F,F,*,0,10000,30,CNE,SIC
+112,Hualqui 220->Lagunillas 220,T,MesMay-2023,*,Hualqui 220,Lagunillas 220,*,F,F,101,F,F,367,367,T,F,F,367,367,220,0.6875,5.245,T,2,1,T,TxT,Cmn,F,F,*,0,10000,30,CNE,SIC
+113,Mataquito 220->Nueva Nirivilo Aux 220 I,T,MesMay-2023,*,Mataquito 220,Nueva Nirivilo Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.34675,22.06644,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+114,Mataquito 220->Nueva Nirivilo Aux 220 II,T,MesMay-2023,*,Mataquito 220,Nueva Nirivilo Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.34675,22.06644,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+115,Nueva Nirivilo Aux 220->Nueva Nirivilo 220,T,MesMay-2023,*,Nueva Nirivilo Aux 220,Nueva Nirivilo 220,BarA,F,F,101,F,F,970,970,T,F,F,485,485,220,0,0.001,T,1,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+116,Itahue 220->Mataquito Aux 220 I,T,MesMay-2022,*,Itahue 220,Mataquito Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.228,14.50944,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+117,Itahue 220->Mataquito Aux 220 II,T,MesMay-2022,*,Itahue 220,Mataquito Aux 220,BarA,F,F,101,F,F,485,485,T,F,F,485,485,220,0.228,14.50944,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+118,Mataquito Aux 220->Mataquito 220,T,MesMay-2022,*,Mataquito Aux 220,Mataquito 220,BarA,F,F,101,F,F,970,970,T,F,F,485,485,220,0,0.001,T,1,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+119,Parral 154->Parral 066 II,T,MesEne-2021,*,Parral 154,Parral 066,BarB,F,F,101,F,F,75,75,T,F,F,75,75,154,0.231,37.945,T,2,1,T,STx,Cmn,F,F,*,0,10000,30,CNE,SIC
+120,Charrua 220->Hualpen 220,T,*,*,Charrua 220,Hualpen 220,*,F,F,101,F,F,229.6,229.6,T,T,T,229.6,229.6,220,3.08,23.4976,T,3,1,F,TxT,Cmn,F,F,*,5.062,0.154,30,Transelec,SIC
+121,Charrua 220->Charrua 500,T,*,*,Charrua 220,Charrua 500,*,F,F,101,F,F,1300,1300,T,T,T,1300,1300,500,0.25,24.375,T,5,1,T,TxT,Cmn,F,F,*,43.11,1.17,30,Transelec,SIC
+122,Charrua 500->Ancoa 500,T,*,MesNov-2017,Charrua 500,Ancoa 500,*,F,F,101,F,F,2600,2600,T,T,T,1600,1600,500,2.4379,15.952,T,5,1,T,TxT,Cmn,F,F,*,144,3,30,Transelec,SIC
+123,Charrua 220->Tap Laja 220,T,*,*,Charrua 220,El Rosal 220,*,F,F,101,F,F,264,264,T,T,T,264,264,220,1.387208721,7.091162791,T,5,1,T,TxT,Ret,F,F,*,31.33,0.76,30,Transelec,SIC
+124,Tap Laja 220->Duqueco 220,T,*,*,El Rosal 220,Duqueco 220,*,F,F,101,F,F,264,264,T,T,T,264,264,220,2.28265562,11.66852713,T,5,1,T,TxT,Ret,F,F,*,31.33,0.76,30,Transelec,SIC
+125,Duqueco 220->Temuco 220,T,*,*,Duqueco 220,Temuco 220,*,F,F,101,F,F,264,264,T,T,T,264,264,220,11.47933566,58.68031008,T,5,1,T,TxT,Ret,F,F,*,31.33,0.76,30,Transelec,SIC
+126,Charrua 220->Mulchen 220,T,*,*,Charrua 220,Mulchen 220,*,F,F,101,F,F,1000,1000,T,T,T,500,500,220,1.662708958,10.06503918,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,Transelec,SIC
+127,Mulchen 220->Cautin 220,T,*,MesJun-2019,Mulchen 220,Cautin 220,*,T,T,101,F,F,1000,1000,T,T,T,500,500,220,3.322491042,20.11236082,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,Transelec,SIC
+128,Mulchen 220->Rio Malleco 220,T,MesJul-2019,*,Mulchen 220,Rio Malleco 220,*,F,F,101,F,F,1000,1000,T,T,T,500,500,220,1.02606341,6.211170253,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,Transelec,SIC
+129,Rio Malleco 220->Cautin 220,T,MesJul-2019,*,Rio Malleco 220,Cautin 220,*,T,T,101,F,F,1000,1000,T,T,T,500,500,220,2.296427632,13.90119057,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,Transelec,SIC
+130,Temuco 220->Cautin 220,T,*,*,Temuco 220,Cautin 220,*,T,T,101,F,F,386,386,T,T,T,193,193,220,0.6103,1.9311,T,5,1,T,TxA,Ret,F,F,*,1.3522,0.03095,30,Transelec,SIC
+131,Valdivia 220->Cautin 220,T,*,MesDic-2016,Valdivia 220,Cautin 220,*,F,F,101,F,F,332,332,T,T,T,166,166,220,15.0549,59.53801,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+132,Valdivia 220->Ciruelos 220,T,*,*,Valdivia 220,Ciruelos 220,*,T,T,101,F,F,332,332,T,T,T,166,166,220,5.46084,14.5547325,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+133,Ciruelos 220->Cautin 220,T,*,MesOct-2019,Ciruelos 220,Cautin 220,*,T,T,101,F,F,192,192,T,T,T,192,192,220,11.57,45.7,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+134,Ciruelos 220->Rio Tolten 220 I,T,*,*,Ciruelos 220,Rio Tolten 220,*,T,T,101,F,F,145,145,T,T,T,145,145,220,6.94,18.28,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+135,Rio Tolten 220->Rio Tolten 220 Aux,T,*,*,Rio Tolten 220,Rio Tolten 220 Aux,*,F,F,101,F,F,145,145,T,T,T,145,145,220,0,0.001,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+136,Rio Tolten 220 Aux->Cautin 220 I,T,*,*,Rio Tolten 220 Aux,Cautin 220,*,F,F,101,F,F,145,145,T,T,T,145,145,220,4.63,27.42,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+137,Ciruelos 220->Rio Tolten 220 II,T,MesNov-2019,*,Ciruelos 220,Rio Tolten 220,*,T,T,101,F,F,192,192,T,T,T,192,192,220,6.94,18.28,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+138,Rio Tolten 220 Aux->Cautin 220 II,T,MesNov-2019,*,Rio Tolten 220 Aux,Cautin 220,*,F,F,101,F,F,192,192,T,T,T,192,192,220,4.63,27.42,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+139,Rahue 220->Valdivia 220,T,*,MesAbr-2018,Rahue 220,Valdivia 220,*,F,F,101,F,F,182,182,T,T,T,182,182,220,10.648,42.108,T,5,1,T,TxT,Iny,F,F,*,11.315,0.253,30,Transelec,SIC
+140,Puerto Montt 220->Rahue 220,T,*,MesNov-2016,Puerto Montt 220 Aux,Rahue 220,*,T,T,101,F,F,183,183,T,T,T,183,183,220,10.987,45.593,T,5,1,T,TxT,Iny,F,F,*,11.404,0.258,30,Transelec,SIC
+141,Puerto Montt 220->Rahue 220 III,T,MesDic-2016,MesAbr-2020,Puerto Montt 220 Aux,Rahue 220,*,T,T,101,F,F,366,366,T,T,T,183,183,220,6.71344,22.19468,T,5,1,T,TxT,Iny,F,F,*,11.404,0.258,30,Transelec,SIC
+142,Puerto Montt 220 Aux->Frutillar Norte 220,T,MesMay-2020,*,Puerto Montt 220 Aux,Frutillar Norte 220,*,T,T,101,F,F,366,366,T,T,T,366,366,220,2.835067568,9.372753378,T,5,1,T,TxT,Iny,F,F,*,11.404,0.258,30,Transelec,SIC
+143,Frutillar Norte 220->Frutillar Norte 220 Aux,T,MesMay-2020,*,Frutillar Norte 220,Frutillar Norte 220 Aux,*,F,T,101,F,F,366,366,T,T,T,183,183,220,0,0.0001,T,5,1,T,TxT,Iny,F,F,*,11.404,0.258,30,Transelec,SIC
+144,Frutillar Norte 220 Aux->Rahue 220,T,MesMay-2020,*,Frutillar Norte 220 Aux,Rahue 220,*,T,T,101,F,F,366,366,T,T,T,366,366,220,3.878372432,12.82192662,T,5,1,T,TxT,Iny,F,F,*,11.404,0.258,30,Transelec,SIC
+145,Pichirropulli 220->Valdivia 220,T,MesMay-2018,MesOct-2018,Pichirropulli 220 Aux,Valdivia 220,*,F,F,101,F,F,290,290,T,T,T,145,145,220,4.73,12.49,T,3,1,T,TxT,Ret,F,F,*,10.774,0.25,30,CNE,SIC
+146,Pichirropulli 220->Rahue 220,T,MesMay-2018,MesDic-2027,Pichirropulli 220,Rahue 220,*,T,F,101,F,F,366,366,T,T,T,183,183,220,5.022643363,19.86227148,T,3,1,T,TxT,Iny,F,F,*,6.465,0.15,30,CNE,SIC
+147,Ciruelos 220->Pichirropulli 220,T,MesMay-2018,MesAbr-2020,Ciruelos 220,Pichirropulli 220 Aux,*,T,T,101,F,F,580,580,T,T,F,290,290,220,3.34,13.323,T,3,1,T,TxT,Iny,F,F,*,36.678,0.513,30,CNE,SIC
+148,Ciruelos 220->Cerros de Huichahue 220 Aux II,T,MesMay-2020,*,Ciruelos 220,Cerros de Huichahue 220 Aux,*,T,T,101,F,F,580,580,T,T,F,290,290,220,2.374216867,9.470566265,T,3,1,T,TxT,Iny,F,F,*,36.678,0.513,30,CNE,SIC
+149,Cerros de Huichahue 220 Aux->Cerros de Huichahue 220 II,T,MesMay-2020,*,Cerros de Huichahue 220 Aux,Cerros de Huichahue 220,*,F,F,101,F,F,580,580,T,T,T,290,290,220,0,0.0001,T,3,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+150,Cerros de Huichahue 220->Pichirropulli 220 Aux II,T,MesMay-2020,*,Cerros de Huichahue 220,Pichirropulli 220 Aux,*,F,F,101,F,F,580,580,T,T,F,290,290,220,0.965783133,3.852433735,T,3,1,T,TxT,Iny,F,F,*,36.678,0.513,30,CNE,SIC
+151,Pichirropulli 220->Pichirropulli 220 Aux,T,MesMay-2018,*,Pichirropulli 220,Pichirropulli 220 Aux,*,F,F,101,F,F,944,944,T,T,T,435,435,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+152,Pichirropulli 220->Puerto Montt 220,T,MesJul-2021,MesDic-2027,Pichirropulli 220,Puerto Montt 220 Aux,*,T,T,101,F,F,1320,1320,T,T,T,660,660,220,1.61,19.73,T,3,1,T,TxT,Ret,F,F,*,32.69,0.458,30,CNE,SIC
+153,Charrua 220->Nueva Charrua 220,T,MesAbr-2018,*,Charrua 220,Nueva Charrua 220,*,F,F,101,F,F,2000,2000,T,T,T,1000,1000,220,0.1,1.44,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,CNE,SIC
+154,Nueva Charrua 500->Nueva Charrua 220,T,MesDic-2017,*,Nueva Charrua 500,Nueva Charrua 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,CNE,SIC
+155,Nueva Charrua 500->Ancoa 500 Aux Sur,T,MesDic-2017,*,Nueva Charrua 500,Ancoa 500 Aux Sur,*,F,F,101,F,F,2600,2600,T,T,T,1600,1600,500,2.2466,14.7003,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,CNE,SIC
+156,Nueva Charrua 500->Charrua 500,T,MesDic-2017,*,Charrua 500,Nueva Charrua 500,*,F,F,101,F,F,2600,2600,T,T,T,1300,1300,500,0.191287859,1.251660825,T,5,1,T,TxT,Ret,F,F,*,61.5,1.535,30,CNE,SIC
+157,Charrua 500->Ancoa 500 Aux Sur III,T,MesNov-2017,*,Charrua 500,Ancoa 500 Aux Sur,*,F,F,101,F,F,1500,1500,T,T,T,1500,1500,500,4.8758,31.904,T,5,1,T,TxT,Cmn,F,F,*,0,0,30,Transelec,SIC
+158,Puerto Montt 500->Puerto Montt 220,T,MesEne-2028,*,Puerto Montt 500,Puerto Montt 220,*,T,T,101,F,F,771,771,T,T,T,771,771,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,16.0925,0.3475,30,CNE,SIC
+159,Puerto Montt 220->Puerto Montt 220 Aux I,T,*,MesJun-2021,Puerto Montt 220,Puerto Montt 220 Aux,*,T,T,101,F,F,366,366,T,T,T,183,183,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+160,Puerto Montt 220->Puerto Montt 220 Aux II,T,MesJul-2021,*,Puerto Montt 220,Puerto Montt 220 Aux,*,T,T,101,F,F,732,732,T,T,T,549,549,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+161,Colbun 220->Ancoa 220,T,*,*,Colbun 220,Ancoa 220,*,F,F,101,T,F,600,600,T,T,T,600,600,220,0,0.0001,T,3,1,T,TxT,Cmn,F,F,*,0,0,30,Colbun S.A.,SIC
+162,Ancoa 500->Ancoa 500 Aux Sur,T,MesDic-2017,*,Ancoa 500,Ancoa 500 Aux Sur,*,F,F,101,F,F,4500,4500,T,T,T,3000,3000,500,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,Transelec,SIC
+163,Los Changos 500->Cumbre 500,T,MesAgo-2017,*,Los Changos 500,Cumbre 500,*,F,F,101,F,F,3000,3000,T,T,T,1500,1500,500,4.295,18.71645,T,3,1,T,TxT,Lat,F,F,*,600,13,30,CNE,CNE
+164,Los Changos 500->Los Changos 220,T,MesAgo-2017,*,Los Changos 500,Los Changos 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,16.0925,0.3475,30,CNE,SIC
+165,Cumbre 500->Cardones 500,T,MesAgo-2017,*,Cumbre 500,Cardones 500,*,F,F,101,F,F,3000,3000,T,T,T,1500,1500,500,2.03,11.3825,T,3,1,T,TxT,Lat,F,F,*,600,13,30,CNE,CNE
+166,Los Changos 500->Los Changos 220 II,T,MesAgo-2017,*,Los Changos 500,Los Changos 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,16.0925,0.3475,30,CNE,SIC
+167,Diego de Almagro 220->Cumbre 220 I,T,MesNov-2019,*,Diego de Almagro 220,Cumbre 220 Aux,*,F,F,101,F,F,600,600,T,T,T,600,600,220,0.991,7.6,T,5,1,T,TxT,Iny,F,F,*,11.341,0.311,30,CNE,SIC
+168,Diego de Almagro 220->Cumbre 220 II,T,MesNov-2019,*,Diego de Almagro 220,Cumbre 220 Aux,*,F,F,101,F,F,600,600,T,T,T,600,600,220,0.991,7.6,T,5,1,T,TxT,Iny,F,F,*,11.341,0.311,30,CNE,SIC
+169,Cumbre 500->Cumbre 220 I,T,MesNov-2019,*,Cumbre 500,Cumbre 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,16.0925,0.3475,30,CNE,SIC
+170,Candelaria 220->Puente Negro 220,T,MesOct-2017,*,Candelaria 220,Puente Negro 220,*,F,F,101,F,F,1360,1360,T,F,T,680,680,220,1.53,13.05,T,3,1,F,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+171,Puente Negro220->Colbun 220,T,MesOct-2017,*,Puente Negro 220,Colbun 220,*,F,F,101,T,F,1360,1360,T,F,T,680,680,220,2.36,20.1,T,3,1,F,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+172,Cumbre 220 Aux->Cumbre 220 II,T,MesNov-2019,*,Cumbre 220 Aux,Cumbre 220,*,F,F,101,F,F,1200,1200,T,T,T,600,600,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+173,Los Changos 500->Los Changos 220 III,T,MesDic-2020,*,Los Changos 500,Los Changos 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,16.0925,0.3475,30,CNE,SIC
+174,Carrera Pinto 220 Aux->San Andres 220 I,T,*,MesSep-2017,Carrera Pinto 220 Aux,San Andres 220,*,F,F,101,F,F,197,197,T,T,T,197,197,220,4.192866932,17.03352191,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+175,Carrera Pinto 220 Aux->San Andres 220 I REF,T,MesOct-2017,*,Carrera Pinto 220 Aux,San Andres 220,*,F,F,101,F,F,400,400,T,T,T,400,400,220,4.32142749,17.27307649,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+176,Carrera Pinto 220 Aux->San Andres 220 II,T,MesMay-2019,*,Carrera Pinto 220 Aux,San Andres 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,4.32142749,17.27307649,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+177,Carrera Pinto 220 Aux->San Andres 220 III,T,MesMay-2019,*,Carrera Pinto 220 Aux,San Andres 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,4.32142749,17.27307649,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+178,San Andres 220->San Andres 220 Aux,T,*,MesAgo-2017,San Andres 220,San Andres 220 Aux,*,F,F,101,F,F,197,197,T,T,T,197,197,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+179,San Andres 220->San Andres 220 Aux II,T,MesSep-2017,MesAbr-2019,San Andres 220,San Andres 220 Aux,*,F,F,101,F,F,400,400,T,T,T,400,400,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+180,San Andres 220->San Andres 220 Aux III,T,MesMay-2019,*,San Andres 220,San Andres 220 Aux,*,F,F,101,F,F,1026,1026,T,T,T,684,684,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+181,San Andres 220 Aux->Cardones 220 I,T,*,MesAgo-2017,San Andres 220 Aux,Cardones 220,*,F,F,101,F,F,197,197,T,T,T,197,197,220,2.776733068,11.28047809,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+182,San Andres 220 Aux->Cardones 220 I REF,T,MesOct-2017,*,San Andres 220 Aux,Cardones 220,*,F,F,101,F,F,400,400,T,T,T,400,400,220,2.86187251,11.43912351,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+183,San Andres 220 Aux->Cardones 220 II,T,MesMay-2019,*,San Andres 220 Aux,Cardones 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,2.86187251,11.43912351,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+184,San Andres 220 Aux->Cardones 220 III,T,MesMay-2019,*,San Andres 220 Aux,Cardones 220,*,F,F,101,F,F,342,342,T,T,T,342,342,220,2.86187251,11.43912351,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+185,Cardones 500->Cardones 220 II,T,MesJun-2020,*,Cardones 500,Cardones 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.25,24.375,T,5,1,T,TxT,Ret,F,F,*,19.488,0.53,30,Transelec,SIC
+186,Maitencillo 500->Maitencillo 220 II,T,MesJun-2020,*,Maitencillo 500,Maitencillo 220,*,F,F,101,F,F,750,750,T,T,T,750,750,500,0.5,48.75,T,5,1,T,TxT,Ret,F,F,*,19.488,0.53,30,Transelec,SIC
+187,Pan de Azucar 500->Pan de Azucar 220 II,T,MesJun-2020,*,Pan de Azucar 500,Pan de Azucar 220,*,F,F,101,F,F,750,750,T,T,F,750,750,500,0.5,48.75,T,5,1,T,TxT,Ret,F,F,*,19.488,0.53,30,Transelec,SIC
+188,Maitencillo 220->Maitencillo 220 Aux,T,MesEne-2018,MesMay-2021,Maitencillo 220,Maitencillo 220 Aux,*,F,F,101,F,F,394,394,T,T,T,225,225,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+189,Maitencillo 220->Don Hector 220 I,T,MesEne-2018,*,Maitencillo 220 Aux,Don Hector 220,*,F,F,101,F,F,394,394,T,T,T,225,225,220,3.771918457,15.02149585,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+190,Don Hector 220->Don Hector 220 Aux I,T,MesEne-2018,*,Don Hector 220,Don Hector 220 Aux,*,F,F,101,F,F,394,394,T,T,T,225,225,220,0,0.0001,T,5,1,F,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+191,Don Hector 220 Aux->Punta Colorada 220 I,T,MesEne-2018,*,Don Hector 220 Aux,Punta Colorada 220,*,F,F,101,F,F,394,394,T,T,T,225,225,220,1.590342604,6.333467992,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+192,Maitencillo 220->Maitencillo 220 Aux II,T,MesJun-2021,*,Maitencillo 220,Maitencillo 220 Aux,*,F,F,101,F,F,900,900,T,T,T,675,675,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+193,Maitencillo 220 Aux->Punta Colorada 220 II,T,MesJun-2021,*,Maitencillo 220 Aux,Punta Colorada 220,*,F,F,101,F,F,1000,1000,T,T,T,500,500,220,2.796141338,16.92615654,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+194,Punta Colorada 220->Punta Colorada 220 Aux,T,MesEne-2018,MesMay-2021,Punta Colorada 220,Punta Colorada 220 Aux,*,F,F,101,F,F,394,394,T,T,F,225,225,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+195,Punta Colorada 220 Aux->Pan de Azucar 220 I,T,MesEne-2018,*,Punta Colorada 220 Aux,Pan de Azucar 220,*,F,F,101,F,F,394,394,T,T,F,225,225,220,4.323992158,17.22010456,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+196,Punta Colorada 220->Punta Colorada 220 Aux II,T,MesJun-2021,*,Punta Colorada 220,Punta Colorada 220 Aux,*,F,F,101,F,F,900,900,T,T,T,675,675,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+197,Punta Colorada 220 Aux->Pan de Azucar 220 II,T,MesJun-2021,*,Punta Colorada 220 Aux,Pan de Azucar 220,*,F,F,101,F,F,1000,1000,T,T,F,500,500,220,2.254669446,13.64841164,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+198,Pan de Azucar 220->Pan de Azucar 220 Aux,T,*,MesDic-2017,Pan de Azucar 220,Pan de Azucar 220 Aux,*,F,F,101,F,F,448,448,T,T,T,400,224,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+199,Pan de Azucar 220 Aux->La Cebada 220,T,*,MesOct-2018,Pan de Azucar 220 Aux,La Cebada 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,11.42221813,51.03517505,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+200,La Cebada 220->La Cebada 220 Aux,T,*,MesDic-2017,La Cebada 220,La Cebada 220 Aux,*,F,F,101,F,F,448,448,T,T,T,400,224,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+201,La Cebada 220 Aux->Monte Redondo 220,T,*,*,La Cebada 220 Aux,Monte Redondo 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,0.272348703,1.2168708,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+202,Monte Redondo 220->Las Palmas 220,T,*,MesDic-2017,Monte Redondo 220,Las Palmas 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,2.308609169,10.31500815,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+203,Pan de Azucar 220 Aux->Don Goyo 220 I,T,*,*,Pan de Azucar 220 Aux,Don Goyo 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,6.614915515,29.55585049,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+204,Don Goyo 220->Don Goyo 220 Aux,T,*,MesDic-2017,Don Goyo 220,Don Goyo 220 Aux,*,F,F,101,F,F,448,448,T,T,T,400,224,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+205,Don Goyo 220 Aux->Talinay 220,T,*,*,Don Goyo 220 Aux,Talinay 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,3.088535121,13.7997654,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+206,Talinay 220->Las Palmas 220,T,*,MesDic-2017,Talinay 220,Las Palmas 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,4.299725364,19.21143811,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+207,Pan de Azucar 220->Pan de Azucar 220 Aux II,T,MesEne-2018,MesMay-2023,Pan de Azucar 220,Pan de Azucar 220 Aux,*,F,F,101,F,F,448,448,T,T,T,270,270,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+208,Punta Sierra 220->Las Palmas 220 I,T,MesEne-2018,*,Punta Sierra 220 Aux,Las Palmas 220,*,F,F,101,F,F,224,224,T,F,T,224,224,220,1.539072779,6.8766721,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+209,Punta Sierra 220->Las Palmas 220 II,T,MesEne-2018,*,Punta Sierra 220 Aux,Las Palmas 220,*,F,F,101,F,F,224,224,T,F,T,224,224,220,1.539072779,6.8766721,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+210,Monte Redondo 220->Punta Sierra 220,T,MesEne-2018,*,Monte Redondo 220,Punta Sierra 220,*,F,F,101,F,F,224,224,T,F,T,224,224,220,0.76953639,3.43833605,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+211,Talinay 220->Punta Sierra 220,T,MesEne-2018,MesOct-2018,Talinay 220,Punta Sierra 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,2.760652585,12.33476601,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+212,La Cebada 220 Aux->Punta Sierra 220,T,MesNov-2018,*,La Cebada 220 Aux,Punta Sierra 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,1.040879115,4.65071208,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+213,Punta Sierra 220->Punta Sierra 220 Aux,T,MesEne-2018,MesMay-2023,Punta Sierra 220,Punta Sierra 220 Aux,*,F,F,101,F,F,448,448,T,T,T,224,224,220,0,0.0001,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+214,Tap Mauro 220->Quillota 220,T,*,*,Tap Mauro 220,Quillota 220,*,F,F,101,F,F,394,394,F,F,F,197,197,220,6.693591605,26.39934662,T,5,1,T,TxA,Ret,F,F,*,0,0,30,Transelec,SIC
+215,Punta Sierra 220 Aux->Pelambres 220,T,MesJun-2023,*,Punta Sierra 220 Aux,Tap Mauro 220,*,F,F,101,F,F,1160,1160,T,T,T,580,580,220,2.87012435,13.790805,T,5,1,T,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+216,Pan de Azucar 220 Aux->Punta Sierra 220,T,MesJun-2023,*,Pan de Azucar 220 Aux,Punta Sierra 220,*,F,F,101,F,F,1160,1160,T,T,T,1160,1160,220,3.152035328,15.01498733,T,5,1,T,TxT,Cmn,F,F,*,0,0,30,Otro,SIC
+217,Punta Sierra 220->Punta Sierra 220 Aux II,T,MesJun-2023,*,Punta Sierra 220,Punta Sierra 220 Aux,*,F,F,101,F,F,896,896,T,T,T,672,672,220,0,0.0001,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+218,Pan de Azucar 220->Pan de Azucar 220 Aux III,T,MesJun-2023,*,Pan de Azucar 220,Pan de Azucar 220 Aux,*,F,F,101,F,F,896,896,T,T,T,672,672,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+219,Don Goyo 220->Don Goyo 220 Aux II,T,MesEne-2018,*,Don Goyo 220,Don Goyo 220 Aux,*,F,F,101,F,F,448,448,T,T,T,270,270,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+220,La Cebada 220->La Cebada 220 Aux II,T,MesEne-2018,*,La Cebada 220,La Cebada 220 Aux,*,F,F,101,F,F,448,448,T,T,T,270,270,220,0,0.0001,T,5,1,F,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+221,Pan de Azucar 220 Aux->Don Goyo 220 II,T,MesNov-2018,*,Pan de Azucar 220 Aux,Don Goyo 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,6.610810842,29.53751056,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+222,Don Goyo 220 Aux->La Cebada 220,T,MesNov-2018,*,Don Goyo 220 Aux,La Cebada 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,4.811407286,21.49766449,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+223,Talinay 220->La Cebada 220,T,MesNov-2018,*,Talinay 220,La Cebada 220,*,F,F,101,F,F,224,224,T,T,T,224,224,220,1.71977347,7.684053931,T,5,1,T,TxT,Iny,F,F,*,0,0,30,Transelec,SIC
+224,Pichirropulli 220 Aux->Nueva Valdivia 220 I,T,MesNov-2018,*,Pichirropulli 220 Aux,Nueva Valdivia 220,*,F,F,101,F,F,145,145,T,T,T,145,145,220,0.648335849,2.04390566,T,3,1,T,TxT,Ret,F,F,*,0,0,30,CNE,SIC
+225,Pichirropulli 220 Aux->Nueva Valdivia 220 II,T,MesNov-2018,*,Pichirropulli 220 Aux,Nueva Valdivia 220,*,F,F,101,F,F,145,145,T,T,T,145,145,220,0.648335849,2.04390566,T,3,1,T,TxT,Ret,F,F,*,0,0,30,CNE,SIC
+226,Nueva Valdivia 220->Nueva Valdivia 220 Aux,T,MesNov-2018,*,Nueva Valdivia 220,Nueva Valdivia 220 Aux,*,F,F,101,F,F,145,145,T,T,T,145,145,220,0,0.0001,T,3,1,T,TxT,Ret,F,F,*,0,0,30,CNE,SIC
+227,Nueva Valdivia 220 Aux->Valdivia 220 I,T,MesNov-2018,*,Nueva Valdivia 220 Aux,Valdivia 220,*,F,F,101,F,F,145,145,T,T,T,145,145,220,6.224024151,19.62149434,T,3,1,T,TxT,Cmn,F,F,*,0,0,30,CNE,SIC
+228,Nueva Valdivia 220 Aux->Valdivia 220 II,T,MesNov-2018,*,Nueva Valdivia 220 Aux,Valdivia 220,*,F,F,101,F,F,145,145,T,T,T,145,145,220,6.224024151,19.62149434,T,3,1,T,TxT,Ret,F,F,*,0,0,30,CNE,SIC
+229,Puerto Montt 220->Melipulli 220,T,*,*,Puerto Montt 220,Melipulli 220,*,T,T,101,F,F,183,183,T,T,T,183,183,220,0.009795092,0.040646913,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+230,Melipulli 220->Pta Barranco 220,T,*,*,Melipulli 220,Pta Barranco 220,*,F,T,101,F,F,187,187,T,T,T,187,187,220,5.6448,25.44,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+231,Pta Barranco 220->Pta Barranco 220 Aux,T,*,*,Pta Barranco 220,Pta Barranco 220 Aux,*,F,T,101,F,F,102,102,T,T,T,102,102,220,0,0.001,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+232,Pta Barranco 220 Aux->Pta San Gallan 220,T,*,*,Pta Barranco 220 Aux,Pta San Gallan 220,*,F,T,101,F,F,102,102,T,T,T,102,102,220,1.1380068,1.7226594,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+233,Pta San Gallan 220->Chiloe 220,T,*,MesNov-2020,Pta San Gallan 220,Chiloe 220,*,F,T,101,F,F,187,187,T,T,T,187,187,220,3.7926,17.0925,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+234,Pta San Gallan 220->Ancud 220,T,MesDic-2020,*,Pta San Gallan 220,Ancud 220,*,F,F,101,F,F,187,187,T,T,T,187,187,220,1.8963,8.54625,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+235,Ancud 220->Chiloe 220,T,MesDic-2020,*,Ancud 220,Chiloe 220,*,F,T,101,F,F,187,187,T,T,T,187,187,220,1.8963,8.54625,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+236,Puerto Montt 220->Pta Barranco I,T,MesJun-2023,*,Puerto Montt 220,Pta Barranco 220 II,*,F,T,101,F,F,660,660,T,T,T,660,660,220,1.41561,6.379875,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+237,Puerto Montt 220->Pta Barranco II,T,MesJun-2023,*,Puerto Montt 220,Pta Barranco 220 II,*,F,T,101,F,F,660,660,T,T,T,660,660,220,1.41561,6.379875,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+238,Pta Barranco 220 II->Pta Barranco 220 Aux II,T,MesJun-2023,*,Pta Barranco 220 II,Pta Barranco 220 Aux II,*,F,T,101,F,F,1320,1320,T,T,T,660,660,220,0,0.001,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+239,Pta Barranco 220 Aux->Pta San Gallan 220 III,T,MesJun-2023,*,Pta Barranco 220 Aux II,Pta San Gallan 220 II,*,F,T,101,F,F,660,660,T,T,T,660,660,220,0.113988,0.83749072,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+240,Pta Barranco 220 Aux->Pta San Gallan 220 IV,T,MesJun-2023,*,Pta Barranco 220 Aux II,Pta San Gallan 220 II,*,F,T,101,F,F,660,660,T,T,T,660,660,220,0.113988,0.83749072,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+241,Pta San Gallan->Ancud I,T,MesJun-2023,*,Pta San Gallan 220 II,Ancud 220,*,F,F,101,F,F,660,660,T,T,T,660,660,220,0.474075,2.1365625,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+242,Pta San Gallan->Ancud II,T,MesJun-2023,*,Pta San Gallan 220 II,Ancud 220,*,F,F,101,F,F,660,660,T,T,T,660,660,220,0.474075,2.1365625,T,5,1,T,TxT,Iny,F,F,*,0,0,30,CNE,SIC
+243,Puerto Montt 220->Pichirrahue 220,T,*,MesNov-2016,Puerto Montt 220,Pichirrahue 220,*,T,T,101,F,F,145,145,T,T,T,145,145,220,15.4170164,41.31531986,T,5,1,T,TxT,Iny,F,F,*,23.359,0.541,30,Transelec,SIC
+244,Pichirrahue 220->Valdivia 220,T,*,MesAbr-2018,Pichirrahue 220,Valdivia 220,*,T,F,101,F,F,145,145,T,T,T,145,145,220,15.4155836,41.31148014,T,5,1,T,TxT,Iny,F,F,*,23.359,0.541,30,Transelec,SIC
+245,Rahue 220->Pichirrahue 220,T,MesDic-2016,*,Rahue 220,Pichirrahue 220,*,T,F,101,F,F,145,145,T,T,T,145,145,220,0.392589451,1.052081565,T,5,1,T,TxT,Iny,F,F,*,11.315,0.253,30,Transelec,SIC
+246,Pichirrahue 220->Pichirropulli 220,T,MesMay-2018,MesDic-2027,Pichirrahue 220,Pichirropulli 220,*,T,F,101,F,F,145,145,T,T,T,145,145,220,7.062311697,18.92594903,T,5,1,T,TxT,Iny,F,F,*,23.359,0.541,30,Transelec,SIC
+247,Ciruelos 500->Charrua 500,T,MesEne-2028,*,Ciruelos 500,Charrua 500,*,F,F,101,F,F,1500,1500,T,T,T,750,750,500,7.359211614,48.133826,T,5,1,T,TxT,Cmn,F,F,*,229.513,1.52,30,CNE,SIC
+248,Puerto Montt 500->Ciruelos 500,T,MesEne-2028,*,Puerto Montt 500,Ciruelos 500,*,F,T,101,F,F,1500,1500,T,T,T,750,750,500,5.810788386,38.006174,T,5,1,T,TxT,Cmn,F,F,*,229.513,1.52,30,CNE,SIC
+249,Ciruelos 500->Ciruelos 220,T,MesEne-2028,*,Ciruelos 500,Ciruelos 220,*,F,F,101,F,F,771,771,T,T,T,771,771,500,0.5,48.75,T,5,1,T,TxT,Cmn,F,F,*,16.0925,0.3475,30,CNE,SIC

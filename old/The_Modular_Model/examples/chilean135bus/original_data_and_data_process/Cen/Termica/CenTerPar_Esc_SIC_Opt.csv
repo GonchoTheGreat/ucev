@@ -1,0 +1,24 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenEmiFMDL,CenEmiFDpz,CenEmiDpz [tCO2e/GWh],CenFERNC,CenUbc,CenBar,CenFDua,CenDua,CenPotMax,CenPotMin,CenKxxx/kWh,CenCosVar,CenCosTrp,CenRenTer,CenCosOpe,CenDisEne,CenEtaCVar,CenEtaCTrp,CenConPro%,CenFInv,CenFecInv,CenVI,CenCOMA,CenVidUti,CenEtaCOMA,CenEmp,CenCmr,CenAux
+1,Eolica Ciruelos 01,T,MesEne-2029,*,F,F,0,T,SIC,Ciruelos 220,F,*,150,0,1,0,0,1,0,1,*,*,0,T,*,204.75,4.095,24,*,Plan de Obra,Plan de Obra,Eolica
+2,Eolica Maitencillo 01,T,MesSep-2026,*,F,F,0,T,SIC,Maitencillo 220,F,*,200,0,1,0,0,1,0,1,*,*,0,T,*,273,5.46,24,*,Plan de Obra,Plan de Obra,Eolica
+3,Eolica Puerto Montt 01,T,MesMar-2029,*,F,F,0,T,SIC,Puerto Montt 220,F,*,150,0,1,0,0,1,0,1,*,*,0,F,*,204.75,4.095,24,*,Plan de Obra,Plan de Obra,Eolica
+4,Solar Polpaico 01,T,MesNov-2026,*,F,F,0,T,SIC,Polpaico 220,F,*,220,0,1,0,0,1,0,1,*,*,0,T,*,213.4,4.268,24,*,Plan de Obra,Plan de Obra,Solar
+5,Eolica Maitencillo 02,T,MesEne-2029,*,F,F,0,T,SIC,Maitencillo 220,F,*,130,0,1,0,0,1,0,1,*,*,0,F,*,177.45,3.549,24,*,Plan de Obra,Plan de Obra,Eolica
+6,Solar Polpaico 03,T,MesEne-2030,*,F,F,0,T,SIC,Polpaico 220,F,*,260,0,1,0,0,1,0,1,*,*,0,T,*,252.2,5.044,24,*,Plan de Obra,Plan de Obra,Solar
+7,Solar Cardones 03,T,MesEne-2030,*,F,F,0,T,SIC,Cardones 220,F,*,100,0,1,0,0,1,0,1,*,*,0,F,*,97,1.94,24,*,Plan de Obra,Plan de Obra,Solar
+8,Solar Pan de Azucar 03,F,MesEne-2029,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,100,0,1,0,0,1,0,1,*,*,0,T,*,97,1.94,24,*,Plan de Obra,Plan de Obra,Solar
+9,Eolica Mulchen 01,T,MesEne-2030,*,F,F,0,T,SIC,Mulchen 220,F,*,150,0,1,0,0,1,0,1,*,*,0,T,*,204.75,4.095,24,*,Plan de Obra,Plan de Obra,Eolica
+10,Solar Cardones 02,T,MesEne-2030,*,F,F,0,T,SIC,Cardones 220,F,*,100,0,1,0,0,1,0,1,*,*,0,F,*,97,1.94,24,*,Plan de Obra,Plan de Obra,Solar
+11,Solar Pan de Azucar 02,T,MesMar-2030,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,230,0,1,0,0,1,0,1,*,*,0,F,*,223.1,4.462,24,*,Plan de Obra,Plan de Obra,Solar
+12,Eolica Charrua 01,T,MesEne-2030,*,F,F,0,T,SIC,Nueva Charrua 220,F,*,200,0,1,0,0,1,0,1,*,*,0,T,*,273,5.46,24,*,Plan de Obra,Plan de Obra,Eolica
+13,Solar Carrera Pinto 01,T,MesSep-2029,*,F,F,0,T,SIC,Carrera Pinto 220,F,*,100,0,1,0,0,1,0,1,*,*,0,F,*,97,1.94,24,*,Plan de Obra,Plan de Obra,Solar
+14,Solar Ovalle 04,T,MesJun-2030,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,80,0,1,0,0,1,0,1,*,*,0,F,*,77.6,1.552,24,*,Plan de Obra,Plan de Obra,Solar
+15,Solar Cardones 04,T,MesSep-2029,*,F,F,0,T,SIC,Cardones 220,F,*,230,0,1,0,0,1,0,1,*,*,0,F,*,223.1,4.462,24,*,Plan de Obra,Plan de Obra,Solar
+16,Solar Pan de Azucar 01,T,MesEne-2030,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,175,0,1,0,0,1,0,1,*,*,0,T,*,169.75,3.395,24,*,Plan de Obra,Plan de Obra,Solar
+17,Solar Diego de Almagro 01,T,MesJun-2029,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,300,0,1,0,0,1,0,1,*,*,0,F,*,291,5.82,24,*,Plan de Obra,Plan de Obra,Solar
+18,Solar Carrera Pinto 02,T,MesEne-2030,*,F,F,0,T,SIC,Carrera Pinto 220,F,*,80,0,1,0,0,1,0,1,*,*,0,T,*,77.6,1.552,24,*,Plan de Obra,Plan de Obra,Solar
+19,Solar Diego de Almagro 02,T,MesJul-2030,*,F,F,0,T,SIC,Diego de Almagro 220,F,*,65,0,1,0,0,1,0,1,*,*,0,F,*,63.05,1.261,24,*,Plan de Obra,Plan de Obra,Solar
+20,Solar Carrera Pinto 03,T,MesEne-2030,*,F,F,0,T,SIC,Carrera Pinto 220,F,*,95,0,1,0,0,1,0,1,*,*,0,T,*,92.15,1.843,24,*,Plan de Obra,Plan de Obra,Solar
+21,Solar Ovalle 02,T,MesEne-2030,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,60,0,1,0,0,1,0,1,*,*,0,F,*,58.2,1.164,24,*,Plan de Obra,Plan de Obra,Solar
+22,Solar Ovalle 03,T,MesEne-2030,*,F,F,0,T,SIC,Pan de Azucar 220,F,*,90,0,1,0,0,1,0,1,*,*,0,F,*,87.3,1.746,24,*,Plan de Obra,Plan de Obra,Solar
+23,Charrua CC I,T,MesMay-2031,*,F,T,463,F,SIC,Charrua 500,F,*,575,0,0.000190782,7.849,0,5.74,4,0.97,GNL CNE,*,0,F,*,595.125,11.9025,24,*,Plan de Obra,Plan de Obra,GNL

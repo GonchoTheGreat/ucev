@@ -1,0 +1,31 @@
+CenINum,CenAnoIni,CenAnoFin,CenNom,CenFunEta,CenEtaTip,Abr,May,Jun,Jul,Ago,Sep,Oct,Nov,Dic,Ene,Feb,Mar
+1,*,*,Riego A. Rucue,CenQMax,EtaMes,7.72,0,0,0,0,11.58,25.09,32.81,38.6,38.6,30.88,19.3
+2,*,*,Riego D. Rucue,CenQMax,EtaMes,10.28,0,0,0,0,15.42,33.41,43.69,51.4,51.4,41.12,25.7
+3,*,*,Riego Tucapel,CenQMax,EtaMes,18,0,0,0,0,27,58.5,76.5,90,90,72,45
+4,*,*,Riego Garsas y Suizas,CenQMax,EtaMes,1.352,0.676,0.676,0.676,0.676,1.014,2.366,3.042,3.38,3.38,3.042,2.028
+5,*,*,Riego Maule Norte Alto,CenQMax,EtaMes,8.776,4.388,4.388,4.388,4.388,6.582,15.358,19.746,21.94,21.94,19.746,13.164
+6,*,*,Riego Melado,CenQMax,EtaMes,10.12,5.06,5.06,5.06,5.06,7.59,17.71,22.77,25.3,25.3,22.77,15.18
+7,*,*,Riego Maule Norte Bajo,CenQMax,EtaMes,12.96,6.48,6.48,6.48,6.48,9.72,22.68,29.16,32.4,32.4,29.16,19.44
+8,*,*,Riego Maule Sur,CenQMax,EtaMes,9.576,4.788,4.788,4.788,4.788,7.182,16.758,21.546,23.94,23.94,21.546,14.364
+9,*,*,Riego Sistema Maitenes,CenQMax,EtaMes,7.192,3.596,3.596,3.596,3.596,5.394,12.586,16.182,17.98,17.98,16.182,10.788
+10,*,*,Riego San Clemente y Duao Zapata,CenQMax,EtaMes,11.04,5.52,5.52,5.52,5.52,8.28,19.32,24.84,27.6,27.6,24.84,16.56
+11,*,*,Riego Estero Machicura,CenQMax,EtaMes,0,0,0,0,0,0,0,0,0,0,0,0
+12,*,*,Riego Sur 1-2 y 3,CenQMax,EtaMes,16.384,8.192,8.192,8.192,8.192,12.288,28.672,36.864,40.96,40.96,36.864,24.576
+13,*,*,Riego Ribera Sur,CenQMax,EtaMes,2.6,1.3,1.3,1.3,1.3,1.95,4.55,5.85,6.5,6.5,5.85,3.9
+14,*,*,Balance Riego Armerillo R105,CenQMax,EtaMes,80,40,40,40,40,60,140,180,200,200,180,120
+15,*,*,Balance Riego Laguna Del Maule,CenQMax,EtaMes,80,0,0,0,0,60,140,180,200,200,180,120
+16,*,*,Riego A. Rucue,CenQMin,EtaMes,7.72,0,0,0,0,11.58,25.09,32.81,38.6,38.6,30.88,19.3
+17,*,*,Riego D. Rucue,CenQMin,EtaMes,10.28,0,0,0,0,15.42,33.41,43.69,51.4,51.4,41.12,25.7
+18,*,*,Riego Tucapel,CenQMin,EtaMes,18,0,0,0,0,27,58.5,76.5,90,90,72,45
+19,*,*,Riego Garsas y Suizas,CenQMin,EtaMes,1.352,0.676,0.676,0.676,0.676,1.014,2.366,3.042,3.38,3.38,3.042,2.028
+20,*,*,Riego Maule Norte Alto,CenQMin,EtaMes,8.776,4.388,4.388,4.388,4.388,6.582,15.358,19.746,21.94,21.94,19.746,13.164
+21,*,*,Riego Melado,CenQMin,EtaMes,10.12,5.06,5.06,5.06,5.06,7.59,17.71,22.77,25.3,25.3,22.77,15.18
+22,*,*,Riego Maule Norte Bajo,CenQMin,EtaMes,12.96,6.48,6.48,6.48,6.48,9.72,22.68,29.16,32.4,32.4,29.16,19.44
+23,*,*,Riego Maule Sur,CenQMin,EtaMes,9.576,4.788,4.788,4.788,4.788,7.182,16.758,21.546,23.94,23.94,21.546,14.364
+24,*,*,Riego Sistema Maitenes,CenQMin,EtaMes,7.192,3.596,3.596,3.596,3.596,5.394,12.586,16.182,17.98,17.98,16.182,10.788
+25,*,*,Riego San Clemente y Duao Zapata,CenQMin,EtaMes,11.04,5.52,5.52,5.52,5.52,8.28,19.32,24.84,27.6,27.6,24.84,16.56
+26,*,*,Riego Estero Machicura,CenQMin,EtaMes,0,0,0,0,0,0,0,0,0,0,0,0
+27,*,*,Riego Sur 1-2 y 3,CenQMin,EtaMes,16.384,8.192,8.192,8.192,8.192,12.288,28.672,36.864,40.96,40.96,36.864,24.576
+28,*,*,Riego Ribera Sur,CenQMin,EtaMes,2.6,1.3,1.3,1.3,1.3,1.95,4.55,5.85,6.5,6.5,5.85,3.9
+29,*,*,Balance Riego Armerillo R105,CenQMin,EtaMes,80,40,40,40,40,60,140,180,200,200,180,120
+30,*,*,Balance Riego Laguna Del Maule,CenQMin,EtaMes,80,0,0,0,0,60,140,180,200,200,180,120

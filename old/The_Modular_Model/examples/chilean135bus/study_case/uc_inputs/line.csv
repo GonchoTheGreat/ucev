@@ -1,0 +1,250 @@
+LINE,constant,to_bus,from_bus,flow_limit
+Diego de Almagro 220->Carrera Pinto 220,100,Diego de Almagro 220 Aux,Carrera Pinto 220,197.0
+Carrera Pinto 220->Carrera Pinto 220 Aux II,100,Carrera Pinto 220,Carrera Pinto 220 Aux,591.0
+Carrera Pinto 220->Carrera Pinto 220 Aux III,100,Carrera Pinto 220,Carrera Pinto 220 Aux,684.0
+Carrera Pinto 220->Carrera Pinto 220 Aux,100,Carrera Pinto 220,Carrera Pinto 220 Aux,394.0
+Cardones 220->Diego de Almagro 220,100,Cardones 220,Diego de Almagro 220 Aux,342.0
+Diego de Almagro 220->Carrera Pinto 220 I,100,Diego de Almagro 220 Aux,Carrera Pinto 220,400.0
+Carrera Pinto 220->Carrera Pinto 220 Aux IV,100,Carrera Pinto 220,Carrera Pinto 220 Aux,1026.0
+Diego de Almagro 220->Carrera Pinto 220 III,100,Diego de Almagro 220 Aux,Carrera Pinto 220,342.0
+Carrera Pinto 220 Aux->Cardones 220 III,100,Carrera Pinto 220 Aux,Cardones 220,342.0
+Diego de Almagro 220->Carrera Pinto 220 IV,100,Diego de Almagro 220 Aux,Carrera Pinto 220,342.0
+Carrera Pinto 220 Aux->Cardones 220 IV,100,Carrera Pinto 220 Aux,Cardones 220,342.0
+Diego de Almagro 220->Diego de Almagro 220 Aux,100,Diego de Almagro 220,Diego de Almagro 220 Aux,684.0
+Diego de Almagro 220->Diego de Almagro 220 Aux II,100,Diego de Almagro 220,Diego de Almagro 220 Aux,1026.0
+Pan de Azucar 500->Polpaico 500,100,Pan de Azucar 500,Polpaico 500,3400.0
+Pan de Azucar 500->Pan de Azucar 220,100,Pan de Azucar 500,Pan de Azucar 220,750.0
+Pan de Azucar 500->Maitencillo 500,100,Pan de Azucar 500,Maitencillo 500,3400.0
+Maitencillo 500->Maitencillo 220,100,Maitencillo 500,Maitencillo 220,750.0
+Maitencillo 500->Cardones 500,100,Maitencillo 500,Cardones 500,3400.0
+Cardones 500->Cardones 220,100,Cardones 500,Cardones 220,750.0
+Cardones 220->Maitencillo 220,100,Cardones 220,Maitencillo 220,591.0
+Cardones 220->Maitencillo 220 II,100,Cardones 220,Maitencillo 220,591.0
+Cardones 220->Maitencillo 220 III,100,Cardones 220,Maitencillo 220,660.0
+Cardones 220->Algarrobal 220,100,Cardones 220,Algarrobal 220,660.0
+Algarrobal 220->Algarrobal 220 Aux,100,Algarrobal 220,Algarrobal 220 Aux,660.0
+Algarrobal 220 Aux->Maitencillo 220,100,Algarrobal 220 Aux,Maitencillo 220,660.0
+Maitencillo 220->Don Hector 220,100,Maitencillo 220,Don Hector 220,394.0
+Don Hector 220->Don Hector 220 Aux,100,Don Hector 220,Don Hector 220 Aux,394.0
+Don Hector 220 Aux->Punta Colorada 220,100,Don Hector 220 Aux,Punta Colorada 220,394.0
+Punta Colorada 220->Pan de Azucar 220,100,Punta Colorada 220,Pan de Azucar 220,394.0
+Las Palmas 220->Los Vilos 220,100,Las Palmas 220,Los Vilos 220,446.0
+Los Vilos 220->Nogales 220,100,Los Vilos 220,Nogales 220,446.0
+Nogales 220->Polpaico 220,100,Nogales 220,Polpaico 220,3000.0
+Quillota 220->Polpaico 220,100,Quillota 220,Polpaico 220,2000.0
+San Luis 220->Quillota 220,100,San Luis 220,Quillota 220,2352.0
+Agua Santa 220->San Luis 220,100,Agua Santa 220,San Luis 220,321.15
+Melipilla 220->Nueva Casablanca Aux 220 I,100,Melipilla 220,Nueva Casablanca Aux 220,500.0
+Melipilla 220->Nueva Casablanca Aux 220 II,100,Melipilla 220,Nueva Casablanca Aux 220,500.0
+Nueva Casablanca Aux 220->Nueva Casablanca 220,100,Nueva Casablanca Aux 220,Nueva Casablanca 220,1000.0
+Nueva Casablanca 220->La Polvora Aux 220 I,100,Nueva Casablanca 220,La Polvora Aux 220,500.0
+Nueva Casablanca 220->La Polvora Aux 220 II,100,Nueva Casablanca 220,La Polvora Aux 220,500.0
+La Polvora Aux 220->La Polvora 220,100,La Polvora Aux 220,La Polvora 220,1000.0
+La Polvora 220->Agua Santa Aux 220 I,100,La Polvora 220,Agua Santa Aux 220,500.0
+La Polvora 220->Agua Santa Aux 220 II,100,La Polvora 220,Agua Santa Aux 220,500.0
+Agua Santa Aux 220->Agua Santa 220,100,Agua Santa Aux 220,Agua Santa 220,1000.0
+Agua Santa 220->Agua Santa 110,100,Agua Santa 220,Agua Santa 110,294.0
+Quillota 220->Quillota 110 1,100,Quillota 220,Quillota 110,225.0
+Quillota 220->Quillota 110 2,100,Quillota 220,Quillota 110,150.0
+Agua Santa 110->Quillota 110,100,Agua Santa 110,Quillota 110,800.0
+Las Vegas 110->Quillota 110,100,Las Vegas 110,Quillota 110,366.0
+Polpaico 220->El Llano 220,100,Polpaico 220,El Llano 220,294.0
+El Llano 220->Los Maquis 220,100,El Llano 220,Los Maquis 220 Aux,294.0
+Polpaico 220->Los Maquis 220,100,Polpaico 220,Los Maquis 220 Aux,294.0
+Los Maquis 220 Aux->Los Maquis 220,100,Los Maquis 220 Aux,Los Maquis 220,294.0
+Chena 220->Chena 110,100,Chena 220,Chena 110,784.0
+Cerro Navia 220->Cerro Navia 110,100,Cerro Navia 220,Cerro Navia 110,735.0
+Cerro Navia 110->Las Vegas 110,100,Cerro Navia 110,Las Vegas 110,162.0
+Polpaico 220->Polpaico Desf 220,100,Polpaico 220,Polpaico Desf 220,700.0
+Lampa 220->Polpaico Desf 220,100,Lampa 220,Polpaico Desf 220,620.0
+Cerro Navia 220->Lampa 220,100,Cerro Navia 220,Lampa 220,620.0
+Chena 220->Cerro Navia 220,100,Chena 220,Cerro Navia 220,800.0
+Melipilla 220->Cerro Navia 220,100,Melipilla 220,Cerro Navia 220,386.0
+Rapel 220->Melipilla 220,100,Rapel 220,Melipilla 220,386.0
+Melipilla 220->Lo Aguirre 220,100,Melipilla 220,Lo Aguirre 220,386.0
+Lo Aguirre 220->Cerro Navia 220,100,Lo Aguirre 220,Cerro Navia 220,386.0
+Lo Aguirre 220->Cerro Navia 220 II,100,Lo Aguirre 220,Cerro Navia 220,3000.0
+Lo Aguirre 500->Lo Aguirre 220 I,100,Lo Aguirre 500,Lo Aguirre 220,771.26
+Alto Jahuel 500->Lo Aguirre 500,100,Alto Jahuel 500 Aux,Lo Aguirre 500,1870.0
+Lo Aguirre 500->Polpaico 500,100,Lo Aguirre 500,Polpaico 500 Aux,1870.0
+Polpaico 220->El Salto 220,100,Polpaico 220,El Salto 220,1640.0
+El Salto 220->El Salto 110,100,El Salto 220,El Salto 110,784.0
+Los Almendros 110->El Salto 110,100,Los Almendros 110,El Salto 110,316.0
+El Salto 110->Cerro Navia 110,100,El Salto 110,Cerro Navia 110,316.0
+Chena 110->Los Almendros 110,100,Chena 110,Los Almendros 110,1368.0
+Chena 110->Cerro Navia 110,100,Chena 110,Cerro Navia 110,128.0
+Alto Jahuel 110->Chena 110,100,Alto Jahuel 110,Chena 110,316.0
+Alto Jahuel 110->Los Almendros 110,100,Alto Jahuel 110,Los Almendros 110,162.0
+Alto Jahuel 220->El Rodeo 220,100,Alto Jahuel 220,El Rodeo 220,1320.0
+El Rodeo 220->Chena 220,100,El Rodeo 220,Chena 220,1320.0
+Colbun 220->Candelaria 220,100,Colbun 220,Candelaria 220,610.0
+Candelaria 220->Maipo 220,100,Candelaria 220,Maipo 220,610.0
+Maipo 220->Alto Jahuel 220,100,Maipo 220,Alto Jahuel 220,610.0
+Los Almendros 220->Alto Jahuel 220,100,Los Almendros 220,Alto Jahuel 220,818.0
+Los Almendros 220->Los Almendros 110,100,Los Almendros 220,Los Almendros 110,392.0
+Polpaico 500->Polpaico 220,100,Polpaico 500,Polpaico 220,1542.52
+Alto Jahuel 500->Alto Jahuel 500 Aux,100,Alto Jahuel 500,Alto Jahuel 500 Aux,2800.0
+Polpaico 500->Polpaico 500 Aux,100,Polpaico 500,Polpaico 500 Aux,2800.0
+Alto Jahuel 500->Alto Jahuel 220,100,Alto Jahuel 500,Alto Jahuel 220,1542.52
+Alto Jahuel 500->Polpaico 500,100,Alto Jahuel 500 Aux,Polpaico 500 Aux,1870.0
+Ancoa 500->Alto Jahuel 500,100,Ancoa 500 Aux,Alto Jahuel 500,1400.0
+Ancoa 500->Alto Jahuel 500 II,100,Ancoa 500 Aux,Alto Jahuel 500,1400.0
+Alto Jahuel 500->Polpaico 500 II,100,Alto Jahuel 500 Aux,Polpaico 500 Aux,1870.0
+Ancoa 500->Alto Jahuel 500 III,100,Ancoa 500 Aux,Alto Jahuel 500,1400.0
+Ancoa 500->Alto Jahuel 500 IV,100,Ancoa 500 Aux,Alto Jahuel 500,1400.0
+Ancoa 500->Ancoa 500 Aux,100,Ancoa 500,Ancoa 500 Aux,2800.0
+Ancoa 500->Ancoa 220,100,Ancoa 500,Ancoa 220,771.26
+Alto Jahuel 220->Alto Jahuel 110,100,Alto Jahuel 220,Alto Jahuel 110,821.0
+Alto Jahuel 220->Alto Jahuel 154,100,Alto Jahuel 220,Alto Jahuel 154,300.0
+Itahue 220->Itahue 154,100,Itahue 220,Itahue 154,300.0
+Ancoa 220->Itahue 220,100,Ancoa 220,Itahue 220,800.0
+Charrua 220->Lagunillas 220,100,Charrua 220,Lagunillas 220,367.0
+Parral 154->Parral 066,100,Parral 154,Parral 066,75.0
+Nueva Nirivilo 220->Nueva Cauquenes 220 I,100,Nueva Nirivilo 220,Nueva Cauquenes Aux 220,485.0
+Nueva Nirivilo 220->Nueva Cauquenes 220 II,100,Nueva Nirivilo 220,Nueva Cauquenes Aux 220,485.0
+Nueva Cauquenes Aux 220->Nueva Cauquenes 220,100,Nueva Cauquenes Aux 220,Nueva Cauquenes 220,970.0
+Nueva Cauquenes 220->Dichato Aux 220 I,100,Nueva Cauquenes 220,Dichato Aux 220,485.0
+Nueva Cauquenes 220->Dichato Aux 220 II,100,Nueva Cauquenes 220,Dichato Aux 220,485.0
+Dichato Aux 220->Dichato 220,100,Dichato Aux 220,Dichato 220,970.0
+Dichato 220->Hualqui Aux 220 I,100,Dichato 220,Hualqui Aux 220,485.0
+Dichato 220->Hualqui Aux 220 II,100,Dichato 220,Hualqui Aux 220,485.0
+Hualqui Aux 220->Hualqui 220,100,Hualqui Aux 220,Hualqui 220,970.0
+Charrua 220->Hualqui 220,100,Charrua 220,Hualqui 220,367.0
+Hualqui 220->Lagunillas 220,100,Hualqui 220,Lagunillas 220,367.0
+Mataquito 220->Nueva Nirivilo Aux 220 I,100,Mataquito 220,Nueva Nirivilo Aux 220,485.0
+Mataquito 220->Nueva Nirivilo Aux 220 II,100,Mataquito 220,Nueva Nirivilo Aux 220,485.0
+Nueva Nirivilo Aux 220->Nueva Nirivilo 220,100,Nueva Nirivilo Aux 220,Nueva Nirivilo 220,970.0
+Itahue 220->Mataquito Aux 220 I,100,Itahue 220,Mataquito Aux 220,485.0
+Itahue 220->Mataquito Aux 220 II,100,Itahue 220,Mataquito Aux 220,485.0
+Mataquito Aux 220->Mataquito 220,100,Mataquito Aux 220,Mataquito 220,970.0
+Parral 154->Parral 066 II,100,Parral 154,Parral 066,75.0
+Charrua 220->Hualpen 220,100,Charrua 220,Hualpen 220,229.6
+Charrua 220->Charrua 500,100,Charrua 220,Charrua 500,1300.0
+Charrua 500->Ancoa 500,100,Charrua 500,Ancoa 500,2600.0
+Charrua 220->Tap Laja 220,100,Charrua 220,El Rosal 220,264.0
+Tap Laja 220->Duqueco 220,100,El Rosal 220,Duqueco 220,264.0
+Duqueco 220->Temuco 220,100,Duqueco 220,Temuco 220,264.0
+Charrua 220->Mulchen 220,100,Charrua 220,Mulchen 220,1000.0
+Mulchen 220->Cautin 220,100,Mulchen 220,Cautin 220,1000.0
+Mulchen 220->Rio Malleco 220,100,Mulchen 220,Rio Malleco 220,1000.0
+Rio Malleco 220->Cautin 220,100,Rio Malleco 220,Cautin 220,1000.0
+Temuco 220->Cautin 220,100,Temuco 220,Cautin 220,386.0
+Valdivia 220->Cautin 220,100,Valdivia 220,Cautin 220,332.0
+Valdivia 220->Ciruelos 220,100,Valdivia 220,Ciruelos 220,332.0
+Ciruelos 220->Cautin 220,100,Ciruelos 220,Cautin 220,192.0
+Ciruelos 220->Rio Tolten 220 I,100,Ciruelos 220,Rio Tolten 220,145.0
+Rio Tolten 220->Rio Tolten 220 Aux,100,Rio Tolten 220,Rio Tolten 220 Aux,145.0
+Rio Tolten 220 Aux->Cautin 220 I,100,Rio Tolten 220 Aux,Cautin 220,145.0
+Ciruelos 220->Rio Tolten 220 II,100,Ciruelos 220,Rio Tolten 220,192.0
+Rio Tolten 220 Aux->Cautin 220 II,100,Rio Tolten 220 Aux,Cautin 220,192.0
+Rahue 220->Valdivia 220,100,Rahue 220,Valdivia 220,182.0
+Puerto Montt 220->Rahue 220,100,Puerto Montt 220 Aux,Rahue 220,183.0
+Puerto Montt 220->Rahue 220 III,100,Puerto Montt 220 Aux,Rahue 220,366.0
+Puerto Montt 220 Aux->Frutillar Norte 220,100,Puerto Montt 220 Aux,Frutillar Norte 220,366.0
+Frutillar Norte 220->Frutillar Norte 220 Aux,100,Frutillar Norte 220,Frutillar Norte 220 Aux,366.0
+Frutillar Norte 220 Aux->Rahue 220,100,Frutillar Norte 220 Aux,Rahue 220,366.0
+Pichirropulli 220->Valdivia 220,100,Pichirropulli 220 Aux,Valdivia 220,290.0
+Pichirropulli 220->Rahue 220,100,Pichirropulli 220,Rahue 220,366.0
+Ciruelos 220->Pichirropulli 220,100,Ciruelos 220,Pichirropulli 220 Aux,580.0
+Ciruelos 220->Cerros de Huichahue 220 Aux II,100,Ciruelos 220,Cerros de Huichahue 220 Aux,580.0
+Cerros de Huichahue 220 Aux->Cerros de Huichahue 220 II,100,Cerros de Huichahue 220 Aux,Cerros de Huichahue 220,580.0
+Cerros de Huichahue 220->Pichirropulli 220 Aux II,100,Cerros de Huichahue 220,Pichirropulli 220 Aux,580.0
+Pichirropulli 220->Pichirropulli 220 Aux,100,Pichirropulli 220,Pichirropulli 220 Aux,944.0
+Pichirropulli 220->Puerto Montt 220,100,Pichirropulli 220,Puerto Montt 220 Aux,1320.0
+Charrua 220->Nueva Charrua 220,100,Charrua 220,Nueva Charrua 220,2000.0
+Nueva Charrua 500->Nueva Charrua 220,100,Nueva Charrua 500,Nueva Charrua 220,750.0
+Nueva Charrua 500->Ancoa 500 Aux Sur,100,Nueva Charrua 500,Ancoa 500 Aux Sur,2600.0
+Nueva Charrua 500->Charrua 500,100,Charrua 500,Nueva Charrua 500,2600.0
+Charrua 500->Ancoa 500 Aux Sur III,100,Charrua 500,Ancoa 500 Aux Sur,1500.0
+Puerto Montt 500->Puerto Montt 220,100,Puerto Montt 500,Puerto Montt 220,771.0
+Puerto Montt 220->Puerto Montt 220 Aux I,100,Puerto Montt 220,Puerto Montt 220 Aux,366.0
+Puerto Montt 220->Puerto Montt 220 Aux II,100,Puerto Montt 220,Puerto Montt 220 Aux,732.0
+Colbun 220->Ancoa 220,100,Colbun 220,Ancoa 220,600.0
+Ancoa 500->Ancoa 500 Aux Sur,100,Ancoa 500,Ancoa 500 Aux Sur,4500.0
+Los Changos 500->Cumbre 500,100,Los Changos 500,Cumbre 500,3000.0
+Los Changos 500->Los Changos 220,100,Los Changos 500,Los Changos 220,750.0
+Cumbre 500->Cardones 500,100,Cumbre 500,Cardones 500,3000.0
+Los Changos 500->Los Changos 220 II,100,Los Changos 500,Los Changos 220,750.0
+Diego de Almagro 220->Cumbre 220 I,100,Diego de Almagro 220,Cumbre 220 Aux,600.0
+Diego de Almagro 220->Cumbre 220 II,100,Diego de Almagro 220,Cumbre 220 Aux,600.0
+Cumbre 500->Cumbre 220 I,100,Cumbre 500,Cumbre 220,750.0
+Candelaria 220->Puente Negro 220,100,Candelaria 220,Puente Negro 220,1360.0
+Puente Negro220->Colbun 220,100,Puente Negro 220,Colbun 220,1360.0
+Cumbre 220 Aux->Cumbre 220 II,100,Cumbre 220 Aux,Cumbre 220,1200.0
+Los Changos 500->Los Changos 220 III,100,Los Changos 500,Los Changos 220,750.0
+Carrera Pinto 220 Aux->San Andres 220 I,100,Carrera Pinto 220 Aux,San Andres 220,197.0
+Carrera Pinto 220 Aux->San Andres 220 I REF,100,Carrera Pinto 220 Aux,San Andres 220,400.0
+Carrera Pinto 220 Aux->San Andres 220 II,100,Carrera Pinto 220 Aux,San Andres 220,342.0
+Carrera Pinto 220 Aux->San Andres 220 III,100,Carrera Pinto 220 Aux,San Andres 220,342.0
+San Andres 220->San Andres 220 Aux,100,San Andres 220,San Andres 220 Aux,197.0
+San Andres 220->San Andres 220 Aux II,100,San Andres 220,San Andres 220 Aux,400.0
+San Andres 220->San Andres 220 Aux III,100,San Andres 220,San Andres 220 Aux,1026.0
+San Andres 220 Aux->Cardones 220 I,100,San Andres 220 Aux,Cardones 220,197.0
+San Andres 220 Aux->Cardones 220 I REF,100,San Andres 220 Aux,Cardones 220,400.0
+San Andres 220 Aux->Cardones 220 II,100,San Andres 220 Aux,Cardones 220,342.0
+San Andres 220 Aux->Cardones 220 III,100,San Andres 220 Aux,Cardones 220,342.0
+Cardones 500->Cardones 220 II,100,Cardones 500,Cardones 220,750.0
+Maitencillo 500->Maitencillo 220 II,100,Maitencillo 500,Maitencillo 220,750.0
+Pan de Azucar 500->Pan de Azucar 220 II,100,Pan de Azucar 500,Pan de Azucar 220,750.0
+Maitencillo 220->Maitencillo 220 Aux,100,Maitencillo 220,Maitencillo 220 Aux,394.0
+Maitencillo 220->Don Hector 220 I,100,Maitencillo 220 Aux,Don Hector 220,394.0
+Don Hector 220->Don Hector 220 Aux I,100,Don Hector 220,Don Hector 220 Aux,394.0
+Don Hector 220 Aux->Punta Colorada 220 I,100,Don Hector 220 Aux,Punta Colorada 220,394.0
+Maitencillo 220->Maitencillo 220 Aux II,100,Maitencillo 220,Maitencillo 220 Aux,900.0
+Maitencillo 220 Aux->Punta Colorada 220 II,100,Maitencillo 220 Aux,Punta Colorada 220,1000.0
+Punta Colorada 220->Punta Colorada 220 Aux,100,Punta Colorada 220,Punta Colorada 220 Aux,394.0
+Punta Colorada 220 Aux->Pan de Azucar 220 I,100,Punta Colorada 220 Aux,Pan de Azucar 220,394.0
+Punta Colorada 220->Punta Colorada 220 Aux II,100,Punta Colorada 220,Punta Colorada 220 Aux,900.0
+Punta Colorada 220 Aux->Pan de Azucar 220 II,100,Punta Colorada 220 Aux,Pan de Azucar 220,1000.0
+Pan de Azucar 220->Pan de Azucar 220 Aux,100,Pan de Azucar 220,Pan de Azucar 220 Aux,448.0
+Pan de Azucar 220 Aux->La Cebada 220,100,Pan de Azucar 220 Aux,La Cebada 220,224.0
+La Cebada 220->La Cebada 220 Aux,100,La Cebada 220,La Cebada 220 Aux,448.0
+La Cebada 220 Aux->Monte Redondo 220,100,La Cebada 220 Aux,Monte Redondo 220,224.0
+Monte Redondo 220->Las Palmas 220,100,Monte Redondo 220,Las Palmas 220,224.0
+Pan de Azucar 220 Aux->Don Goyo 220 I,100,Pan de Azucar 220 Aux,Don Goyo 220,224.0
+Don Goyo 220->Don Goyo 220 Aux,100,Don Goyo 220,Don Goyo 220 Aux,448.0
+Don Goyo 220 Aux->Talinay 220,100,Don Goyo 220 Aux,Talinay 220,224.0
+Talinay 220->Las Palmas 220,100,Talinay 220,Las Palmas 220,224.0
+Pan de Azucar 220->Pan de Azucar 220 Aux II,100,Pan de Azucar 220,Pan de Azucar 220 Aux,448.0
+Punta Sierra 220->Las Palmas 220 I,100,Punta Sierra 220 Aux,Las Palmas 220,224.0
+Punta Sierra 220->Las Palmas 220 II,100,Punta Sierra 220 Aux,Las Palmas 220,224.0
+Monte Redondo 220->Punta Sierra 220,100,Monte Redondo 220,Punta Sierra 220,224.0
+Talinay 220->Punta Sierra 220,100,Talinay 220,Punta Sierra 220,224.0
+La Cebada 220 Aux->Punta Sierra 220,100,La Cebada 220 Aux,Punta Sierra 220,224.0
+Punta Sierra 220->Punta Sierra 220 Aux,100,Punta Sierra 220,Punta Sierra 220 Aux,448.0
+Tap Mauro 220->Quillota 220,100,Tap Mauro 220,Quillota 220,394.0
+Punta Sierra 220 Aux->Pelambres 220,100,Punta Sierra 220 Aux,Tap Mauro 220,1160.0
+Pan de Azucar 220 Aux->Punta Sierra 220,100,Pan de Azucar 220 Aux,Punta Sierra 220,1160.0
+Punta Sierra 220->Punta Sierra 220 Aux II,100,Punta Sierra 220,Punta Sierra 220 Aux,896.0
+Pan de Azucar 220->Pan de Azucar 220 Aux III,100,Pan de Azucar 220,Pan de Azucar 220 Aux,896.0
+Don Goyo 220->Don Goyo 220 Aux II,100,Don Goyo 220,Don Goyo 220 Aux,448.0
+La Cebada 220->La Cebada 220 Aux II,100,La Cebada 220,La Cebada 220 Aux,448.0
+Pan de Azucar 220 Aux->Don Goyo 220 II,100,Pan de Azucar 220 Aux,Don Goyo 220,224.0
+Don Goyo 220 Aux->La Cebada 220,100,Don Goyo 220 Aux,La Cebada 220,224.0
+Talinay 220->La Cebada 220,100,Talinay 220,La Cebada 220,224.0
+Pichirropulli 220 Aux->Nueva Valdivia 220 I,100,Pichirropulli 220 Aux,Nueva Valdivia 220,145.0
+Pichirropulli 220 Aux->Nueva Valdivia 220 II,100,Pichirropulli 220 Aux,Nueva Valdivia 220,145.0
+Nueva Valdivia 220->Nueva Valdivia 220 Aux,100,Nueva Valdivia 220,Nueva Valdivia 220 Aux,145.0
+Nueva Valdivia 220 Aux->Valdivia 220 I,100,Nueva Valdivia 220 Aux,Valdivia 220,145.0
+Nueva Valdivia 220 Aux->Valdivia 220 II,100,Nueva Valdivia 220 Aux,Valdivia 220,145.0
+Puerto Montt 220->Melipulli 220,100,Puerto Montt 220,Melipulli 220,183.0
+Melipulli 220->Pta Barranco 220,100,Melipulli 220,Pta Barranco 220,187.0
+Pta Barranco 220->Pta Barranco 220 Aux,100,Pta Barranco 220,Pta Barranco 220 Aux,102.0
+Pta Barranco 220 Aux->Pta San Gallan 220,100,Pta Barranco 220 Aux,Pta San Gallan 220,102.0
+Pta San Gallan 220->Chiloe 220,100,Pta San Gallan 220,Chiloe 220,187.0
+Pta San Gallan 220->Ancud 220,100,Pta San Gallan 220,Ancud 220,187.0
+Ancud 220->Chiloe 220,100,Ancud 220,Chiloe 220,187.0
+Puerto Montt 220->Pta Barranco I,100,Puerto Montt 220,Pta Barranco 220 II,660.0
+Puerto Montt 220->Pta Barranco II,100,Puerto Montt 220,Pta Barranco 220 II,660.0
+Pta Barranco 220 II->Pta Barranco 220 Aux II,100,Pta Barranco 220 II,Pta Barranco 220 Aux II,1320.0
+Pta Barranco 220 Aux->Pta San Gallan 220 III,100,Pta Barranco 220 Aux II,Pta San Gallan 220 II,660.0
+Pta Barranco 220 Aux->Pta San Gallan 220 IV,100,Pta Barranco 220 Aux II,Pta San Gallan 220 II,660.0
+Pta San Gallan->Ancud I,100,Pta San Gallan 220 II,Ancud 220,660.0
+Pta San Gallan->Ancud II,100,Pta San Gallan 220 II,Ancud 220,660.0
+Puerto Montt 220->Pichirrahue 220,100,Puerto Montt 220,Pichirrahue 220,145.0
+Pichirrahue 220->Valdivia 220,100,Pichirrahue 220,Valdivia 220,145.0
+Rahue 220->Pichirrahue 220,100,Rahue 220,Pichirrahue 220,145.0
+Pichirrahue 220->Pichirropulli 220,100,Pichirrahue 220,Pichirropulli 220,145.0
+Ciruelos 500->Charrua 500,100,Ciruelos 500,Charrua 500,1500.0
+Puerto Montt 500->Ciruelos 500,100,Puerto Montt 500,Ciruelos 500,1500.0
+Ciruelos 500->Ciruelos 220,100,Ciruelos 500,Ciruelos 220,771.0

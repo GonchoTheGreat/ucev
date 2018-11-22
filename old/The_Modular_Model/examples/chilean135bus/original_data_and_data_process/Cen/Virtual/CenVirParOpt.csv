@@ -1,0 +1,30 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenTip,CenConQGen,CenConQVer,CenPotMax,CenPotMin,CenTurRen,CenDisEne,CenConPro%,CenCosQDef,CenFInv,CenVI,CenCOMA,CenVidUti,CenEmp,CenAux,CenSis
+1,Boc. Canal Alto Polcura,T,*,*,BocCap,Lago Laja,Boc. Polcura,20,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+2,Boc. Filtraciones Lago Laja,T,*,*,BocCap,Abanico,NoCon,100,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+3,Boc. Laja,T,*,*,BocCap,Poza Polcura,Riego A. Rucue,50,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+4,Boc. Polcura,T,*,*,BocCap,Poza Polcura,Riego A. Rucue,171,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+5,Boc. Laja Rucue,T,*,*,BocCap,Rucue,Riego D. Rucue,120,0,1,1,0,5.00E+04,F,0,0,0,Colbún S.A.,SIC,SIC
+6,Boc. Rio Rucue,T,*,*,BocCap,Rucue,Riego D. Rucue,0,0,1,1,0,5.00E+04,F,0,0,0,Colbún S.A.,SIC,SIC
+7,Riego A. Rucue,T,*,*,RieDem,Riego Tucapel,Boc. Laja Rucue,38.6,38.6,1,1,0,5.00E+04,F,0,0,0,Riego Laja,SIC,SIC
+8,Riego D. Rucue,T,*,*,RieDem,Riego Tucapel,NoCon,51.4,51.4,1,1,0,5.00E+04,F,0,0,0,Riego Laja,SIC,SIC
+9,Riego Tucapel,T,*,*,RieBal,NoCon,NoCon,90,90,1,1,0,5.00E+04,F,0,0,0,Riego Laja,SIC,SIC
+10,Boc. Lenca,T,*,*,BocCap,Lago Chapo,NoCon,18,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+11,Boc. Riego Laguna Del Maule,T,*,*,BocCap,Boc. Maule Isla,NoCon,100,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+12,Boc. Maule Isla,T,*,*,BocCap,Isla,Curillinque,52,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+13,Boc. Cipreses Isla,T,*,*,BocCap,Isla,Curillinque,48,0,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+14,Boc. Maule Melado,T,*,*,BocCap,Embalse Melado,Riego Garsas y Suizas,140,0,1,1,0,5.00E+04,F,0,0,0,Pehuenche S.A.,SIC,SIC
+15,Riego Garsas y Suizas,T,*,*,RieDem,Balance Riego Armerillo R105,Riego Maule Norte Alto,3.38,3.38,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC
+16,Riego Maule Norte Alto,T,*,*,RieDem,Balance Riego Armerillo R105,Embalse Colbun,21.94,21.94,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+17,Riego Melado,T,*,*,RieDem,Balance Riego Armerillo R105,Embalse Melado,19,19,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+18,Riego Maule Norte Bajo,T,*,*,RieDem,Balance Riego Armerillo R105,Chiburgo,32.4,32.4,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+19,Riego Maule Sur,T,*,*,RieDem,Balance Riego Armerillo R105,Boc. Taco General Sistema Maitenes,23.94,23.94,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+20,Boc. Taco General Sistema Maitenes,T,*,*,BocCap,Riego Sistema Maitenes,Riego San Clemente y Duao Zapata,17.98,0,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+21,Boc. Colorado Sistema Maitenes,T,*,*,BocCap,Riego Sistema Maitenes,NoCon,17.98,0,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+22,Riego Sistema Maitenes,T,*,*,RieDem,Balance Riego Armerillo R105,Riego Ribera Sur,17.98,17.98,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+23,Riego San Clemente y Duao Zapata,T,*,*,RieDem,Balance Riego Armerillo R105,Riego Ribera Sur,27.6,27.6,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+24,Riego Estero Machicura,T,*,*,RieDem,Balance Riego Armerillo R105,Embalse Machicura,3,3,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+25,Riego Sur 1-2 y 3,T,*,*,RieDem,Balance Riego Armerillo R105,San Ignacio,40.96,40.96,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+26,Riego Ribera Sur,T,*,*,RieDem,Balance Riego Armerillo R105,NoCon,6.5,6.5,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+27,Balance Riego Armerillo R105,T,*,*,RieBal,Balance Riego Laguna Del Maule,NoCon,200,200,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+28,Balance Riego Laguna Del Maule,T,*,*,RieBal,NoCon,NoCon,200,200,1,1,0,5.00E+04,F,0,0,0,Riego Maule,SIC,SIC
+29,Caudal Ecologico Ralco,T,*,*,BocCap,Palmucho,Palmucho,27.1,27.1,1,1,0,5.00E+04,F,0,0,0,Endesa,SIC,SIC

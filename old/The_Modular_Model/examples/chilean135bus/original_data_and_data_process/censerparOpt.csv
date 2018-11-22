@@ -1,0 +1,12 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenEmiFMDL,CenEmiFDpz,CenEmiDpz [tCO2e/GWh],CenFERNC,CenUbc,CenBar,CenConQGen,CenConQVer,CenPotMax,CenPotMin,CenTurRen,CenSerRen,CenDisEne,CenFacCol,CenConPro%,CenCosQDef,CenFInv,CenVI,CenCOMA,CenVidUti,CenEmp,CenCmr,CenAux
+1,Abanico,T,*,*,F,F,0,F,SIC,Charrua 220,Boc. Laja,Boc. Laja,136,0,1.27,4.78,1,1,0,5.00E+04,F,0,0,50,Endesa,Endesa,Serie
+2,Rucue,T,*,*,F,F,0,F,SIC,Charrua 220,Quilleco,Riego D. Rucue,169,0,1.33,1.88,1,1,0,5.00E+04,F,0,0,50,Colbún S.A.,Colbún S.A.,Serie
+3,Isla,T,*,*,F,F,0,F,SIC,Itahue 154,Curillinque,Curillinque,68,0,0.81,5.881,1,1,0,5.00E+04,F,0,0,50,Endesa,Endesa,Serie
+4,Curillinque,T,*,*,F,F,0,F,SIC,Itahue 154,Loma Alta,Boc. Maule Melado,89,0,1.012,5.072,1,1,0,5.00E+04,F,0,0,50,Pehuenche S.A.,Endesa,Serie
+5,Loma Alta,T,*,*,F,F,0,F,SIC,Ancoa 220,Boc. Maule Melado,Boc. Maule Melado,38,0,0.452,4.06,1,1,0,5.00E+04,F,0,0,50,Pehuenche S.A.,Endesa,Serie
+6,San Ignacio,T,*,*,F,F,0,F,SIC,Itahue 154,Riego Ribera Sur,Riego San Clemente y Duao Zapata,37,0,0.191,0.191,1,1,0,5.00E+04,F,0,0,50,Colbún S.A.,Colbún S.A.,Serie
+7,Quilleco,T,*,*,T,F,0,F,SIC,Charrua 220,Riego D. Rucue,Riego D. Rucue,70,0,0.55,0.55,1,1,0,5.00E+04,F,0,0,50,Colbún S.A.,Colbún S.A.,Serie
+8,Palmucho,T,*,*,T,F,0,F,SIC,Charrua 220,Embalse Pangue,Embalse Pangue,32,0,1.143,2.478,1,1,0,5.00E+04,F,0,0,50,Colbún S.A.,Colbún S.A.,Serie
+9,Chiburgo,T,*,*,F,F,0,T,SIC,Alto Jahuel 220,Riego Maule Sur,Riego Maule Sur,19.4,0,0.97,0.97,1,1,0,5.00E+04,F,0,0,50,Endesa,Endesa,Serie
+10,Ojos de Agua,T,*,*,F,F,0,T,SIC,Itahue 154,Boc. Cipreses Isla,NoCon,9,0,0.676691729,0.676691729,1,1,0,5.00E+04,F,0,0,50,Endesa,Endesa,Serie
+11,Angostura,T,*,*,T,F,0,F,SIC,Charrua 220,NoCon,NoCon,281.2060982,0,0.45,0.45,1,1,0,5.00E+04,F,0,0,50,Colbún S.A.,Colbún S.A.,Serie

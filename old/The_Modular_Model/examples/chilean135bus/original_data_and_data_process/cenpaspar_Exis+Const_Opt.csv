@@ -1,0 +1,142 @@
+CenINum,CenNom,CenFOpe,CenFecOpeIni,CenFecOpeFin,CenEmiFMDL,CenEmiFDpz,CenEmiDpz [tCO2e/GWh],CenFERNC,CenUbc,CenBar,CenPMax,CenTurRen,CenDisEne,CenFacCol,CenConPro%,CenFReg,SisRegPot,CenFInv,CenVI,CenCOMA,CenVidUti,CenEmp,CenCmr,CenAux
+1,CH Rio Huasco,T,*,*,F,F,0,T,SIC,Maitencillo 220,5.1,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+2,Los Molles,T,*,*,F,F,0,F,SIC,Pan de Azucar 220,17.95,8.8,1,1,0,T,SIC,F,0,0,50,Endesa,Endesa,Pasada
+3,Puclaro,T,*,*,T,F,0,T,SIC,Pan de Azucar 220,5.38,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+4,La Paloma,T,*,*,F,F,0,T,SIC,Pan de Azucar 220,4.42,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+5,Sauce Andes,T,*,*,F,F,0,F,SIC,Las Vegas 110,1.38,1,1,1,0,F,SIC,F,0,0,50,Generadora Sauce Andes,Generadora Sauce Andes,Pasada
+6,Hornitos,T,*,*,T,F,0,F,SIC,Las Vegas 110,60.85,5,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+7,Juncal-Juncalito,T,*,*,F,F,0,F,SIC,Polpaico 220,30.57,2.2,1,1,0,T,SIC,F,0,0,50,Hidroeléctrica Aconcagua S.A.,Hidroeléctrica Aconcagua S.A.,Pasada
+8,Blanco,T,*,*,F,F,0,F,SIC,Polpaico 220,52.9,5.76,1,1,0,T,SIC,F,0,0,50,Hidroeléctrica Aconcagua S.A.,Hidroeléctrica Aconcagua S.A.,Pasada
+9,Chacabuquito,T,*,*,T,F,0,F,SIC,Polpaico 220,25.64,1.22,1,1,0,T,SIC,F,0,0,50,Obras y Desarrollo S.A.,Obras y Desarrollo S.A.,Pasada
+10,Los Quilos,T,*,*,F,F,0,F,SIC,Polpaico 220,39.8,1.9,1,1,0,T,SIC,F,0,0,50,HGV,HGV,Pasada
+11,El Tártaro,T,*,*,F,F,0,T,SIC,Las Vegas 110,0.1,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+12,Alfalfal,T,*,*,F,F,0,F,SIC,Los Almendros 220,177.56,5.9,1,1,0,F,SIC,F,0,0,50,AesGener S.A.,AesGener S.A.,Pasada
+13,Florida,T,*,*,F,F,0,F,SIC,Los Almendros 110,28.4,1,1,1,0,F,SIC,F,0,0,50,Soc. de Canalistas del Maipo,Soc. de Canalistas del Maipo,Pasada
+14,Maitenes,T,*,*,F,F,0,F,SIC,Los Almendros 110,26.92,1,1,1,0,F,SIC,F,0,0,50,AesGener S.A.,AesGener S.A.,Pasada
+15,Volcan,T,*,*,F,F,0,F,SIC,Los Almendros 110,13,1,1,1,0,F,SIC,F,0,0,50,AesGener S.A.,AesGener S.A.,Pasada
+16,Puntilla,T,*,*,F,F,0,F,SIC,Los Almendros 110,21.7,1,1,1,0,F,SIC,F,0,0,50,E.E. Puntilla S.A.,E.E. Puntilla S.A.,Pasada
+17,Eyzaguirre,T,*,*,F,F,0,F,SIC,Los Almendros 110,1.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+18,Guayacan,T,*,*,F,F,0,T,SIC,Los Almendros 110,12,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+19,El Rincón,T,*,*,F,F,0,T,SIC,Los Almendros 110,0.284665,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+20,Los Morros,T,*,*,F,F,0,F,SIC,Alto Jahuel 110,3.1,1,1,1,0,T,SIC,F,0,0,50,Los Morros,Los Morros,Pasada
+21,Sauzal,T,*,*,F,F,0,F,SIC,Alto Jahuel 110,76.5,1,1,1,0,T,SIC,F,0,0,50,Endesa,Endesa,Pasada
+22,Mallarauco,T,*,*,F,F,0,T,SIC,Melipilla 220,3.4,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+23,Carena,T,*,*,F,F,0,F,SIC,Alto Jahuel 110,8.4,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+24,Las Vertientes,T,*,*,F,F,0,T,SIC,Los Almendros 110,1.66,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+25,El Llano,T,*,*,F,F,0,T,SIC,Los Almendros 110,1.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+26,Queltehues,T,*,*,F,F,0,F,SIC,Los Almendros 110,48.9,1,1,1,0,T,SIC,F,0,0,50,Hidroeléctrica La Confluencia S.A.,Hidroeléctrica La Confluencia S.A.,Pasada
+27,Los Bajos,T,*,*,F,F,0,T,SIC,Alto Jahuel 220,5.4725,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+28,Auxiliar del Maipo,T,*,*,F,F,0,T,SIC,Alto Jahuel 220,5.0745,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+29,Chacayes,T,*,*,F,F,0,F,SIC,Alto Jahuel 110,111.7,1.55,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+30,San Clemente,T,*,*,F,F,0,T,SIC,Alto Jahuel 220,5.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+31,La Higuera,T,*,MesJul-2018,T,F,0,F,SIC,Itahue 220,154.6,3.12,1,1,0,F,SIC,F,0,0,50,Hidroeléctrica La Higuera S.A.,Hidroeléctrica La Higuera S.A.,Pasada
+32,Confluencia,T,*,MesJul-2018,T,F,0,F,SIC,Itahue 220,162.8,3.11,1,1,0,T,SIC,F,0,0,50,Hidroeléctrica La Confluencia S.A.,Hidroeléctrica La Confluencia S.A.,Pasada
+33,San Andres,T,*,MesJul-2018,F,F,0,F,SIC,Itahue 220,40,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+34,Sauzalito,T,*,*,F,F,0,F,SIC,Alto Jahuel 110,11.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+35,Coya,T,*,*,F,F,0,T,SIC,Alto Jahuel 110,12,1.143,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+36,Lircay,T,*,*,T,F,0,T,SIC,Itahue 154,19,0.9,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+37,Mariposas,T,*,*,F,F,0,T,SIC,Itahue 154,6.3,0.32,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+38,Providencia,T,*,*,T,F,0,T,SIC,Itahue 154,14.1,0.46,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+39,Purísima,T,*,*,F,F,0,T,SIC,Itahue 154,0.42,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+40,Robleria,T,*,*,F,F,0,T,SIC,Ancoa 220,3.99,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+41,Los Hierros,T,*,*,F,F,0,F,SIC,Ancoa 220,25.06,0.95,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+42,Los Hierros 2,T,*,*,F,F,0,F,SIC,Ancoa 220,6,0.95,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+43,Peuchen,T,*,*,F,F,0,F,SIC,Charrua 220,84.9,1,1,1,0,T,SIC,F,0,0,50,Ibener S.A.,Ibener S.A.,Pasada
+44,Mampil,T,*,*,F,F,0,F,SIC,Charrua 220,54.9,1,1,1,0,T,SIC,F,0,0,50,Ibener S.A.,Ibener S.A.,Pasada
+45,Picoiquen,T,*,*,F,F,0,T,SIC,Charrua 220,19.5,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+46,Lleuquereo,T,*,*,F,F,0,T,SIC,Charrua 220,1.8,2.04,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+47,El Diuto,T,*,*,F,F,0,T,SIC,Charrua 220,3.29,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+48,Quillaileo,T,*,*,F,F,0,T,SIC,Charrua 220,0.82,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+49,Los Padres,T,*,*,F,F,0,T,SIC,Charrua 220,2.18,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+50,Boquiamargo,T,*,*,F,F,0,T,SIC,Charrua 220,1.08955,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+51,Trufultruful,T,*,*,F,F,0,T,SIC,Cautin 220,0.82,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+52,El Canelo,T,*,*,F,F,0,T,SIC,Cautin 220,6.04,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+53,Allipén,T,*,*,F,F,0,T,SIC,Cautin 220,2.6,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+54,Donguil,T,*,*,F,F,0,T,SIC,Temuco 220,0.25,2.691,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+55,Reca,T,*,*,F,F,0,T,SIC,Temuco 220,1.7,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+56,Pullinque,T,*,*,F,F,0,F,SIC,Temuco 220,51.2,0.4,1,1,0,T,SIC,F,0,0,50,Pullinque S.A.,Pullinque S.A.,Pasada
+57,El Manzano,T,*,*,F,F,0,T,SIC,Temuco 220,4.85,2.3,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+58,Rio Trueno,T,*,*,F,F,0,T,SIC,Temuco 220,5.6,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+59,Laja I,T,*,*,F,F,0,F,SIC,Charrua 220,34,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+60,Alto Renaico,T,*,*,F,F,0,T,SIC,Temuco 220,1.5,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+61,Renaico Hidro,T,*,*,F,F,0,T,SIC,Temuco 220,6.3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+62,Maisan,T,*,*,F,F,0,T,SIC,Temuco 220,0.59,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+63,María Elena,T,*,*,F,F,0,T,SIC,Rahue 220,0.29,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+64,Pilmaiquen,T,*,*,F,F,0,F,SIC,Rahue 220,40.7,0.3,1,1,0,T,SIC,F,0,0,50,Puyehue S.A.,Puyehue S.A.,Pasada
+65,Capullo,T,*,*,F,F,0,F,SIC,Rahue 220,11.8,1,1,1,0,F,SIC,F,0,0,50,E.E. Capullo S.A.,E.E. Capullo S.A.,Pasada
+66,Lican,T,*,*,F,F,0,T,SIC,Rahue 220,18,1,1,1,0,T,SIC,F,0,0,50,Ibener S.A.,Ibener S.A.,Pasada
+67,Rucatayo,T,*,*,T,F,0,F,SIC,Pichirrahue 220,59.3,0.31,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+68,CH Nalcas,T,*,*,F,F,0,T,SIC,Rahue 220,6.78,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+69,CH Callao,T,*,*,F,F,0,T,SIC,Rahue 220,3.3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+70,Pulelfu,T,*,*,F,F,0,T,SIC,Rahue 220,8.96,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+71,CH Bonito 1,T,*,*,F,F,0,T,SIC,Rahue 220,9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+72,CH Bonito 2,T,*,*,F,F,0,T,SIC,Rahue 220,3.2,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+73,Dongo,T,*,*,F,F,0,T,SIC,Chiloe 220,6,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+74,La Arena,T,*,*,F,F,0,T,SIC,Melipulli 220,6.78,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+75,Los Corrales,T,*,*,F,F,0,T,SIC,Rahue 220,0.8,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+76,Los Corrales 2,T,*,*,F,F,0,T,SIC,Rahue 220,1.03,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+77,Doña Hilda,T,*,*,F,F,0,T,SIC,Valdivia 220,0.42,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+78,Ensenada,T,*,*,F,F,0,T,SIC,Puerto Montt 220,1.2,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+79,Don Walterio,T,*,*,F,F,0,T,SIC,Rahue 220,2.95,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+80,Contra,T,*,*,F,F,0,T,SIC,Rahue 220,0.33,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+81,Pichilonco,T,*,*,F,F,0,T,SIC,Rahue 220,1.15,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+82,Collil,T,*,*,F,F,0,T,SIC,Chiloe 220,6.96,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+83,Curileufu,T,*,*,F,F,0,T,SIC,Rahue 220,0.221,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+84,Los Colonos,T,*,*,F,F,0,T,SIC,Rahue 220,0.642,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+85,Pehui,T,*,*,F,F,0,T,SIC,Rahue 220,1.1,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+86,El Arrayan,T,*,*,F,F,0,T,SIC,Rahue 220,0.15,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+87,Muchi,T,*,*,F,F,0,T,SIC,Valdivia 220,1,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+88,Las Flores,T,*,*,F,F,0,T,SIC,Valdivia 220,1.6,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+89,El Paso,T,*,MesJul-2018,F,F,0,F,SIC,Itahue 220,60,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+90,Panguipulli,T,*,*,F,F,0,T,SIC,Temuco 220,0.34,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+91,Itata,T,*,*,F,F,0,T,SIC,Charrua 220,20,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+92,Malalcahuello,T,*,*,F,F,0,T,SIC,Rio Tolten 220,9.2,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+93,Carilafquén,T,*,*,F,F,0,T,SIC,Rio Tolten 220,19.8,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+94,MCH Dosal,T,*,*,F,F,0,T,SIC,Itahue 154,0.3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+95,Mulchen,T,*,*,F,F,0,T,SIC,Charrua 220,3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+96,Munilque 1,T,*,*,F,F,0,T,SIC,Charrua 220,0.55,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+97,Munilque 2,T,*,*,F,F,0,T,SIC,Charrua 220,0.55,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+98,El Mirador,T,*,*,F,F,0,T,SIC,Charrua 220,3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+99,Trailelfu,T,*,*,F,F,0,T,SIC,Temuco 220,2.5,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+100,Bureo,T,*,*,F,F,0,T,SIC,Charrua 220,2.2,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+101,La Higuera_220,T,MesAgo-2018,*,T,F,0,F,SIC,Puente Negro 220,154.6,3.12,1,1,0,F,SIC,F,0,0,50,Hidroeléctrica La Higuera S.A.,Hidroeléctrica La Higuera S.A.,Pasada
+102,Confluencia_220,T,MesAgo-2018,*,T,F,0,F,SIC,Puente Negro 220,162.8,3.11,1,1,0,T,SIC,F,0,0,50,Hidroeléctrica La Confluencia S.A.,Hidroeléctrica La Confluencia S.A.,Pasada
+103,San Andres_220,T,MesAgo-2018,*,F,F,0,F,SIC,Puente Negro 220,40,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+104,El Paso_220,T,MesAgo-2018,*,F,F,0,F,SIC,Puente Negro 220,60,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+105,La Montaña,T,MesAgo-2016,*,F,F,0,T,SIC,Itahue 154,3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+106,Rio Colorado,T,MesEne-2017,*,F,F,0,T,SIC,Ancoa 220,15,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+107,Ancoa,T,MesSep-2017,*,F,F,0,T,SIC,Ancoa 220,27,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+108,Ñuble,T,MesJul-2022,*,F,F,0,F,SIC,Ancoa 220,136,1,1,1,0,T,SIC,F,0,5.712,50,Plan de Obra,Plan de Obra,Pasada
+109,Las Lajas,T,MesDic-2018,*,F,F,0,F,SIC,Los Almendros 220,267,4.2,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+110,Alfalfal 02,T,MesMay-2019,*,F,F,0,F,SIC,Los Almendros 220,264,9.8,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+111,San Pedro,T,MesMar-2024,*,F,F,0,F,SIC,Ciruelos 220,170,0.34,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+112,Las Nieves,T,MesFeb-2018,*,F,F,0,T,SIC,Rio Tolten 220,6.5,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+113,La Mina,T,MesMay-2017,*,F,F,0,F,SIC,Ancoa 220,34,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+114,Molinera Villarica,T,*,*,F,F,0,T,SIC,Temuco 220,2.5,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+115,El Galpon,T,*,*,F,F,0,T,SIC,Itahue 154,1.3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+116,Chanleufu,T,*,*,F,F,0,T,SIC,Rahue 220,8.4,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+117,Cumpeo,T,*,*,F,F,0,T,SIC,Itahue 220,5.76,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+118,El Agrio,T,*,*,F,F,0,T,SIC,Charrua 220,2.51,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+119,Viña Tarapacá,T,*,*,F,F,0,T,SIC,Alto Jahuel 220,0.248,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+120,Convento Viejo,T,MesFeb-2018,*,F,F,0,T,SIC,Itahue 154,16,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+121,Cumbres,T,MesJul-2018,*,F,F,0,T,SIC,Rahue 220,14.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+122,Tranquil,T,MesEne-2017,*,F,F,0,T,SIC,Temuco 220,3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+123,Dos Valles_220,T,MesAgo-2018,*,F,F,0,T,SIC,Puente Negro 220,2.95,1.54,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+124,Chanleufu 2,T,*,*,F,F,0,T,SIC,Rahue 220,3.4,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+125,Hidroriñinahue,T,*,*,F,F,0,T,SIC,Rahue 220,1,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+126,Puitel,T,*,*,F,F,0,T,SIC,Temuco 220,0.8,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+127,Dos Valles,T,MesJun-2017,MesJul-2018,F,F,0,T,SIC,Itahue 220,2.95,1.54,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+128,Arrayan,T,MesOct-2017,*,F,F,0,T,SIC,Alto Jahuel 110,1.2,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+129,Hidropalmar,T,MesFeb-2018,*,F,F,0,T,SIC,Rahue 220,13,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+130,El Pinar,T,MesAgo-2018,*,F,F,0,T,SIC,Charrua 220,11.4,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+131,Palacios,T,MesEne-2018,MesJul-2018,F,F,0,T,SIC,Itahue 220,2.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+132,Palacios_220,T,MesAgo-2018,*,F,F,0,T,SIC,Puente Negro 220,2.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+132,MSA-1,T,MesFeb-2018,*,F,F,0,T,SIC,Temuco 220,3,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+133,Caliboro,T,MesDic-2017,*,F,F,0,T,SIC,Charrua 220,1.35,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+134,La Bifurcada,T,MesDic-2017,*,F,F,1,T,SIC,Charrua 220,0.24,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+135,La Montaña 2,T,MesDic-2017,*,F,F,2,T,SIC,Itahue 154,1.9,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+136,La Viña-Alto La Viña,T,MesDic-2017,*,F,F,3,T,SIC,Charrua 220,0.55,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+137,Melo,T,MesDic-2017,*,F,F,4,T,SIC,Charrua 220,2.97,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+138,Piutel,T,MesDic-2017,*,F,F,5,T,SIC,Valdivia 220,0.56,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+139,Santa Isabel,T,MesDic-2017,*,F,F,6,T,SIC,Charrua 220,1.35,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
+140,Santa Elena,T,MesEne-2018,*,F,F,6,T,SIC,Temuco 220,2.7,1,1,1,0,T,SIC,F,0,0,50,Plan de Obra,Plan de Obra,Pasada
