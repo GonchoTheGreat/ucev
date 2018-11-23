@@ -1,7 +1,7 @@
 GEN,technology,no_load_cost,start_up_cost,shut_down_cost,variable_cost,min_down_time,min_up_time,gen_p_min,gen_p_max,ramp_up,ramp_down,start_up_ramp,shut_down_ramp,gen_zone,gen_is_variable,fuel_cost_is_variable
-G1,coal,500,400,0,1,6,4,150,455,2,2,150,3,N,TRUE,FALSE
-G2,coal,806,400,0,0,6,4,150,455,2,2,150,3,N,FALSE,TRUE
+G1,coal,500,400,0,100,6,4,150,455,455,455,150,3,N,TRUE,FALSE
+G2,coal,806,400,0,200,6,4,150,455,455,455,150,3,N,FALSE,TRUE
 G3,hydro,1.00E+14,1.00E+14,1.00E+14,1.00E+14,2,2,0,1,2,2,3,5,S,FALSE,TRUE
 G4,hydro,1.00E+14,1.00E+14,1.00E+14,1.00E+14,2,2,0,1,2,2,3,5,S,FALSE,TRUE
-G5,coal,400,400,0,0,6,4,130,300,2,2,130,3,N,FALSE,FALSE
-G6,coal,400,400,0,0,6,4,130,300,2,2,130,3,N,FALSE,FALSE
+G5,coal,400,400,0,150,6,4,130,300,300,300,130,3,N,FALSE,FALSE
+G6,coal,400,400,0,80,6,4,130,300,300,300,130,3,N,FALSE,FALSE
